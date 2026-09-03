@@ -1,0 +1,32 @@
+name: Daily Puzzle Generation
+
+on:
+  schedule:
+    # 10:00 UTC daily (~3am PT / 6am ET) — adjust to taste, keeping it before your
+    # own morning so the puzzle is ready when you open the page.
+    - cron: "0 10 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate today's puzzle bundle
+        run: python runner.py
+
+      - name: Commit and push if a new bundle was generated
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/puzzles
+          git diff --cached --quiet || git commit -m "Add puzzle bundle for $(date -u +%F)"
+          git push

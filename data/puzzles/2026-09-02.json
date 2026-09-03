@@ -1,0 +1,445 @@
+{
+  "date": "2026-09-02",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        1,
+        0,
+        0,
+        5,
+        9,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        3,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8
+      ],
+      [
+        2,
+        0,
+        0,
+        1,
+        7,
+        0,
+        8,
+        0,
+        0
+      ],
+      [
+        3,
+        4,
+        0,
+        9,
+        0,
+        2,
+        5,
+        0,
+        0
+      ],
+      [
+        7,
+        0,
+        8,
+        0,
+        0,
+        5,
+        4,
+        0,
+        0
+      ],
+      [
+        6,
+        0,
+        0,
+        2,
+        5,
+        7,
+        3,
+        4,
+        0
+      ],
+      [
+        4,
+        5,
+        0,
+        0,
+        0,
+        0,
+        7,
+        8,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        1,
+        2,
+        4,
+        5,
+        9,
+        8,
+        6,
+        3,
+        7
+      ],
+      [
+        8,
+        6,
+        3,
+        7,
+        2,
+        1,
+        9,
+        5,
+        4
+      ],
+      [
+        5,
+        7,
+        9,
+        4,
+        6,
+        3,
+        1,
+        2,
+        8
+      ],
+      [
+        2,
+        9,
+        5,
+        1,
+        7,
+        4,
+        8,
+        6,
+        3
+      ],
+      [
+        3,
+        4,
+        6,
+        9,
+        8,
+        2,
+        5,
+        7,
+        1
+      ],
+      [
+        7,
+        1,
+        8,
+        6,
+        3,
+        5,
+        4,
+        9,
+        2
+      ],
+      [
+        6,
+        8,
+        1,
+        2,
+        5,
+        7,
+        3,
+        4,
+        9
+      ],
+      [
+        4,
+        5,
+        2,
+        3,
+        1,
+        9,
+        7,
+        8,
+        6
+      ],
+      [
+        9,
+        3,
+        7,
+        8,
+        4,
+        6,
+        2,
+        1,
+        5
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1down",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "length": 3,
+        "answer": "NUN",
+        "clue": "Religious sister"
+      },
+      {
+        "id": "2across",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "RIB",
+        "clue": "Curved bone in the chest"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "RIVAL",
+        "clue": "Competitor"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "length": 4,
+        "answer": "ITEM",
+        "clue": "Individual object"
+      },
+      {
+        "id": "4across",
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "UNIT",
+        "clue": "Single item, or a measure"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "direction": "down",
+        "length": 4,
+        "answer": "NOSE",
+        "clue": "Organ used for smelling"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "NOVEL",
+        "clue": "Long fictional book"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 4,
+        "direction": "down",
+        "length": 3,
+        "answer": "LEG",
+        "clue": "Limb used for walking"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "SAME",
+        "clue": "Identical"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "GEL",
+        "clue": "Styling product for hair"
+      }
+    ],
+    "solution_grid": [
+      [
+        "N",
+        "#",
+        "R",
+        "I",
+        "B"
+      ],
+      [
+        "U",
+        "N",
+        "I",
+        "T",
+        "#"
+      ],
+      [
+        "N",
+        "O",
+        "V",
+        "E",
+        "L"
+      ],
+      [
+        "#",
+        "S",
+        "A",
+        "M",
+        "E"
+      ],
+      [
+        "G",
+        "E",
+        "L",
+        "#",
+        "G"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Unhappy, buried in the tourists admired the old cathedral (3)",
+        "answer": "SAD",
+        "wordplay_type": "hidden_word",
+        "explanation": "SAD is hidden in \"the tourists admired the old cathedral\" (letters 11-13 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Season after winter; also Coiled metal device (6)",
+        "answer": "SPRING",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Season after winter\" and \"Coiled metal device\" are definitions of SPRING."
+      },
+      {
+        "clue": "Organ that pumps blood, gone wrong: ather (5)",
+        "answer": "HEART",
+        "wordplay_type": "anagram",
+        "explanation": "\"ather\" is an anagram of HEART (the word \"gone wrong\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Where you sleep, hidden in the historian described ancient civilizations (3)",
+        "answer": "BED",
+        "wordplay_type": "hidden_word",
+        "explanation": "BED is hidden in \"the historian described ancient civilizations\" (letters 19-21 of the phrase with spaces removed)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Tree nuts",
+        "words": [
+          "ALMOND",
+          "CASHEW",
+          "PECAN",
+          "WALNUT"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Zodiac signs",
+        "words": [
+          "ARIES",
+          "TAURUS",
+          "GEMINI",
+          "LEO"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Varieties of tea",
+        "words": [
+          "GREEN",
+          "BLACK",
+          "HERBAL",
+          "CHAI"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Kitchen utensils",
+        "words": [
+          "SPATULA",
+          "WHISK",
+          "LADLE",
+          "TONGS"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}

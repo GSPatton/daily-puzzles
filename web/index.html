@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Puzzle Freaks</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="masthead">
+  <button class="theme-toggle" id="theme-toggle">Toggle theme</button>
+  <h1>Puzzle Freaks</h1>
+  <div class="dateline" id="dateline">&nbsp;</div>
+  <hr class="rule">
+</header>
+
+<div class="streak-banner" id="streak-banner">&nbsp;</div>
+
+<nav class="tabs" id="tabs">
+  <button data-tab="sudoku" class="active">Sudoku</button>
+  <button data-tab="mini_crossword">Mini Crossword</button>
+  <button data-tab="cryptic_clues">Cryptic Clues</button>
+  <button data-tab="connections">Connections</button>
+</nav>
+
+<main>
+  <section class="panel active" id="panel-sudoku">
+    <div class="panel-header">
+      <h2>Sudoku</h2>
+      <span class="timer" id="sudoku-timer">0:00</span>
+    </div>
+    <table id="sudoku-grid"></table>
+    <div class="controls">
+      <button class="action primary" id="sudoku-check">Check</button>
+      <button class="action" id="sudoku-hint">Reveal a cell</button>
+      <button class="action" id="sudoku-reveal">Reveal solution</button>
+    </div>
+    <p class="result-msg" id="sudoku-result"></p>
+  </section>
+
+  <section class="panel" id="panel-mini_crossword">
+    <div class="panel-header">
+      <h2>Mini Crossword</h2>
+      <span class="timer" id="crossword-timer">0:00</span>
+    </div>
+    <table id="crossword-grid"></table>
+    <div class="controls">
+      <button class="action primary" id="crossword-check">Check</button>
+      <button class="action" id="crossword-hint">Reveal a cell</button>
+      <button class="action" id="crossword-reveal">Reveal solution</button>
+    </div>
+    <p class="result-msg" id="crossword-result"></p>
+    <div class="clue-lists">
+      <div class="clue-column">
+        <h3>Across</h3>
+        <ul class="clue-list" id="clues-across"></ul>
+      </div>
+      <div class="clue-column">
+        <h3>Down</h3>
+        <ul class="clue-list" id="clues-down"></ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="panel" id="panel-cryptic_clues">
+    <div class="panel-header">
+      <h2>Cryptic Clues</h2>
+      <span class="timer" id="cryptic-timer">0:00</span>
+    </div>
+    <ul class="cryptic-list" id="cryptic-list"></ul>
+  </section>
+
+  <section class="panel" id="panel-connections">
+    <div class="panel-header">
+      <h2>Connections</h2>
+      <span class="timer" id="connections-timer">0:00</span>
+    </div>
+    <div id="connections-solved"></div>
+    <div class="connections-grid" id="connections-grid"></div>
+    <div class="controls">
+      <span class="mistakes" id="connections-mistakes"></span>
+    </div>
+    <div class="controls">
+      <button class="action primary" id="connections-submit">Submit</button>
+      <button class="action" id="connections-deselect">Deselect all</button>
+    </div>
+    <p class="result-msg" id="connections-result"></p>
+  </section>
+</main>
+
+<footer>
+  <a href="archive.html">Archive</a>
+</footer>
+
+<script src="progress.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

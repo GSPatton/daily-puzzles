@@ -1,0 +1,445 @@
+{
+  "date": "2026-09-03",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        0,
+        0,
+        1,
+        0,
+        5,
+        3,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        2,
+        6,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        6,
+        0,
+        0,
+        9,
+        5,
+        1
+      ],
+      [
+        0,
+        0,
+        6,
+        0,
+        5,
+        7,
+        1,
+        4,
+        0
+      ],
+      [
+        0,
+        0,
+        9,
+        0,
+        4,
+        0,
+        0,
+        8,
+        0
+      ],
+      [
+        4,
+        3,
+        0,
+        0,
+        6,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        4,
+        0,
+        3,
+        8,
+        0,
+        0
+      ],
+      [
+        8,
+        0,
+        0,
+        5,
+        9,
+        0,
+        0,
+        0,
+        2
+      ]
+    ],
+    "solution": [
+      [
+        6,
+        9,
+        2,
+        1,
+        8,
+        5,
+        3,
+        7,
+        4
+      ],
+      [
+        5,
+        1,
+        7,
+        9,
+        3,
+        4,
+        2,
+        6,
+        8
+      ],
+      [
+        3,
+        4,
+        8,
+        6,
+        7,
+        2,
+        9,
+        5,
+        1
+      ],
+      [
+        2,
+        8,
+        6,
+        3,
+        5,
+        7,
+        1,
+        4,
+        9
+      ],
+      [
+        7,
+        5,
+        9,
+        2,
+        4,
+        1,
+        6,
+        8,
+        3
+      ],
+      [
+        4,
+        3,
+        1,
+        8,
+        6,
+        9,
+        7,
+        2,
+        5
+      ],
+      [
+        9,
+        2,
+        4,
+        7,
+        1,
+        8,
+        5,
+        3,
+        6
+      ],
+      [
+        1,
+        6,
+        5,
+        4,
+        2,
+        3,
+        8,
+        9,
+        7
+      ],
+      [
+        8,
+        7,
+        3,
+        5,
+        9,
+        6,
+        4,
+        1,
+        2
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "BATH",
+        "clue": "Wash in a tub"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "APPLE",
+        "clue": "Fruit that keeps the doctor away"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "length": 3,
+        "answer": "TIE",
+        "clue": "Neckwear, or a drawn match"
+      },
+      {
+        "id": "4down",
+        "number": 4,
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "length": 4,
+        "answer": "HERO",
+        "clue": "Brave central character"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "length": 4,
+        "answer": "SPOT",
+        "clue": "Small mark, or a location"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 1,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "PIE",
+        "clue": "Baked dessert with a crust"
+      },
+      {
+        "id": "7across",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "PAPER",
+        "clue": "Thin material for writing"
+      },
+      {
+        "id": "8down",
+        "number": 8,
+        "row": 2,
+        "col": 1,
+        "direction": "down",
+        "length": 3,
+        "answer": "AIR",
+        "clue": "What you breathe"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "OIL",
+        "clue": "Slippery liquid used for cooking or fuel"
+      },
+      {
+        "id": "10across",
+        "number": 10,
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "TREE",
+        "clue": "Tall plant with a trunk"
+      }
+    ],
+    "solution_grid": [
+      [
+        "#",
+        "B",
+        "A",
+        "T",
+        "H"
+      ],
+      [
+        "S",
+        "#",
+        "P",
+        "I",
+        "E"
+      ],
+      [
+        "P",
+        "A",
+        "P",
+        "E",
+        "R"
+      ],
+      [
+        "O",
+        "I",
+        "L",
+        "#",
+        "O"
+      ],
+      [
+        "T",
+        "R",
+        "E",
+        "E",
+        "#"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Common greeting, mixed up: oellh (5)",
+        "answer": "HELLO",
+        "wordplay_type": "anagram",
+        "explanation": "\"oellh\" is an anagram of HELLO (the word \"mixed up\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "To rush forward; also A fee, or a criminal accusation (6)",
+        "answer": "CHARGE",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"To rush forward\" and \"A fee, or a criminal accusation\" are definitions of CHARGE."
+      },
+      {
+        "clue": "Above, or finished, found within an unusual pattern emerged overnight (4)",
+        "answer": "OVER",
+        "wordplay_type": "hidden_word",
+        "explanation": "OVER is hidden in \"an unusual pattern emerged overnight\" (letters 24-27 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "To have clothing on, in a mess: aewr (4)",
+        "answer": "WEAR",
+        "wordplay_type": "anagram",
+        "explanation": "\"aewr\" is an anagram of WEAR (the word \"in a mess\" signals the letters are rearranged)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Precious gems",
+        "words": [
+          "RUBY",
+          "EMERALD",
+          "SAPPHIRE",
+          "TOPAZ"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Big cats",
+        "words": [
+          "LION",
+          "TIGER",
+          "LEOPARD",
+          "CHEETAH"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Weather phenomena",
+        "words": [
+          "RAIN",
+          "HAIL",
+          "FOG",
+          "SLEET"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Board games",
+        "words": [
+          "CHESS",
+          "MONOPOLY",
+          "SCRABBLE",
+          "CLUEDO"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}

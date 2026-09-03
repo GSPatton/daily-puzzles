@@ -1,0 +1,445 @@
+{
+  "date": "2026-09-01",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        3,
+        4
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        9
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        6,
+        9,
+        8,
+        5,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        9,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        8,
+        3,
+        0,
+        2,
+        6,
+        0,
+        7,
+        0
+      ],
+      [
+        0,
+        6,
+        0,
+        1,
+        0,
+        4,
+        0,
+        0,
+        8
+      ],
+      [
+        5,
+        7,
+        0,
+        0,
+        0,
+        8,
+        0,
+        0,
+        6
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        6,
+        0,
+        4,
+        2,
+        0,
+        0,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        6,
+        9,
+        7,
+        2,
+        8,
+        5,
+        1,
+        3,
+        4
+      ],
+      [
+        2,
+        5,
+        8,
+        4,
+        3,
+        1,
+        7,
+        6,
+        9
+      ],
+      [
+        3,
+        1,
+        4,
+        7,
+        6,
+        9,
+        8,
+        5,
+        2
+      ],
+      [
+        7,
+        2,
+        1,
+        8,
+        9,
+        3,
+        6,
+        4,
+        5
+      ],
+      [
+        4,
+        8,
+        3,
+        5,
+        2,
+        6,
+        9,
+        7,
+        1
+      ],
+      [
+        9,
+        6,
+        5,
+        1,
+        7,
+        4,
+        3,
+        2,
+        8
+      ],
+      [
+        5,
+        7,
+        2,
+        3,
+        1,
+        8,
+        4,
+        9,
+        6
+      ],
+      [
+        1,
+        4,
+        9,
+        6,
+        5,
+        7,
+        2,
+        8,
+        3
+      ],
+      [
+        8,
+        3,
+        6,
+        9,
+        4,
+        2,
+        5,
+        1,
+        7
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "STAY",
+        "clue": "To remain"
+      },
+      {
+        "id": "1down",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "length": 4,
+        "answer": "SOUP",
+        "clue": "Warm liquid dish, often with vegetables"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "length": 3,
+        "answer": "TIN",
+        "clue": "Silvery metal, or a small can"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "ALIVE",
+        "clue": "Living"
+      },
+      {
+        "id": "4across",
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "OIL",
+        "clue": "Slippery liquid used for cooking or fuel"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 4,
+        "direction": "down",
+        "length": 4,
+        "answer": "SENT",
+        "clue": "Past tense of send"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "UNITE",
+        "clue": "To join together"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "length": 3,
+        "answer": "TAX",
+        "clue": "Mandatory payment to the government"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "VAN",
+        "clue": "Boxy vehicle for hauling"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "TEXT",
+        "clue": "Written words, or a phone message"
+      }
+    ],
+    "solution_grid": [
+      [
+        "S",
+        "T",
+        "A",
+        "Y",
+        "#"
+      ],
+      [
+        "O",
+        "I",
+        "L",
+        "#",
+        "S"
+      ],
+      [
+        "U",
+        "N",
+        "I",
+        "T",
+        "E"
+      ],
+      [
+        "P",
+        "#",
+        "V",
+        "A",
+        "N"
+      ],
+      [
+        "#",
+        "T",
+        "E",
+        "X",
+        "T"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Grainy material found on beaches, gone wrong: dnas (4)",
+        "answer": "SAND",
+        "wordplay_type": "anagram",
+        "explanation": "\"dnas\" is an anagram of SAND (the word \"gone wrong\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "To happen, hidden in a brilliant idea occurred to her suddenly (5)",
+        "answer": "OCCUR",
+        "wordplay_type": "hidden_word",
+        "explanation": "OCCUR is hidden in \"a brilliant idea occurred to her suddenly\" (letters 15-19 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Neckwear; also A drawn match (3)",
+        "answer": "TIE",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Neckwear\" and \"A drawn match\" are definitions of TIE."
+      },
+      {
+        "clue": "To exchange for money, shuffled: slle (4)",
+        "answer": "SELL",
+        "wordplay_type": "anagram",
+        "explanation": "\"slle\" is an anagram of SELL (the word \"shuffled\" signals the letters are rearranged)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Big cats",
+        "words": [
+          "LION",
+          "TIGER",
+          "LEOPARD",
+          "CHEETAH"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Ocean creatures",
+        "words": [
+          "WHALE",
+          "SHARK",
+          "OCTOPUS",
+          "DOLPHIN"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "___light",
+        "words": [
+          "MOON",
+          "SUN",
+          "DAY",
+          "LIME"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Varieties of tea",
+        "words": [
+          "GREEN",
+          "BLACK",
+          "HERBAL",
+          "CHAI"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
