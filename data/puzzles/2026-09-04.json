@@ -1,0 +1,445 @@
+{
+  "date": "2026-09-04",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        0,
+        0,
+        3,
+        4,
+        8,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        7,
+        2,
+        1,
+        0,
+        0,
+        9,
+        3
+      ],
+      [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        0,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        9,
+        0,
+        0,
+        7,
+        6,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        8,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        9,
+        1,
+        0,
+        8,
+        3,
+        0,
+        4,
+        0,
+        6
+      ],
+      [
+        0,
+        7,
+        0,
+        0,
+        0,
+        0,
+        3,
+        8,
+        9
+      ],
+      [
+        0,
+        3,
+        6,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        5,
+        9,
+        1,
+        3,
+        4,
+        8,
+        7,
+        6,
+        2
+      ],
+      [
+        4,
+        8,
+        7,
+        2,
+        1,
+        6,
+        5,
+        9,
+        3
+      ],
+      [
+        6,
+        2,
+        3,
+        7,
+        9,
+        5,
+        8,
+        1,
+        4
+      ],
+      [
+        1,
+        5,
+        8,
+        6,
+        2,
+        4,
+        9,
+        3,
+        7
+      ],
+      [
+        3,
+        4,
+        9,
+        1,
+        5,
+        7,
+        6,
+        2,
+        8
+      ],
+      [
+        7,
+        6,
+        2,
+        9,
+        8,
+        3,
+        1,
+        4,
+        5
+      ],
+      [
+        9,
+        1,
+        5,
+        8,
+        3,
+        2,
+        4,
+        7,
+        6
+      ],
+      [
+        2,
+        7,
+        4,
+        5,
+        6,
+        1,
+        3,
+        8,
+        9
+      ],
+      [
+        8,
+        3,
+        6,
+        4,
+        7,
+        9,
+        2,
+        5,
+        1
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "SPOT",
+        "clue": "Small mark, or a location"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "PAPER",
+        "clue": "Thin material for writing"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "length": 3,
+        "answer": "OIL",
+        "clue": "Slippery liquid used for cooking or fuel"
+      },
+      {
+        "id": "4down",
+        "number": 4,
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "length": 4,
+        "answer": "TREE",
+        "clue": "Tall plant with a trunk"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "length": 4,
+        "answer": "PATH",
+        "clue": "Track or trail to walk on"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 1,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "AIR",
+        "clue": "What you breathe"
+      },
+      {
+        "id": "7across",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "APPLE",
+        "clue": "Fruit that keeps the doctor away"
+      },
+      {
+        "id": "8down",
+        "number": 8,
+        "row": 2,
+        "col": 1,
+        "direction": "down",
+        "length": 3,
+        "answer": "PIE",
+        "clue": "Baked dessert with a crust"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "TIE",
+        "clue": "Neckwear, or a drawn match"
+      },
+      {
+        "id": "10across",
+        "number": 10,
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "HERO",
+        "clue": "Brave central character"
+      }
+    ],
+    "solution_grid": [
+      [
+        "#",
+        "S",
+        "P",
+        "O",
+        "T"
+      ],
+      [
+        "P",
+        "#",
+        "A",
+        "I",
+        "R"
+      ],
+      [
+        "A",
+        "P",
+        "P",
+        "L",
+        "E"
+      ],
+      [
+        "T",
+        "I",
+        "E",
+        "#",
+        "E"
+      ],
+      [
+        "H",
+        "E",
+        "R",
+        "O",
+        "#"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Container for trash, confused: inb (3)",
+        "answer": "BIN",
+        "wordplay_type": "anagram",
+        "explanation": "\"inb\" is an anagram of BIN (the word \"confused\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Season after winter; also Coiled metal device (6)",
+        "answer": "SPRING",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Season after winter\" and \"Coiled metal device\" are definitions of SPRING."
+      },
+      {
+        "clue": "Fortified military post, hidden in the orchestra rehearsed for the concert (4)",
+        "answer": "FORT",
+        "wordplay_type": "hidden_word",
+        "explanation": "FORT is hidden in \"the orchestra rehearsed for the concert\" (letters 22-25 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Unit of weight, or to strike repeatedly, in a mess: puodn (5)",
+        "answer": "POUND",
+        "wordplay_type": "anagram",
+        "explanation": "\"puodn\" is an anagram of POUND (the word \"in a mess\" signals the letters are rearranged)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Card suits",
+        "words": [
+          "HEARTS",
+          "CLUBS",
+          "SPADES",
+          "DIAMONDS"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Types of pasta",
+        "words": [
+          "PENNE",
+          "FUSILLI",
+          "SPAGHETTI",
+          "RAVIOLI"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Types of shoes",
+        "words": [
+          "SNEAKER",
+          "SANDAL",
+          "BOOT",
+          "LOAFER"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Precious gems",
+        "words": [
+          "RUBY",
+          "EMERALD",
+          "SAPPHIRE",
+          "TOPAZ"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
