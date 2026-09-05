@@ -1,0 +1,445 @@
+{
+  "date": "2026-09-05",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        7,
+        3,
+        0,
+        2
+      ],
+      [
+        0,
+        2,
+        7,
+        0,
+        1,
+        0,
+        9,
+        0,
+        6
+      ],
+      [
+        9,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        7,
+        0,
+        0,
+        0,
+        9,
+        0,
+        4,
+        3
+      ],
+      [
+        3,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        4,
+        0,
+        3,
+        6,
+        0,
+        0,
+        1
+      ],
+      [
+        7,
+        6,
+        0,
+        0,
+        0,
+        0,
+        8,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        9,
+        5,
+        0,
+        0,
+        0,
+        7,
+        4
+      ]
+    ],
+    "solution": [
+      [
+        6,
+        4,
+        5,
+        9,
+        8,
+        7,
+        3,
+        1,
+        2
+      ],
+      [
+        8,
+        2,
+        7,
+        4,
+        1,
+        3,
+        9,
+        5,
+        6
+      ],
+      [
+        9,
+        1,
+        3,
+        6,
+        2,
+        5,
+        4,
+        8,
+        7
+      ],
+      [
+        2,
+        7,
+        1,
+        8,
+        5,
+        9,
+        6,
+        4,
+        3
+      ],
+      [
+        3,
+        9,
+        6,
+        7,
+        4,
+        1,
+        5,
+        2,
+        8
+      ],
+      [
+        5,
+        8,
+        4,
+        2,
+        3,
+        6,
+        7,
+        9,
+        1
+      ],
+      [
+        7,
+        6,
+        2,
+        1,
+        9,
+        4,
+        8,
+        3,
+        5
+      ],
+      [
+        4,
+        5,
+        8,
+        3,
+        7,
+        2,
+        1,
+        6,
+        9
+      ],
+      [
+        1,
+        3,
+        9,
+        5,
+        6,
+        8,
+        2,
+        7,
+        4
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "STAR",
+        "clue": "Twinkling object in the night sky"
+      },
+      {
+        "id": "1down",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "length": 4,
+        "answer": "SOUP",
+        "clue": "Warm liquid dish, often with vegetables"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "length": 3,
+        "answer": "TIN",
+        "clue": "Silvery metal, or a small can"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "ALIVE",
+        "clue": "Living"
+      },
+      {
+        "id": "4across",
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "OIL",
+        "clue": "Slippery liquid used for cooking or fuel"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 4,
+        "direction": "down",
+        "length": 4,
+        "answer": "SEND",
+        "clue": "To dispatch"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "UNITE",
+        "clue": "To join together"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "length": 3,
+        "answer": "TAN",
+        "clue": "Brown skin tone from the sun"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "VAN",
+        "clue": "Boxy vehicle for hauling"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "LEND",
+        "clue": "To loan"
+      }
+    ],
+    "solution_grid": [
+      [
+        "S",
+        "T",
+        "A",
+        "R",
+        "#"
+      ],
+      [
+        "O",
+        "I",
+        "L",
+        "#",
+        "S"
+      ],
+      [
+        "U",
+        "N",
+        "I",
+        "T",
+        "E"
+      ],
+      [
+        "P",
+        "#",
+        "V",
+        "A",
+        "N"
+      ],
+      [
+        "#",
+        "L",
+        "E",
+        "N",
+        "D"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "To go upward, scrambled: seir (4)",
+        "answer": "RISE",
+        "wordplay_type": "anagram",
+        "explanation": "\"seir\" is an anagram of RISE (the word \"scrambled\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "To throw a ball; also A playing field, or a musical tone (5)",
+        "answer": "PITCH",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"To throw a ball\" and \"A playing field, or a musical tone\" are definitions of PITCH."
+      },
+      {
+        "clue": "Swindle, or a downside, found within the orchestra rehearsed for the concert (3)",
+        "answer": "CON",
+        "wordplay_type": "hidden_word",
+        "explanation": "CON is hidden in \"the orchestra rehearsed for the concert\" (letters 28-30 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Joint in the middle of the arm, rearranged: lowbe (5)",
+        "answer": "ELBOW",
+        "wordplay_type": "anagram",
+        "explanation": "\"lowbe\" is an anagram of ELBOW (the word \"rearranged\" signals the letters are rearranged)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Board games",
+        "words": [
+          "CHESS",
+          "MONOPOLY",
+          "SCRABBLE",
+          "CLUEDO"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "___light",
+        "words": [
+          "MOON",
+          "SUN",
+          "DAY",
+          "LIME"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Kitchen appliances",
+        "words": [
+          "OVEN",
+          "TOASTER",
+          "BLENDER",
+          "FRIDGE"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Types of bread",
+        "words": [
+          "RYE",
+          "SOURDOUGH",
+          "BAGUETTE",
+          "PITA"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
