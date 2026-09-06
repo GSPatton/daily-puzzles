@@ -1,0 +1,445 @@
+{
+  "date": "2026-09-06",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        1,
+        5,
+        0
+      ],
+      [
+        0,
+        5,
+        0,
+        0,
+        7,
+        0,
+        9,
+        0,
+        2
+      ],
+      [
+        9,
+        0,
+        2,
+        0,
+        0,
+        4,
+        0,
+        0,
+        3
+      ],
+      [
+        5,
+        0,
+        0,
+        4,
+        2,
+        6,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        9,
+        8,
+        5,
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        3,
+        0,
+        0,
+        9,
+        0,
+        7,
+        2,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        4,
+        0,
+        5,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        7,
+        9,
+        8,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        8,
+        3,
+        7,
+        2,
+        6,
+        9,
+        1,
+        5,
+        4
+      ],
+      [
+        4,
+        5,
+        6,
+        3,
+        7,
+        1,
+        9,
+        8,
+        2
+      ],
+      [
+        9,
+        1,
+        2,
+        5,
+        8,
+        4,
+        6,
+        7,
+        3
+      ],
+      [
+        5,
+        7,
+        1,
+        4,
+        2,
+        6,
+        8,
+        3,
+        9
+      ],
+      [
+        6,
+        2,
+        9,
+        8,
+        5,
+        3,
+        4,
+        1,
+        7
+      ],
+      [
+        3,
+        8,
+        4,
+        9,
+        1,
+        7,
+        2,
+        6,
+        5
+      ],
+      [
+        7,
+        6,
+        3,
+        1,
+        4,
+        2,
+        5,
+        9,
+        8
+      ],
+      [
+        1,
+        4,
+        5,
+        7,
+        9,
+        8,
+        3,
+        2,
+        6
+      ],
+      [
+        2,
+        9,
+        8,
+        6,
+        3,
+        5,
+        7,
+        4,
+        1
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        1
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "TUB",
+        "clue": "Bathing basin"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "length": 4,
+        "answer": "USED",
+        "clue": "Not new"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "BEGIN",
+        "clue": "To start"
+      },
+      {
+        "id": "4down",
+        "number": 4,
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "length": 3,
+        "answer": "ILL",
+        "clue": "Sick"
+      },
+      {
+        "id": "5across",
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "SELL",
+        "clue": "To exchange for money"
+      },
+      {
+        "id": "6down",
+        "number": 6,
+        "row": 1,
+        "col": 3,
+        "direction": "down",
+        "length": 4,
+        "answer": "LATE",
+        "clue": "Not on time"
+      },
+      {
+        "id": "7across",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "LEGAL",
+        "clue": "Permitted by law"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "down",
+        "length": 3,
+        "answer": "LEG",
+        "clue": "Limb used for walking"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "EDIT",
+        "clue": "To revise text"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "NEW",
+        "clue": "Not old"
+      }
+    ],
+    "solution_grid": [
+      [
+        "T",
+        "U",
+        "B",
+        "#",
+        "I"
+      ],
+      [
+        "#",
+        "S",
+        "E",
+        "L",
+        "L"
+      ],
+      [
+        "L",
+        "E",
+        "G",
+        "A",
+        "L"
+      ],
+      [
+        "E",
+        "D",
+        "I",
+        "T",
+        "#"
+      ],
+      [
+        "G",
+        "#",
+        "N",
+        "E",
+        "W"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "A sports trainer; also A long-distance bus (5)",
+        "answer": "COACH",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"A sports trainer\" and \"A long-distance bus\" are definitions of COACH."
+      },
+      {
+        "clue": "To measure heaviness, confused: ihgwe (5)",
+        "answer": "WEIGH",
+        "wordplay_type": "anagram",
+        "explanation": "\"ihgwe\" is an anagram of WEIGH (the word \"confused\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Immoral act, part of several factors influenced the decision (3)",
+        "answer": "SIN",
+        "wordplay_type": "hidden_word",
+        "explanation": "SIN is hidden in \"several factors influenced the decision\" (letters 14-16 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "A platform for performing; also A phase in a process (5)",
+        "answer": "STAGE",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"A platform for performing\" and \"A phase in a process\" are definitions of STAGE."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Types of clouds",
+        "words": [
+          "CUMULUS",
+          "STRATUS",
+          "CIRRUS",
+          "NIMBUS"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Insects",
+        "words": [
+          "BEETLE",
+          "CRICKET",
+          "MANTIS",
+          "MOTH"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Kitchen appliances",
+        "words": [
+          "OVEN",
+          "TOASTER",
+          "BLENDER",
+          "FRIDGE"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Weather phenomena",
+        "words": [
+          "RAIN",
+          "HAIL",
+          "FOG",
+          "SLEET"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
