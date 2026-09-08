@@ -1,0 +1,445 @@
+{
+  "date": "2026-09-08",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        3,
+        4,
+        5,
+        0,
+        0,
+        2,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        8,
+        4
+      ],
+      [
+        0,
+        8,
+        2,
+        0,
+        4,
+        0,
+        9,
+        6,
+        0
+      ],
+      [
+        0,
+        1,
+        6,
+        2,
+        0,
+        0,
+        0,
+        7,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        8
+      ],
+      [
+        7,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        6,
+        4,
+        5,
+        7,
+        0,
+        0,
+        8,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        0,
+        8,
+        5,
+        3,
+        4,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        9,
+        3,
+        4,
+        5,
+        8,
+        6,
+        2,
+        1,
+        7
+      ],
+      [
+        5,
+        6,
+        7,
+        9,
+        1,
+        2,
+        3,
+        8,
+        4
+      ],
+      [
+        1,
+        8,
+        2,
+        3,
+        4,
+        7,
+        9,
+        6,
+        5
+      ],
+      [
+        4,
+        1,
+        6,
+        2,
+        3,
+        8,
+        5,
+        7,
+        9
+      ],
+      [
+        3,
+        2,
+        9,
+        1,
+        7,
+        5,
+        6,
+        4,
+        8
+      ],
+      [
+        7,
+        5,
+        8,
+        4,
+        6,
+        9,
+        1,
+        3,
+        2
+      ],
+      [
+        6,
+        4,
+        5,
+        7,
+        9,
+        1,
+        8,
+        2,
+        3
+      ],
+      [
+        2,
+        7,
+        1,
+        8,
+        5,
+        3,
+        4,
+        9,
+        6
+      ],
+      [
+        8,
+        9,
+        3,
+        6,
+        2,
+        4,
+        7,
+        5,
+        1
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "SAFE",
+        "clue": "Free from danger, or a lockbox"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "ALONE",
+        "clue": "By oneself"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "length": 3,
+        "answer": "FIN",
+        "clue": "Helps a fish swim"
+      },
+      {
+        "id": "4down",
+        "number": 4,
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "length": 4,
+        "answer": "EDGE",
+        "clue": "Outer boundary"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "length": 4,
+        "answer": "PASS",
+        "clue": "To go by, or to succeed a test"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 1,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "LID",
+        "clue": "Cover for a jar"
+      },
+      {
+        "id": "7across",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "ALONG",
+        "clue": "In line with"
+      },
+      {
+        "id": "8down",
+        "number": 8,
+        "row": 2,
+        "col": 1,
+        "direction": "down",
+        "length": 3,
+        "answer": "LOT",
+        "clue": "A great deal, or a parcel of land"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "SON",
+        "clue": "Male child"
+      },
+      {
+        "id": "10across",
+        "number": 10,
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "STEM",
+        "clue": "Plant's main stalk"
+      }
+    ],
+    "solution_grid": [
+      [
+        "#",
+        "S",
+        "A",
+        "F",
+        "E"
+      ],
+      [
+        "P",
+        "#",
+        "L",
+        "I",
+        "D"
+      ],
+      [
+        "A",
+        "L",
+        "O",
+        "N",
+        "G"
+      ],
+      [
+        "S",
+        "O",
+        "N",
+        "#",
+        "E"
+      ],
+      [
+        "S",
+        "T",
+        "E",
+        "M",
+        "#"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Bottom surface of a room, shuffled: oorlf (5)",
+        "answer": "FLOOR",
+        "wordplay_type": "anagram",
+        "explanation": "\"oorlf\" is an anagram of FLOOR (the word \"shuffled\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Taxi, hidden in the cabinet minister gave a speech (3)",
+        "answer": "CAB",
+        "wordplay_type": "hidden_word",
+        "explanation": "CAB is hidden in \"the cabinet minister gave a speech\" (letters 4-6 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Furniture with a flat top; also To postpone discussion of (5)",
+        "answer": "TABLE",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Furniture with a flat top\" and \"To postpone discussion of\" are definitions of TABLE."
+      },
+      {
+        "clue": "Route or method, gone wrong: wya (3)",
+        "answer": "WAY",
+        "wordplay_type": "anagram",
+        "explanation": "\"wya\" is an anagram of WAY (the word \"gone wrong\" signals the letters are rearranged)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Varieties of tea",
+        "words": [
+          "GREEN",
+          "BLACK",
+          "HERBAL",
+          "CHAI"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Board games",
+        "words": [
+          "CHESS",
+          "MONOPOLY",
+          "SCRABBLE",
+          "CLUEDO"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Types of ___storm",
+        "words": [
+          "THUNDER",
+          "SAND",
+          "SNOW",
+          "FIRE"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Zodiac signs",
+        "words": [
+          "ARIES",
+          "TAURUS",
+          "GEMINI",
+          "LEO"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
