@@ -1,0 +1,445 @@
+{
+  "date": "2026-09-09",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        3,
+        0,
+        0,
+        0,
+        0,
+        1,
+        5,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        7,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        6,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        0,
+        6,
+        5,
+        0,
+        0,
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        1,
+        0,
+        6,
+        9,
+        2,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        4,
+        0,
+        0,
+        0,
+        2,
+        0
+      ],
+      [
+        6,
+        3,
+        4,
+        1,
+        5,
+        9,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        7,
+        0,
+        6,
+        1,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        1,
+        0,
+        0,
+        0,
+        9,
+        0,
+        6
+      ]
+    ],
+    "solution": [
+      [
+        3,
+        6,
+        9,
+        8,
+        4,
+        1,
+        5,
+        7,
+        2
+      ],
+      [
+        1,
+        4,
+        7,
+        9,
+        2,
+        5,
+        3,
+        6,
+        8
+      ],
+      [
+        2,
+        8,
+        5,
+        3,
+        6,
+        7,
+        4,
+        9,
+        1
+      ],
+      [
+        9,
+        2,
+        6,
+        5,
+        7,
+        3,
+        8,
+        1,
+        4
+      ],
+      [
+        4,
+        1,
+        8,
+        6,
+        9,
+        2,
+        7,
+        5,
+        3
+      ],
+      [
+        7,
+        5,
+        3,
+        4,
+        1,
+        8,
+        6,
+        2,
+        9
+      ],
+      [
+        6,
+        3,
+        4,
+        1,
+        5,
+        9,
+        2,
+        8,
+        7
+      ],
+      [
+        8,
+        9,
+        2,
+        7,
+        3,
+        6,
+        1,
+        4,
+        5
+      ],
+      [
+        5,
+        7,
+        1,
+        2,
+        8,
+        4,
+        9,
+        3,
+        6
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "DATE",
+        "clue": "Calendar day, or a romantic outing"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "ALONE",
+        "clue": "By oneself"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "length": 3,
+        "answer": "TAN",
+        "clue": "Brown skin tone from the sun"
+      },
+      {
+        "id": "4down",
+        "number": 4,
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "length": 4,
+        "answer": "EDGE",
+        "clue": "Outer boundary"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "length": 4,
+        "answer": "MASS",
+        "clue": "Large body of matter"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 1,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "LAD",
+        "clue": "Young man"
+      },
+      {
+        "id": "7across",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "ALONG",
+        "clue": "In line with"
+      },
+      {
+        "id": "8down",
+        "number": 8,
+        "row": 2,
+        "col": 1,
+        "direction": "down",
+        "length": 3,
+        "answer": "LIT",
+        "clue": "Turned on, or past tense of light"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "SIN",
+        "clue": "Immoral act"
+      },
+      {
+        "id": "10across",
+        "number": 10,
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "STEP",
+        "clue": "One pace, or a stair"
+      }
+    ],
+    "solution_grid": [
+      [
+        "#",
+        "D",
+        "A",
+        "T",
+        "E"
+      ],
+      [
+        "M",
+        "#",
+        "L",
+        "A",
+        "D"
+      ],
+      [
+        "A",
+        "L",
+        "O",
+        "N",
+        "G"
+      ],
+      [
+        "S",
+        "I",
+        "N",
+        "#",
+        "E"
+      ],
+      [
+        "S",
+        "T",
+        "E",
+        "P",
+        "#"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Harbor for ships, held in a consumer report on new gadgets (4)",
+        "answer": "PORT",
+        "wordplay_type": "hidden_word",
+        "explanation": "PORT is hidden in \"a consumer report on new gadgets\" (letters 12-15 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Collection of people or things, in a mess: ougpr (5)",
+        "answer": "GROUP",
+        "wordplay_type": "anagram",
+        "explanation": "\"ougpr\" is an anagram of GROUP (the word \"in a mess\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Tree's outer covering; also Sound a dog makes (4)",
+        "answer": "BARK",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Tree's outer covering\" and \"Sound a dog makes\" are definitions of BARK."
+      },
+      {
+        "clue": "Professional, found within the professor explained the theorem clearly (3)",
+        "answer": "PRO",
+        "wordplay_type": "hidden_word",
+        "explanation": "PRO is hidden in \"the professor explained the theorem clearly\" (letters 4-6 of the phrase with spaces removed)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Musical instruments",
+        "words": [
+          "PIANO",
+          "VIOLIN",
+          "GUITAR",
+          "TRUMPET"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Weather phenomena",
+        "words": [
+          "RAIN",
+          "HAIL",
+          "FOG",
+          "SLEET"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Types of ___storm",
+        "words": [
+          "THUNDER",
+          "SAND",
+          "SNOW",
+          "FIRE"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Types of boats",
+        "words": [
+          "CANOE",
+          "KAYAK",
+          "YACHT",
+          "FERRY"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
