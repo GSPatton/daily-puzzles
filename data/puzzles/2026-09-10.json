@@ -1,0 +1,445 @@
+{
+  "date": "2026-09-10",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        6,
+        0,
+        0,
+        7,
+        4,
+        0,
+        3,
+        2,
+        8
+      ],
+      [
+        0,
+        0,
+        9,
+        0,
+        8,
+        0,
+        1,
+        0,
+        4
+      ],
+      [
+        8,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        7
+      ],
+      [
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        6,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        6,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        6,
+        0,
+        9,
+        0,
+        0,
+        0,
+        7,
+        5
+      ],
+      [
+        7,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        4,
+        6
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        5,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        3
+      ]
+    ],
+    "solution": [
+      [
+        6,
+        1,
+        5,
+        7,
+        4,
+        9,
+        3,
+        2,
+        8
+      ],
+      [
+        3,
+        7,
+        9,
+        6,
+        8,
+        2,
+        1,
+        5,
+        4
+      ],
+      [
+        8,
+        4,
+        2,
+        3,
+        5,
+        1,
+        6,
+        9,
+        7
+      ],
+      [
+        2,
+        8,
+        3,
+        5,
+        7,
+        4,
+        9,
+        6,
+        1
+      ],
+      [
+        5,
+        9,
+        7,
+        8,
+        1,
+        6,
+        4,
+        3,
+        2
+      ],
+      [
+        1,
+        6,
+        4,
+        9,
+        2,
+        3,
+        8,
+        7,
+        5
+      ],
+      [
+        7,
+        3,
+        1,
+        2,
+        9,
+        8,
+        5,
+        4,
+        6
+      ],
+      [
+        4,
+        2,
+        6,
+        1,
+        3,
+        5,
+        7,
+        8,
+        9
+      ],
+      [
+        9,
+        5,
+        8,
+        4,
+        6,
+        7,
+        2,
+        1,
+        3
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1down",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "length": 3,
+        "answer": "ORB",
+        "clue": "Sphere"
+      },
+      {
+        "id": "2across",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "FLY",
+        "clue": "Buzzing insect, or to travel by air"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "FLEET",
+        "clue": "Group of ships"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "length": 4,
+        "answer": "LEAN",
+        "clue": "Thin, or to tilt"
+      },
+      {
+        "id": "4across",
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "RULE",
+        "clue": "Regulation"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "direction": "down",
+        "length": 4,
+        "answer": "URGE",
+        "clue": "Strong desire"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "BREAK",
+        "clue": "To fracture, or a pause"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 4,
+        "direction": "down",
+        "length": 3,
+        "answer": "KEY",
+        "clue": "Opens a lock"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "GENE",
+        "clue": "Unit of heredity"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "NET",
+        "clue": "Mesh used to catch fish"
+      }
+    ],
+    "solution_grid": [
+      [
+        "O",
+        "#",
+        "F",
+        "L",
+        "Y"
+      ],
+      [
+        "R",
+        "U",
+        "L",
+        "E",
+        "#"
+      ],
+      [
+        "B",
+        "R",
+        "E",
+        "A",
+        "K"
+      ],
+      [
+        "#",
+        "G",
+        "E",
+        "N",
+        "E"
+      ],
+      [
+        "N",
+        "E",
+        "T",
+        "#",
+        "Y"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "To make physical contact, mixed up: chout (5)",
+        "answer": "TOUCH",
+        "wordplay_type": "anagram",
+        "explanation": "\"chout\" is an anagram of TOUCH (the word \"mixed up\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Scheme for the future, held in the gardener planted rows of tulips (4)",
+        "answer": "PLAN",
+        "wordplay_type": "hidden_word",
+        "explanation": "PLAN is hidden in \"the gardener planted rows of tulips\" (letters 12-15 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Round dish for food; also To roll a ball at pins or a wicket (4)",
+        "answer": "BOWL",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Round dish for food\" and \"To roll a ball at pins or a wicket\" are definitions of BOWL."
+      },
+      {
+        "clue": "Hinged barrier at an entrance, all over the place: ateg (4)",
+        "answer": "GATE",
+        "wordplay_type": "anagram",
+        "explanation": "\"ateg\" is an anagram of GATE (the word \"all over the place\" signals the letters are rearranged)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Types of boats",
+        "words": [
+          "CANOE",
+          "KAYAK",
+          "YACHT",
+          "FERRY"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Zodiac signs",
+        "words": [
+          "ARIES",
+          "TAURUS",
+          "GEMINI",
+          "LEO"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Units of time",
+        "words": [
+          "SECOND",
+          "MINUTE",
+          "HOUR",
+          "WEEK"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Big cats",
+        "words": [
+          "LION",
+          "TIGER",
+          "LEOPARD",
+          "CHEETAH"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
