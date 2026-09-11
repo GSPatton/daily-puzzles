@@ -1,0 +1,445 @@
+{
+  "date": "2026-09-11",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        0,
+        5,
+        2,
+        0,
+        0,
+        0,
+        4,
+        7
+      ],
+      [
+        0,
+        9,
+        0,
+        0,
+        7,
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        6,
+        1
+      ],
+      [
+        9,
+        4,
+        0,
+        0,
+        0,
+        0,
+        3,
+        8,
+        0
+      ],
+      [
+        0,
+        5,
+        0,
+        0,
+        1,
+        8,
+        0,
+        0,
+        0
+      ],
+      [
+        8,
+        6,
+        9,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        0,
+        9,
+        0,
+        7,
+        6
+      ],
+      [
+        0,
+        2,
+        7,
+        0,
+        0,
+        1,
+        0,
+        0,
+        9
+      ]
+    ],
+    "solution": [
+      [
+        1,
+        8,
+        5,
+        2,
+        9,
+        3,
+        6,
+        4,
+        7
+      ],
+      [
+        6,
+        9,
+        2,
+        8,
+        7,
+        4,
+        5,
+        1,
+        3
+      ],
+      [
+        3,
+        7,
+        4,
+        1,
+        5,
+        6,
+        9,
+        2,
+        8
+      ],
+      [
+        2,
+        3,
+        8,
+        9,
+        4,
+        5,
+        7,
+        6,
+        1
+      ],
+      [
+        9,
+        4,
+        1,
+        7,
+        6,
+        2,
+        3,
+        8,
+        5
+      ],
+      [
+        7,
+        5,
+        6,
+        3,
+        1,
+        8,
+        4,
+        9,
+        2
+      ],
+      [
+        8,
+        6,
+        9,
+        5,
+        2,
+        7,
+        1,
+        3,
+        4
+      ],
+      [
+        5,
+        1,
+        3,
+        4,
+        8,
+        9,
+        2,
+        7,
+        6
+      ],
+      [
+        4,
+        2,
+        7,
+        6,
+        3,
+        1,
+        8,
+        5,
+        9
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "COAL",
+        "clue": "Black rock burned for fuel"
+      },
+      {
+        "id": "1down",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "length": 4,
+        "answer": "CLAY",
+        "clue": "Moldable earth material"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "length": 3,
+        "answer": "OIL",
+        "clue": "Slippery liquid used for cooking or fuel"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "ADORE",
+        "clue": "To love deeply"
+      },
+      {
+        "id": "4across",
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "LID",
+        "clue": "Cover for a jar"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 4,
+        "direction": "down",
+        "length": 4,
+        "answer": "DEBT",
+        "clue": "Money owed"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "ALONE",
+        "clue": "By oneself"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "length": 3,
+        "answer": "NUN",
+        "clue": "Religious sister"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "RUB",
+        "clue": "To press and move back and forth"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "SENT",
+        "clue": "Past tense of send"
+      }
+    ],
+    "solution_grid": [
+      [
+        "C",
+        "O",
+        "A",
+        "L",
+        "#"
+      ],
+      [
+        "L",
+        "I",
+        "D",
+        "#",
+        "D"
+      ],
+      [
+        "A",
+        "L",
+        "O",
+        "N",
+        "E"
+      ],
+      [
+        "Y",
+        "#",
+        "R",
+        "U",
+        "B"
+      ],
+      [
+        "#",
+        "S",
+        "E",
+        "N",
+        "T"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "A narrative tale; also One level of a building (5)",
+        "answer": "STORY",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"A narrative tale\" and \"One level of a building\" are definitions of STORY."
+      },
+      {
+        "clue": "Story, part of a talented painter displayed her canvases (4)",
+        "answer": "TALE",
+        "wordplay_type": "hidden_word",
+        "explanation": "TALE is hidden in \"a talented painter displayed her canvases\" (letters 2-5 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Letters and packages, confused: liam (4)",
+        "answer": "MAIL",
+        "wordplay_type": "anagram",
+        "explanation": "\"liam\" is an anagram of MAIL (the word \"confused\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Timepiece worn on the wrist; also To observe attentively (5)",
+        "answer": "WATCH",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Timepiece worn on the wrist\" and \"To observe attentively\" are definitions of WATCH."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Card suits",
+        "words": [
+          "HEARTS",
+          "CLUBS",
+          "SPADES",
+          "DIAMONDS"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Big cats",
+        "words": [
+          "LION",
+          "TIGER",
+          "LEOPARD",
+          "CHEETAH"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Board games",
+        "words": [
+          "CHESS",
+          "MONOPOLY",
+          "SCRABBLE",
+          "CLUEDO"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Zodiac signs",
+        "words": [
+          "ARIES",
+          "TAURUS",
+          "GEMINI",
+          "LEO"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
