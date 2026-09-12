@@ -1,0 +1,445 @@
+{
+  "date": "2026-09-12",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        9,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        3,
+        0,
+        0,
+        0,
+        0,
+        2,
+        9,
+        1,
+        8
+      ],
+      [
+        0,
+        0,
+        0,
+        6,
+        7,
+        0,
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        3,
+        2,
+        9,
+        4,
+        6,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        6,
+        9,
+        7,
+        1,
+        0,
+        0,
+        0,
+        0,
+        5
+      ],
+      [
+        4,
+        0,
+        0,
+        0,
+        9,
+        5,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        0
+      ],
+      [
+        1,
+        0,
+        9,
+        8,
+        0,
+        0,
+        5,
+        7,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        9,
+        5,
+        4,
+        3,
+        8,
+        1,
+        6,
+        2,
+        7
+      ],
+      [
+        3,
+        7,
+        6,
+        4,
+        5,
+        2,
+        9,
+        1,
+        8
+      ],
+      [
+        2,
+        1,
+        8,
+        6,
+        7,
+        9,
+        3,
+        5,
+        4
+      ],
+      [
+        5,
+        3,
+        2,
+        9,
+        4,
+        6,
+        7,
+        8,
+        1
+      ],
+      [
+        8,
+        4,
+        1,
+        5,
+        3,
+        7,
+        2,
+        9,
+        6
+      ],
+      [
+        6,
+        9,
+        7,
+        1,
+        2,
+        8,
+        4,
+        3,
+        5
+      ],
+      [
+        4,
+        8,
+        3,
+        7,
+        9,
+        5,
+        1,
+        6,
+        2
+      ],
+      [
+        7,
+        6,
+        5,
+        2,
+        1,
+        3,
+        8,
+        4,
+        9
+      ],
+      [
+        1,
+        2,
+        9,
+        8,
+        6,
+        4,
+        5,
+        7,
+        3
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "CLAY",
+        "clue": "Moldable earth material"
+      },
+      {
+        "id": "1down",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "length": 4,
+        "answer": "COST",
+        "clue": "Price"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "length": 3,
+        "answer": "LIT",
+        "clue": "Turned on, or past tense of light"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "ALONE",
+        "clue": "By oneself"
+      },
+      {
+        "id": "4across",
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "OIL",
+        "clue": "Slippery liquid used for cooking or fuel"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 4,
+        "direction": "down",
+        "length": 4,
+        "answer": "BEND",
+        "clue": "To curve"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "STORE",
+        "clue": "Shop, or to save for later"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "length": 3,
+        "answer": "RUN",
+        "clue": "To move fast on foot"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "NUN",
+        "clue": "Religious sister"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "LEND",
+        "clue": "To loan"
+      }
+    ],
+    "solution_grid": [
+      [
+        "C",
+        "L",
+        "A",
+        "Y",
+        "#"
+      ],
+      [
+        "O",
+        "I",
+        "L",
+        "#",
+        "B"
+      ],
+      [
+        "S",
+        "T",
+        "O",
+        "R",
+        "E"
+      ],
+      [
+        "T",
+        "#",
+        "N",
+        "U",
+        "N"
+      ],
+      [
+        "#",
+        "L",
+        "E",
+        "N",
+        "D"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Tiny colony-building insect, part of a brilliant idea occurred to her suddenly (3)",
+        "answer": "ANT",
+        "wordplay_type": "hidden_word",
+        "explanation": "ANT is hidden in \"a brilliant idea occurred to her suddenly\" (letters 8-10 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Past tense of tell, in a mess: tlod (4)",
+        "answer": "TOLD",
+        "wordplay_type": "anagram",
+        "explanation": "\"tlod\" is an anagram of TOLD (the word \"in a mess\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Just and even-handed; also A carnival with rides (4)",
+        "answer": "FAIR",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Just and even-handed\" and \"A carnival with rides\" are definitions of FAIR."
+      },
+      {
+        "clue": "Upper front of the torso, or a storage box, hidden in the orchestra rehearsed for the concert (5)",
+        "answer": "CHEST",
+        "wordplay_type": "hidden_word",
+        "explanation": "CHEST is hidden in \"the orchestra rehearsed for the concert\" (letters 6-10 of the phrase with spaces removed)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Types of hats",
+        "words": [
+          "FEDORA",
+          "BERET",
+          "BEANIE",
+          "SOMBRERO"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Citrus fruits",
+        "words": [
+          "ORANGE",
+          "GRAPEFRUIT",
+          "LEMON",
+          "TANGERINE"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Weather phenomena",
+        "words": [
+          "RAIN",
+          "HAIL",
+          "FOG",
+          "SLEET"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Continents",
+        "words": [
+          "ASIA",
+          "AFRICA",
+          "EUROPE",
+          "OCEANIA"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
