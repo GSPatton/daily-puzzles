@@ -1,0 +1,445 @@
+{
+  "date": "2026-09-14",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        6,
+        8,
+        2,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        3,
+        5,
+        0,
+        0,
+        9,
+        0,
+        6
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        7,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        0,
+        9,
+        0,
+        2,
+        4,
+        1,
+        0
+      ],
+      [
+        0,
+        2,
+        0,
+        1,
+        0,
+        0,
+        3,
+        0,
+        7
+      ],
+      [
+        0,
+        0,
+        8,
+        0,
+        0,
+        0,
+        0,
+        6,
+        3
+      ],
+      [
+        2,
+        6,
+        0,
+        7,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        3,
+        9,
+        0,
+        5,
+        8,
+        0,
+        7,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        6,
+        8,
+        2,
+        3,
+        1,
+        9,
+        7,
+        4,
+        5
+      ],
+      [
+        4,
+        1,
+        3,
+        5,
+        2,
+        7,
+        9,
+        8,
+        6
+      ],
+      [
+        5,
+        9,
+        7,
+        8,
+        6,
+        4,
+        1,
+        3,
+        2
+      ],
+      [
+        8,
+        7,
+        1,
+        4,
+        3,
+        5,
+        6,
+        2,
+        9
+      ],
+      [
+        3,
+        5,
+        6,
+        9,
+        7,
+        2,
+        4,
+        1,
+        8
+      ],
+      [
+        9,
+        2,
+        4,
+        1,
+        8,
+        6,
+        3,
+        5,
+        7
+      ],
+      [
+        7,
+        4,
+        8,
+        2,
+        9,
+        1,
+        5,
+        6,
+        3
+      ],
+      [
+        2,
+        6,
+        5,
+        7,
+        4,
+        3,
+        8,
+        9,
+        1
+      ],
+      [
+        1,
+        3,
+        9,
+        6,
+        5,
+        8,
+        2,
+        7,
+        4
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        1
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "ANT",
+        "clue": "Tiny colony-building insect"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "length": 4,
+        "answer": "NICE",
+        "clue": "Pleasant"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "TREAT",
+        "clue": "Special reward, or to handle medically"
+      },
+      {
+        "id": "4down",
+        "number": 4,
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "length": 3,
+        "answer": "ONE",
+        "clue": "First number"
+      },
+      {
+        "id": "5across",
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "IRON",
+        "clue": "Strong metal, also a pressing appliance"
+      },
+      {
+        "id": "6down",
+        "number": 6,
+        "row": 1,
+        "col": 3,
+        "direction": "down",
+        "length": 4,
+        "answer": "ONTO",
+        "clue": "On top of"
+      },
+      {
+        "id": "7across",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "SCENE",
+        "clue": "Setting of an event"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "down",
+        "length": 3,
+        "answer": "SHY",
+        "clue": "Timid"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "HEAT",
+        "clue": "Warmth"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "TOY",
+        "clue": "Plaything for a child"
+      }
+    ],
+    "solution_grid": [
+      [
+        "A",
+        "N",
+        "T",
+        "#",
+        "O"
+      ],
+      [
+        "#",
+        "I",
+        "R",
+        "O",
+        "N"
+      ],
+      [
+        "S",
+        "C",
+        "E",
+        "N",
+        "E"
+      ],
+      [
+        "H",
+        "E",
+        "A",
+        "T",
+        "#"
+      ],
+      [
+        "Y",
+        "#",
+        "T",
+        "O",
+        "Y"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Not on time, some of a chocolate treat for dessert tonight (4)",
+        "answer": "LATE",
+        "wordplay_type": "hidden_word",
+        "explanation": "LATE is hidden in \"a chocolate treat for dessert tonight\" (letters 7-10 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Folder for documents; also Tool for smoothing rough edges (4)",
+        "answer": "FILE",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Folder for documents\" and \"Tool for smoothing rough edges\" are definitions of FILE."
+      },
+      {
+        "clue": "Spicy tomato-based dip, shuffled: aasls (5)",
+        "answer": "SALSA",
+        "wordplay_type": "anagram",
+        "explanation": "\"aasls\" is an anagram of SALSA (the word \"shuffled\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "To help someone learn, found within the drama teacher praised the actors (5)",
+        "answer": "TEACH",
+        "wordplay_type": "hidden_word",
+        "explanation": "TEACH is hidden in \"the drama teacher praised the actors\" (letters 9-13 of the phrase with spaces removed)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Types of pasta",
+        "words": [
+          "PENNE",
+          "FUSILLI",
+          "SPAGHETTI",
+          "RAVIOLI"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Chess pieces",
+        "words": [
+          "KING",
+          "QUEEN",
+          "BISHOP",
+          "KNIGHT"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Big cats",
+        "words": [
+          "LION",
+          "TIGER",
+          "LEOPARD",
+          "CHEETAH"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Colors",
+        "words": [
+          "RED",
+          "BLUE",
+          "YELLOW",
+          "PURPLE"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
