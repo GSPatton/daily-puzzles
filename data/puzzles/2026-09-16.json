@@ -1,0 +1,445 @@
+{
+  "date": "2026-09-16",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        4,
+        1,
+        0,
+        0,
+        0,
+        7,
+        0,
+        3
+      ],
+      [
+        7,
+        0,
+        8,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        6,
+        0,
+        0
+      ],
+      [
+        5,
+        7,
+        0,
+        0,
+        0,
+        8,
+        0,
+        3,
+        9
+      ],
+      [
+        3,
+        0,
+        0,
+        4,
+        0,
+        0,
+        8,
+        1,
+        0
+      ],
+      [
+        0,
+        6,
+        5,
+        3,
+        8,
+        0,
+        2,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        7,
+        0,
+        0,
+        1,
+        6,
+        0
+      ],
+      [
+        0,
+        8,
+        7,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        9,
+        4,
+        1,
+        8,
+        5,
+        6,
+        7,
+        2,
+        3
+      ],
+      [
+        7,
+        5,
+        8,
+        1,
+        3,
+        2,
+        9,
+        4,
+        6
+      ],
+      [
+        6,
+        2,
+        3,
+        9,
+        7,
+        4,
+        5,
+        8,
+        1
+      ],
+      [
+        8,
+        1,
+        4,
+        5,
+        9,
+        3,
+        6,
+        7,
+        2
+      ],
+      [
+        5,
+        7,
+        2,
+        6,
+        1,
+        8,
+        4,
+        3,
+        9
+      ],
+      [
+        3,
+        9,
+        6,
+        4,
+        2,
+        7,
+        8,
+        1,
+        5
+      ],
+      [
+        4,
+        6,
+        5,
+        3,
+        8,
+        1,
+        2,
+        9,
+        7
+      ],
+      [
+        2,
+        3,
+        9,
+        7,
+        4,
+        5,
+        1,
+        6,
+        8
+      ],
+      [
+        1,
+        8,
+        7,
+        2,
+        6,
+        9,
+        3,
+        5,
+        4
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        1
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "GYM",
+        "clue": "Place to work out"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "length": 4,
+        "answer": "YEAR",
+        "clue": "365 days"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "MANGO",
+        "clue": "Sweet tropical fruit"
+      },
+      {
+        "id": "4down",
+        "number": 4,
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "length": 3,
+        "answer": "GEL",
+        "clue": "Styling product for hair"
+      },
+      {
+        "id": "5across",
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "EASE",
+        "clue": "Freedom from difficulty"
+      },
+      {
+        "id": "6down",
+        "number": 6,
+        "row": 1,
+        "col": 3,
+        "direction": "down",
+        "length": 4,
+        "answer": "SEED",
+        "clue": "Plant's beginning"
+      },
+      {
+        "id": "7across",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "PANEL",
+        "clue": "Flat section, or a discussion group"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "down",
+        "length": 3,
+        "answer": "PUB",
+        "clue": "British bar"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "URGE",
+        "clue": "Strong desire"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "ODD",
+        "clue": "Strange, or not even"
+      }
+    ],
+    "solution_grid": [
+      [
+        "G",
+        "Y",
+        "M",
+        "#",
+        "G"
+      ],
+      [
+        "#",
+        "E",
+        "A",
+        "S",
+        "E"
+      ],
+      [
+        "P",
+        "A",
+        "N",
+        "E",
+        "L"
+      ],
+      [
+        "U",
+        "R",
+        "G",
+        "E",
+        "#"
+      ],
+      [
+        "B",
+        "#",
+        "O",
+        "D",
+        "D"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Correct; also Opposite of left (5)",
+        "answer": "RIGHT",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Correct\" and \"Opposite of left\" are definitions of RIGHT."
+      },
+      {
+        "clue": "Limb from shoulder to hand, found within the farmer harvested the wheat fields (3)",
+        "answer": "ARM",
+        "wordplay_type": "hidden_word",
+        "explanation": "ARM is hidden in \"the farmer harvested the wheat fields\" (letters 5-7 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Fearless, or thickened text, shuffled: bldo (4)",
+        "answer": "BOLD",
+        "wordplay_type": "anagram",
+        "explanation": "\"bldo\" is an anagram of BOLD (the word \"shuffled\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Stone; also To sway back and forth (4)",
+        "answer": "ROCK",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Stone\" and \"To sway back and forth\" are definitions of ROCK."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Types of bread",
+        "words": [
+          "RYE",
+          "SOURDOUGH",
+          "BAGUETTE",
+          "PITA"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Big cats",
+        "words": [
+          "LION",
+          "TIGER",
+          "LEOPARD",
+          "CHEETAH"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Card suits",
+        "words": [
+          "HEARTS",
+          "CLUBS",
+          "SPADES",
+          "DIAMONDS"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Types of dance",
+        "words": [
+          "TANGO",
+          "WALTZ",
+          "SALSA",
+          "FOXTROT"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
