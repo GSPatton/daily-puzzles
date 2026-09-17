@@ -1,0 +1,445 @@
+{
+  "date": "2026-09-17",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        4,
+        0,
+        6,
+        0,
+        0,
+        0,
+        0,
+        7,
+        0
+      ],
+      [
+        0,
+        0,
+        8,
+        2,
+        5,
+        3,
+        6,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        5,
+        0,
+        0,
+        4,
+        0,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        2,
+        0,
+        4,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        6,
+        0,
+        5,
+        0,
+        9,
+        0,
+        8,
+        0
+      ],
+      [
+        0,
+        0,
+        7,
+        0,
+        0,
+        0,
+        2,
+        0,
+        8
+      ],
+      [
+        0,
+        9,
+        0,
+        4,
+        8,
+        0,
+        0,
+        0,
+        7
+      ],
+      [
+        5,
+        0,
+        0,
+        0,
+        7,
+        0,
+        0,
+        0,
+        4
+      ]
+    ],
+    "solution": [
+      [
+        4,
+        2,
+        6,
+        1,
+        9,
+        8,
+        5,
+        7,
+        3
+      ],
+      [
+        9,
+        7,
+        8,
+        2,
+        5,
+        3,
+        6,
+        4,
+        1
+      ],
+      [
+        3,
+        1,
+        5,
+        7,
+        6,
+        4,
+        8,
+        2,
+        9
+      ],
+      [
+        1,
+        3,
+        2,
+        8,
+        4,
+        6,
+        7,
+        9,
+        5
+      ],
+      [
+        8,
+        5,
+        9,
+        3,
+        2,
+        7,
+        4,
+        1,
+        6
+      ],
+      [
+        7,
+        6,
+        4,
+        5,
+        1,
+        9,
+        3,
+        8,
+        2
+      ],
+      [
+        6,
+        4,
+        7,
+        9,
+        3,
+        1,
+        2,
+        5,
+        8
+      ],
+      [
+        2,
+        9,
+        3,
+        4,
+        8,
+        5,
+        1,
+        6,
+        7
+      ],
+      [
+        5,
+        8,
+        1,
+        6,
+        7,
+        2,
+        9,
+        3,
+        4
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "LIST",
+        "clue": "Series of items"
+      },
+      {
+        "id": "1down",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "length": 4,
+        "answer": "LEAK",
+        "clue": "Unwanted escape of liquid"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "length": 3,
+        "answer": "ILL",
+        "clue": "Sick"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "SMILE",
+        "clue": "Happy facial expression"
+      },
+      {
+        "id": "4across",
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "ELM",
+        "clue": "Shade tree with serrated leaves"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 4,
+        "direction": "down",
+        "length": 4,
+        "answer": "DEBT",
+        "clue": "Money owed"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "ALIVE",
+        "clue": "Living"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "length": 3,
+        "answer": "VAN",
+        "clue": "Boxy vehicle for hauling"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "LAB",
+        "clue": "Room for scientific work"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "SENT",
+        "clue": "Past tense of send"
+      }
+    ],
+    "solution_grid": [
+      [
+        "L",
+        "I",
+        "S",
+        "T",
+        "#"
+      ],
+      [
+        "E",
+        "L",
+        "M",
+        "#",
+        "D"
+      ],
+      [
+        "A",
+        "L",
+        "I",
+        "V",
+        "E"
+      ],
+      [
+        "K",
+        "#",
+        "L",
+        "A",
+        "B"
+      ],
+      [
+        "#",
+        "S",
+        "E",
+        "N",
+        "T"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Vessel for ashes or coffee, gone wrong: run (3)",
+        "answer": "URN",
+        "wordplay_type": "anagram",
+        "explanation": "\"run\" is an anagram of URN (the word \"gone wrong\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "A platform for performing; also A phase in a process (5)",
+        "answer": "STAGE",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"A platform for performing\" and \"A phase in a process\" are definitions of STAGE."
+      },
+      {
+        "clue": "To demonstrate as true, some of the general manager approved the plan (5)",
+        "answer": "PROVE",
+        "wordplay_type": "hidden_word",
+        "explanation": "PROVE is hidden in \"the general manager approved the plan\" (letters 20-24 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Court proceeding, or a test, scrambled: rital (5)",
+        "answer": "TRIAL",
+        "wordplay_type": "anagram",
+        "explanation": "\"rital\" is an anagram of TRIAL (the word \"scrambled\" signals the letters are rearranged)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "School subjects",
+        "words": [
+          "MATH",
+          "SCIENCE",
+          "HISTORY",
+          "ART"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Types of shoes",
+        "words": [
+          "SNEAKER",
+          "SANDAL",
+          "BOOT",
+          "LOAFER"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Varieties of tea",
+        "words": [
+          "GREEN",
+          "BLACK",
+          "HERBAL",
+          "CHAI"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Types of boats",
+        "words": [
+          "CANOE",
+          "KAYAK",
+          "YACHT",
+          "FERRY"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
