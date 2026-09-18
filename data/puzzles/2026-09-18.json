@@ -1,0 +1,445 @@
+{
+  "date": "2026-09-18",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        0,
+        0,
+        9,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        6,
+        0,
+        8,
+        0,
+        0,
+        0,
+        2,
+        3
+      ],
+      [
+        0,
+        7,
+        0,
+        2,
+        0,
+        6,
+        9,
+        4,
+        0
+      ],
+      [
+        3,
+        9,
+        0,
+        0,
+        7,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        4,
+        9,
+        0,
+        2,
+        7,
+        5
+      ],
+      [
+        5,
+        4,
+        0,
+        0,
+        0,
+        0,
+        8,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        8,
+        0,
+        0,
+        0,
+        7
+      ],
+      [
+        4,
+        0,
+        6,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        9,
+        0,
+        2,
+        0,
+        6,
+        0,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        8,
+        2,
+        3,
+        9,
+        4,
+        7,
+        1,
+        5,
+        6
+      ],
+      [
+        9,
+        6,
+        4,
+        8,
+        1,
+        5,
+        7,
+        2,
+        3
+      ],
+      [
+        1,
+        7,
+        5,
+        2,
+        3,
+        6,
+        9,
+        4,
+        8
+      ],
+      [
+        3,
+        9,
+        2,
+        5,
+        7,
+        8,
+        4,
+        6,
+        1
+      ],
+      [
+        6,
+        1,
+        8,
+        4,
+        9,
+        3,
+        2,
+        7,
+        5
+      ],
+      [
+        5,
+        4,
+        7,
+        1,
+        6,
+        2,
+        8,
+        3,
+        9
+      ],
+      [
+        2,
+        3,
+        1,
+        6,
+        8,
+        4,
+        5,
+        9,
+        7
+      ],
+      [
+        4,
+        8,
+        6,
+        7,
+        5,
+        9,
+        3,
+        1,
+        2
+      ],
+      [
+        7,
+        5,
+        9,
+        3,
+        2,
+        1,
+        6,
+        8,
+        4
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1down",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "length": 3,
+        "answer": "ANT",
+        "clue": "Tiny colony-building insect"
+      },
+      {
+        "id": "2across",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "SHY",
+        "clue": "Timid"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "SCENE",
+        "clue": "Setting of an event"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "length": 4,
+        "answer": "HEAT",
+        "clue": "Warmth"
+      },
+      {
+        "id": "4across",
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "NICE",
+        "clue": "Pleasant"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "direction": "down",
+        "length": 4,
+        "answer": "IRON",
+        "clue": "Strong metal, also a pressing appliance"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "TREAT",
+        "clue": "Special reward, or to handle medically"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 4,
+        "direction": "down",
+        "length": 3,
+        "answer": "TOY",
+        "clue": "Plaything for a child"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "ONTO",
+        "clue": "On top of"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "ONE",
+        "clue": "First number"
+      }
+    ],
+    "solution_grid": [
+      [
+        "A",
+        "#",
+        "S",
+        "H",
+        "Y"
+      ],
+      [
+        "N",
+        "I",
+        "C",
+        "E",
+        "#"
+      ],
+      [
+        "T",
+        "R",
+        "E",
+        "A",
+        "T"
+      ],
+      [
+        "#",
+        "O",
+        "N",
+        "T",
+        "O"
+      ],
+      [
+        "O",
+        "N",
+        "E",
+        "#",
+        "Y"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Injury, oddly arranged: amrh (4)",
+        "answer": "HARM",
+        "wordplay_type": "anagram",
+        "explanation": "\"amrh\" is an anagram of HARM (the word \"oddly arranged\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Small stick for lighting fire; also Contest between two teams (5)",
+        "answer": "MATCH",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Small stick for lighting fire\" and \"Contest between two teams\" are definitions of MATCH."
+      },
+      {
+        "clue": "Fixed period, or a word, hidden in a determined runner finished the marathon (4)",
+        "answer": "TERM",
+        "wordplay_type": "hidden_word",
+        "explanation": "TERM is hidden in \"a determined runner finished the marathon\" (letters 4-7 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Holds up your pants, gone wrong: tble (4)",
+        "answer": "BELT",
+        "wordplay_type": "anagram",
+        "explanation": "\"tble\" is an anagram of BELT (the word \"gone wrong\" signals the letters are rearranged)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "___light",
+        "words": [
+          "MOON",
+          "SUN",
+          "DAY",
+          "LIME"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Precious gems",
+        "words": [
+          "RUBY",
+          "EMERALD",
+          "SAPPHIRE",
+          "TOPAZ"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Types of hats",
+        "words": [
+          "FEDORA",
+          "BERET",
+          "BEANIE",
+          "SOMBRERO"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Continents",
+        "words": [
+          "ASIA",
+          "AFRICA",
+          "EUROPE",
+          "OCEANIA"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
