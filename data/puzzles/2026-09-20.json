@@ -1,0 +1,445 @@
+{
+  "date": "2026-09-20",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        6,
+        0,
+        0,
+        0,
+        5,
+        0,
+        2,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        7,
+        9,
+        1,
+        8
+      ],
+      [
+        9,
+        0,
+        8,
+        3,
+        0,
+        4,
+        0,
+        0,
+        7
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        1
+      ],
+      [
+        8,
+        9,
+        3,
+        0,
+        0,
+        0,
+        4,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        2,
+        7,
+        0,
+        3,
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        9,
+        2
+      ],
+      [
+        3,
+        0,
+        9,
+        2,
+        8,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        6,
+        7,
+        1,
+        8,
+        5,
+        9,
+        2,
+        4,
+        3
+      ],
+      [
+        5,
+        3,
+        4,
+        6,
+        2,
+        7,
+        9,
+        1,
+        8
+      ],
+      [
+        9,
+        2,
+        8,
+        3,
+        1,
+        4,
+        5,
+        6,
+        7
+      ],
+      [
+        4,
+        6,
+        7,
+        9,
+        3,
+        5,
+        8,
+        2,
+        1
+      ],
+      [
+        8,
+        9,
+        3,
+        1,
+        7,
+        2,
+        4,
+        5,
+        6
+      ],
+      [
+        2,
+        1,
+        5,
+        4,
+        6,
+        8,
+        7,
+        3,
+        9
+      ],
+      [
+        1,
+        5,
+        2,
+        7,
+        9,
+        3,
+        6,
+        8,
+        4
+      ],
+      [
+        7,
+        8,
+        6,
+        5,
+        4,
+        1,
+        3,
+        9,
+        2
+      ],
+      [
+        3,
+        4,
+        9,
+        2,
+        8,
+        6,
+        1,
+        7,
+        5
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "SPOT",
+        "clue": "Small mark, or a location"
+      },
+      {
+        "id": "1down",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "length": 4,
+        "answer": "STAR",
+        "clue": "Twinkling object in the night sky"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "length": 3,
+        "answer": "PAL",
+        "clue": "Friend"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "ONION",
+        "clue": "Layered pungent vegetable"
+      },
+      {
+        "id": "4across",
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "TAN",
+        "clue": "Brown skin tone from the sun"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 4,
+        "direction": "down",
+        "length": 4,
+        "answer": "HERO",
+        "clue": "Brave central character"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "ALIVE",
+        "clue": "Living"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "length": 3,
+        "answer": "VAT",
+        "clue": "Large tank for liquid"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "OAR",
+        "clue": "Paddle used to row a boat"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "ONTO",
+        "clue": "On top of"
+      }
+    ],
+    "solution_grid": [
+      [
+        "S",
+        "P",
+        "O",
+        "T",
+        "#"
+      ],
+      [
+        "T",
+        "A",
+        "N",
+        "#",
+        "H"
+      ],
+      [
+        "A",
+        "L",
+        "I",
+        "V",
+        "E"
+      ],
+      [
+        "R",
+        "#",
+        "O",
+        "A",
+        "R"
+      ],
+      [
+        "#",
+        "O",
+        "N",
+        "T",
+        "O"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Joint between torso and leg, buried in the captain steered the ship carefully (3)",
+        "answer": "HIP",
+        "wordplay_type": "hidden_word",
+        "explanation": "HIP is hidden in \"the captain steered the ship carefully\" (letters 22-24 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "A platform for performing; also A phase in a process (5)",
+        "answer": "STAGE",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"A platform for performing\" and \"A phase in a process\" are definitions of STAGE."
+      },
+      {
+        "clue": "Buzzing insect, or to travel by air, scrambled: lfy (3)",
+        "answer": "FLY",
+        "wordplay_type": "anagram",
+        "explanation": "\"lfy\" is an anagram of FLY (the word \"scrambled\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Uncommon, part of the orchestra rehearsed for the concert (4)",
+        "answer": "RARE",
+        "wordplay_type": "hidden_word",
+        "explanation": "RARE is hidden in \"the orchestra rehearsed for the concert\" (letters 11-14 of the phrase with spaces removed)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Continents",
+        "words": [
+          "ASIA",
+          "AFRICA",
+          "EUROPE",
+          "OCEANIA"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "___light",
+        "words": [
+          "MOON",
+          "SUN",
+          "DAY",
+          "LIME"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Musical instruments",
+        "words": [
+          "PIANO",
+          "VIOLIN",
+          "GUITAR",
+          "TRUMPET"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Types of pasta",
+        "words": [
+          "PENNE",
+          "FUSILLI",
+          "SPAGHETTI",
+          "RAVIOLI"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
