@@ -1,0 +1,445 @@
+{
+  "date": "2026-09-21",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        7,
+        5,
+        0,
+        0,
+        8,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        2,
+        0,
+        6,
+        4,
+        0
+      ],
+      [
+        0,
+        0,
+        9,
+        0,
+        0,
+        0,
+        3,
+        0,
+        8
+      ],
+      [
+        9,
+        0,
+        7,
+        0,
+        0,
+        0,
+        0,
+        6,
+        0
+      ],
+      [
+        0,
+        6,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        4,
+        0,
+        0,
+        9,
+        0,
+        0
+      ],
+      [
+        7,
+        2,
+        4,
+        1,
+        0,
+        6,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        3,
+        1,
+        7,
+        9,
+        0,
+        5,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        8,
+        0,
+        0,
+        4,
+        0,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        6,
+        7,
+        5,
+        3,
+        4,
+        8,
+        2,
+        1,
+        9
+      ],
+      [
+        3,
+        1,
+        8,
+        5,
+        2,
+        9,
+        6,
+        4,
+        7
+      ],
+      [
+        2,
+        4,
+        9,
+        6,
+        7,
+        1,
+        3,
+        5,
+        8
+      ],
+      [
+        9,
+        5,
+        7,
+        2,
+        8,
+        3,
+        1,
+        6,
+        4
+      ],
+      [
+        4,
+        6,
+        3,
+        9,
+        1,
+        5,
+        7,
+        8,
+        2
+      ],
+      [
+        1,
+        8,
+        2,
+        4,
+        6,
+        7,
+        9,
+        3,
+        5
+      ],
+      [
+        7,
+        2,
+        4,
+        1,
+        5,
+        6,
+        8,
+        9,
+        3
+      ],
+      [
+        8,
+        3,
+        1,
+        7,
+        9,
+        4,
+        5,
+        2,
+        6
+      ],
+      [
+        5,
+        9,
+        6,
+        8,
+        3,
+        2,
+        4,
+        7,
+        1
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        1
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "BUS",
+        "clue": "Vehicle for public transport"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "length": 4,
+        "answer": "USED",
+        "clue": "Not new"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "STAGE",
+        "clue": "Platform for performances"
+      },
+      {
+        "id": "4down",
+        "number": 4,
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "length": 3,
+        "answer": "SPY",
+        "clue": "Secret agent"
+      },
+      {
+        "id": "5across",
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "STOP",
+        "clue": "To cease moving"
+      },
+      {
+        "id": "6down",
+        "number": 6,
+        "row": 1,
+        "col": 3,
+        "direction": "down",
+        "length": 4,
+        "answer": "OVER",
+        "clue": "Above, or finished"
+      },
+      {
+        "id": "7across",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "HEAVY",
+        "clue": "Weighing a lot"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "down",
+        "length": 3,
+        "answer": "HEN",
+        "clue": "Female chicken"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "EDGE",
+        "clue": "Outer boundary"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "ERA",
+        "clue": "Distinct period of time"
+      }
+    ],
+    "solution_grid": [
+      [
+        "B",
+        "U",
+        "S",
+        "#",
+        "S"
+      ],
+      [
+        "#",
+        "S",
+        "T",
+        "O",
+        "P"
+      ],
+      [
+        "H",
+        "E",
+        "A",
+        "V",
+        "Y"
+      ],
+      [
+        "E",
+        "D",
+        "G",
+        "E",
+        "#"
+      ],
+      [
+        "N",
+        "#",
+        "E",
+        "R",
+        "A"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Straight mark, or a queue, some of the announcer read the evening headlines (4)",
+        "answer": "LINE",
+        "wordplay_type": "hidden_word",
+        "explanation": "LINE is hidden in \"the announcer read the evening headlines\" (letters 31-34 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "To assert as true, all over the place: iclma (5)",
+        "answer": "CLAIM",
+        "wordplay_type": "anagram",
+        "explanation": "\"iclma\" is an anagram of CLAIM (the word \"all over the place\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "A nation's seat of government; also Wealth used to start a business (7)",
+        "answer": "CAPITAL",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"A nation's seat of government\" and \"Wealth used to start a business\" are definitions of CAPITAL."
+      },
+      {
+        "clue": "Simple, or flat land, buried in the professor explained the theorem clearly (5)",
+        "answer": "PLAIN",
+        "wordplay_type": "hidden_word",
+        "explanation": "PLAIN is hidden in \"the professor explained the theorem clearly\" (letters 15-19 of the phrase with spaces removed)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Types of hats",
+        "words": [
+          "FEDORA",
+          "BERET",
+          "BEANIE",
+          "SOMBRERO"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Types of ___storm",
+        "words": [
+          "THUNDER",
+          "SAND",
+          "SNOW",
+          "FIRE"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "School subjects",
+        "words": [
+          "MATH",
+          "SCIENCE",
+          "HISTORY",
+          "ART"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Continents",
+        "words": [
+          "ASIA",
+          "AFRICA",
+          "EUROPE",
+          "OCEANIA"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
