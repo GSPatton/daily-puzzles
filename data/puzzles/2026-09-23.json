@@ -1,0 +1,445 @@
+{
+  "date": "2026-09-23",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        9,
+        0,
+        2,
+        0,
+        6,
+        0,
+        0,
+        7,
+        5
+      ],
+      [
+        6,
+        0,
+        0,
+        0,
+        4,
+        9,
+        0,
+        3,
+        0
+      ],
+      [
+        8,
+        0,
+        4,
+        7,
+        0,
+        0,
+        6,
+        0,
+        0
+      ],
+      [
+        0,
+        8,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        9,
+        5,
+        8,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        6,
+        0,
+        0,
+        4
+      ],
+      [
+        4,
+        6,
+        0,
+        0,
+        0,
+        3,
+        5,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        6,
+        2
+      ],
+      [
+        5,
+        0,
+        0,
+        0,
+        9,
+        0,
+        8,
+        0,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        9,
+        1,
+        2,
+        3,
+        6,
+        8,
+        4,
+        7,
+        5
+      ],
+      [
+        6,
+        7,
+        5,
+        1,
+        4,
+        9,
+        2,
+        3,
+        8
+      ],
+      [
+        8,
+        3,
+        4,
+        7,
+        2,
+        5,
+        6,
+        1,
+        9
+      ],
+      [
+        7,
+        8,
+        6,
+        4,
+        1,
+        2,
+        9,
+        5,
+        3
+      ],
+      [
+        3,
+        4,
+        9,
+        5,
+        8,
+        7,
+        1,
+        2,
+        6
+      ],
+      [
+        2,
+        5,
+        1,
+        9,
+        3,
+        6,
+        7,
+        8,
+        4
+      ],
+      [
+        4,
+        6,
+        8,
+        2,
+        7,
+        3,
+        5,
+        9,
+        1
+      ],
+      [
+        1,
+        9,
+        7,
+        8,
+        5,
+        4,
+        3,
+        6,
+        2
+      ],
+      [
+        5,
+        2,
+        3,
+        6,
+        9,
+        1,
+        8,
+        4,
+        7
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1down",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "length": 3,
+        "answer": "BUN",
+        "clue": "Round bread roll"
+      },
+      {
+        "id": "2across",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "RIB",
+        "clue": "Curved bone in the chest"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "RIVAL",
+        "clue": "Competitor"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "length": 4,
+        "answer": "ITEM",
+        "clue": "Individual object"
+      },
+      {
+        "id": "4across",
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "UNIT",
+        "clue": "Single item, or a measure"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "direction": "down",
+        "length": 4,
+        "answer": "NOSE",
+        "clue": "Organ used for smelling"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "NOVEL",
+        "clue": "Long fictional book"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 4,
+        "direction": "down",
+        "length": 3,
+        "answer": "LEG",
+        "clue": "Limb used for walking"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "SAME",
+        "clue": "Identical"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "GEL",
+        "clue": "Styling product for hair"
+      }
+    ],
+    "solution_grid": [
+      [
+        "B",
+        "#",
+        "R",
+        "I",
+        "B"
+      ],
+      [
+        "U",
+        "N",
+        "I",
+        "T",
+        "#"
+      ],
+      [
+        "N",
+        "O",
+        "V",
+        "E",
+        "L"
+      ],
+      [
+        "#",
+        "S",
+        "A",
+        "M",
+        "E"
+      ],
+      [
+        "G",
+        "E",
+        "L",
+        "#",
+        "G"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "A narrative tale; also One level of a building (5)",
+        "answer": "STORY",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"A narrative tale\" and \"One level of a building\" are definitions of STORY."
+      },
+      {
+        "clue": "Vehicle with four wheels, hidden in the captain steered the ship carefully (3)",
+        "answer": "CAR",
+        "wordplay_type": "hidden_word",
+        "explanation": "CAR is hidden in \"the captain steered the ship carefully\" (letters 25-27 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Tiny colony-building insect, oddly arranged: nat (3)",
+        "answer": "ANT",
+        "wordplay_type": "anagram",
+        "explanation": "\"nat\" is an anagram of ANT (the word \"oddly arranged\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Sports equipment for tennis; also Loud disturbing noise (6)",
+        "answer": "RACKET",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Sports equipment for tennis\" and \"Loud disturbing noise\" are definitions of RACKET."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Bodies of water",
+        "words": [
+          "LAKE",
+          "RIVER",
+          "POND",
+          "STREAM"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Varieties of tea",
+        "words": [
+          "GREEN",
+          "BLACK",
+          "HERBAL",
+          "CHAI"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Musical instruments",
+        "words": [
+          "PIANO",
+          "VIOLIN",
+          "GUITAR",
+          "TRUMPET"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Insects",
+        "words": [
+          "BEETLE",
+          "CRICKET",
+          "MANTIS",
+          "MOTH"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
