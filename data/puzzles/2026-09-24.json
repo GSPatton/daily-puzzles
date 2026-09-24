@@ -1,0 +1,445 @@
+{
+  "date": "2026-09-24",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        9,
+        0,
+        8,
+        0,
+        0,
+        0
+      ],
+      [
+        8,
+        0,
+        2,
+        5,
+        0,
+        0,
+        0,
+        9,
+        7
+      ],
+      [
+        7,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        4
+      ],
+      [
+        0,
+        4,
+        9,
+        0,
+        1,
+        5,
+        0,
+        0,
+        8
+      ],
+      [
+        3,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        6,
+        0
+      ],
+      [
+        6,
+        9,
+        3,
+        0,
+        0,
+        0,
+        7,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        7,
+        0,
+        2,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        0,
+        8,
+        5
+      ]
+    ],
+    "solution": [
+      [
+        9,
+        5,
+        1,
+        3,
+        4,
+        7,
+        8,
+        2,
+        6
+      ],
+      [
+        4,
+        7,
+        6,
+        9,
+        2,
+        8,
+        5,
+        1,
+        3
+      ],
+      [
+        8,
+        3,
+        2,
+        5,
+        6,
+        1,
+        4,
+        9,
+        7
+      ],
+      [
+        7,
+        6,
+        8,
+        2,
+        3,
+        9,
+        1,
+        5,
+        4
+      ],
+      [
+        2,
+        4,
+        9,
+        6,
+        1,
+        5,
+        3,
+        7,
+        8
+      ],
+      [
+        3,
+        1,
+        5,
+        7,
+        8,
+        4,
+        9,
+        6,
+        2
+      ],
+      [
+        6,
+        9,
+        3,
+        8,
+        5,
+        2,
+        7,
+        4,
+        1
+      ],
+      [
+        5,
+        8,
+        4,
+        1,
+        7,
+        6,
+        2,
+        3,
+        9
+      ],
+      [
+        1,
+        2,
+        7,
+        4,
+        9,
+        3,
+        6,
+        8,
+        5
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "PASS",
+        "clue": "To go by, or to succeed a test"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "ALONG",
+        "clue": "In line with"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "length": 3,
+        "answer": "SIN",
+        "clue": "Immoral act"
+      },
+      {
+        "id": "4down",
+        "number": 4,
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "length": 4,
+        "answer": "STEP",
+        "clue": "One pace, or a stair"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "length": 4,
+        "answer": "CAPE",
+        "clue": "Sleeveless cloak"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 1,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "LIT",
+        "clue": "Turned on, or past tense of light"
+      },
+      {
+        "id": "7across",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "ALONE",
+        "clue": "By oneself"
+      },
+      {
+        "id": "8down",
+        "number": 8,
+        "row": 2,
+        "col": 1,
+        "direction": "down",
+        "length": 3,
+        "answer": "LID",
+        "clue": "Cover for a jar"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "PIN",
+        "clue": "Sharp fastening tool"
+      },
+      {
+        "id": "10across",
+        "number": 10,
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "EDGE",
+        "clue": "Outer boundary"
+      }
+    ],
+    "solution_grid": [
+      [
+        "#",
+        "P",
+        "A",
+        "S",
+        "S"
+      ],
+      [
+        "C",
+        "#",
+        "L",
+        "I",
+        "T"
+      ],
+      [
+        "A",
+        "L",
+        "O",
+        "N",
+        "E"
+      ],
+      [
+        "P",
+        "I",
+        "N",
+        "#",
+        "P"
+      ],
+      [
+        "E",
+        "D",
+        "G",
+        "E",
+        "#"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "A narrative tale; also One level of a building (5)",
+        "answer": "STORY",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"A narrative tale\" and \"One level of a building\" are definitions of STORY."
+      },
+      {
+        "clue": "Televised or staged performance, found within local artists showcase their new work (4)",
+        "answer": "SHOW",
+        "wordplay_type": "hidden_word",
+        "explanation": "SHOW is hidden in \"local artists showcase their new work\" (letters 13-16 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Large body of matter, mixed up: asms (4)",
+        "answer": "MASS",
+        "wordplay_type": "anagram",
+        "explanation": "\"asms\" is an anagram of MASS (the word \"mixed up\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "To throw a ball; also A playing field, or a musical tone (5)",
+        "answer": "PITCH",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"To throw a ball\" and \"A playing field, or a musical tone\" are definitions of PITCH."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Types of pasta",
+        "words": [
+          "PENNE",
+          "FUSILLI",
+          "SPAGHETTI",
+          "RAVIOLI"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Citrus fruits",
+        "words": [
+          "ORANGE",
+          "GRAPEFRUIT",
+          "LEMON",
+          "TANGERINE"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Board games",
+        "words": [
+          "CHESS",
+          "MONOPOLY",
+          "SCRABBLE",
+          "CLUEDO"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "___light",
+        "words": [
+          "MOON",
+          "SUN",
+          "DAY",
+          "LIME"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
