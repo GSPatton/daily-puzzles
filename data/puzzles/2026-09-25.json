@@ -1,0 +1,445 @@
+{
+  "date": "2026-09-25",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        6,
+        0,
+        0,
+        8,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        0,
+        9,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        3,
+        0,
+        6,
+        5,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        3,
+        0,
+        0,
+        0,
+        9,
+        0,
+        7,
+        0,
+        1
+      ],
+      [
+        5,
+        2,
+        0,
+        0,
+        0,
+        7,
+        0,
+        3,
+        4
+      ],
+      [
+        8,
+        0,
+        0,
+        0,
+        4,
+        3,
+        2,
+        0,
+        6
+      ],
+      [
+        0,
+        0,
+        4,
+        0,
+        0,
+        6,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        4,
+        3,
+        0,
+        9,
+        0,
+        0
+      ],
+      [
+        6,
+        8,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        7,
+        6,
+        2,
+        3,
+        8,
+        1,
+        5,
+        4,
+        9
+      ],
+      [
+        4,
+        1,
+        5,
+        7,
+        2,
+        9,
+        6,
+        8,
+        3
+      ],
+      [
+        9,
+        3,
+        8,
+        6,
+        5,
+        4,
+        1,
+        7,
+        2
+      ],
+      [
+        3,
+        4,
+        6,
+        2,
+        9,
+        8,
+        7,
+        5,
+        1
+      ],
+      [
+        5,
+        2,
+        9,
+        1,
+        6,
+        7,
+        8,
+        3,
+        4
+      ],
+      [
+        8,
+        7,
+        1,
+        5,
+        4,
+        3,
+        2,
+        9,
+        6
+      ],
+      [
+        2,
+        9,
+        4,
+        8,
+        7,
+        6,
+        3,
+        1,
+        5
+      ],
+      [
+        1,
+        5,
+        7,
+        4,
+        3,
+        2,
+        9,
+        6,
+        8
+      ],
+      [
+        6,
+        8,
+        3,
+        9,
+        1,
+        5,
+        4,
+        2,
+        7
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1down",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "length": 3,
+        "answer": "ODD",
+        "clue": "Strange, or not even"
+      },
+      {
+        "id": "2across",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "ERA",
+        "clue": "Distinct period of time"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "EVENT",
+        "clue": "Notable happening"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "length": 4,
+        "answer": "REST",
+        "clue": "To relax"
+      },
+      {
+        "id": "4across",
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "DIVE",
+        "clue": "To plunge headfirst"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "direction": "down",
+        "length": 4,
+        "answer": "IRON",
+        "clue": "Strong metal, also a pressing appliance"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "DRESS",
+        "clue": "One-piece garment"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 4,
+        "direction": "down",
+        "length": 3,
+        "answer": "SON",
+        "clue": "Male child"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "ONTO",
+        "clue": "On top of"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "ANT",
+        "clue": "Tiny colony-building insect"
+      }
+    ],
+    "solution_grid": [
+      [
+        "O",
+        "#",
+        "E",
+        "R",
+        "A"
+      ],
+      [
+        "D",
+        "I",
+        "V",
+        "E",
+        "#"
+      ],
+      [
+        "D",
+        "R",
+        "E",
+        "S",
+        "S"
+      ],
+      [
+        "#",
+        "O",
+        "N",
+        "T",
+        "O"
+      ],
+      [
+        "A",
+        "N",
+        "T",
+        "#",
+        "N"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Flippered marine mammal; also To close something airtight (4)",
+        "answer": "SEAL",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Flippered marine mammal\" and \"To close something airtight\" are definitions of SEAL."
+      },
+      {
+        "clue": "Discarded stuff, gone wrong: nukj (4)",
+        "answer": "JUNK",
+        "wordplay_type": "anagram",
+        "explanation": "\"nukj\" is an anagram of JUNK (the word \"gone wrong\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Large tank for liquid, held in the scientist recorded careful observations (3)",
+        "answer": "VAT",
+        "wordplay_type": "hidden_word",
+        "explanation": "VAT is hidden in \"the scientist recorded careful observations\" (letters 33-35 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "To throw a ball; also A playing field, or a musical tone (5)",
+        "answer": "PITCH",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"To throw a ball\" and \"A playing field, or a musical tone\" are definitions of PITCH."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Types of hats",
+        "words": [
+          "FEDORA",
+          "BERET",
+          "BEANIE",
+          "SOMBRERO"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Precious gems",
+        "words": [
+          "RUBY",
+          "EMERALD",
+          "SAPPHIRE",
+          "TOPAZ"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Colors",
+        "words": [
+          "RED",
+          "BLUE",
+          "YELLOW",
+          "PURPLE"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Varieties of tea",
+        "words": [
+          "GREEN",
+          "BLACK",
+          "HERBAL",
+          "CHAI"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
