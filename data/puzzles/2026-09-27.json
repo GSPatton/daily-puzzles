@@ -1,0 +1,445 @@
+{
+  "date": "2026-09-27",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        0,
+        0,
+        8,
+        0,
+        6,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        5,
+        0,
+        4,
+        0,
+        0,
+        0,
+        3,
+        0
+      ],
+      [
+        0,
+        6,
+        0,
+        0,
+        9,
+        5,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        6,
+        0,
+        0,
+        0,
+        8,
+        4,
+        0
+      ],
+      [
+        5,
+        0,
+        0,
+        9,
+        8,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        4,
+        0,
+        0,
+        1,
+        0,
+        0,
+        3,
+        5,
+        0
+      ],
+      [
+        0,
+        3,
+        0,
+        0,
+        0,
+        8,
+        0,
+        9,
+        0
+      ],
+      [
+        9,
+        0,
+        4,
+        6,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        2,
+        7,
+        3,
+        4,
+        0,
+        0,
+        0,
+        6
+      ]
+    ],
+    "solution": [
+      [
+        7,
+        4,
+        1,
+        8,
+        3,
+        6,
+        9,
+        2,
+        5
+      ],
+      [
+        2,
+        5,
+        9,
+        4,
+        7,
+        1,
+        6,
+        3,
+        8
+      ],
+      [
+        3,
+        6,
+        8,
+        2,
+        9,
+        5,
+        4,
+        7,
+        1
+      ],
+      [
+        1,
+        9,
+        6,
+        5,
+        2,
+        3,
+        8,
+        4,
+        7
+      ],
+      [
+        5,
+        7,
+        3,
+        9,
+        8,
+        4,
+        1,
+        6,
+        2
+      ],
+      [
+        4,
+        8,
+        2,
+        1,
+        6,
+        7,
+        3,
+        5,
+        9
+      ],
+      [
+        6,
+        3,
+        5,
+        7,
+        1,
+        8,
+        2,
+        9,
+        4
+      ],
+      [
+        9,
+        1,
+        4,
+        6,
+        5,
+        2,
+        7,
+        8,
+        3
+      ],
+      [
+        8,
+        2,
+        7,
+        3,
+        4,
+        9,
+        5,
+        1,
+        6
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "SPOT",
+        "clue": "Small mark, or a location"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "PAPER",
+        "clue": "Thin material for writing"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "length": 3,
+        "answer": "OIL",
+        "clue": "Slippery liquid used for cooking or fuel"
+      },
+      {
+        "id": "4down",
+        "number": 4,
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "length": 4,
+        "answer": "TREE",
+        "clue": "Tall plant with a trunk"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "length": 4,
+        "answer": "BATH",
+        "clue": "Wash in a tub"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 1,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "AIR",
+        "clue": "What you breathe"
+      },
+      {
+        "id": "7across",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "APPLE",
+        "clue": "Fruit that keeps the doctor away"
+      },
+      {
+        "id": "8down",
+        "number": 8,
+        "row": 2,
+        "col": 1,
+        "direction": "down",
+        "length": 3,
+        "answer": "PIE",
+        "clue": "Baked dessert with a crust"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "TIE",
+        "clue": "Neckwear, or a drawn match"
+      },
+      {
+        "id": "10across",
+        "number": 10,
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "HERD",
+        "clue": "Group of grazing animals"
+      }
+    ],
+    "solution_grid": [
+      [
+        "#",
+        "S",
+        "P",
+        "O",
+        "T"
+      ],
+      [
+        "B",
+        "#",
+        "A",
+        "I",
+        "R"
+      ],
+      [
+        "A",
+        "P",
+        "P",
+        "L",
+        "E"
+      ],
+      [
+        "T",
+        "I",
+        "E",
+        "#",
+        "E"
+      ],
+      [
+        "H",
+        "E",
+        "R",
+        "D",
+        "#"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "To have fun, or a stage production, held in a talented painter displayed her canvases (4)",
+        "answer": "PLAY",
+        "wordplay_type": "hidden_word",
+        "explanation": "PLAY is hidden in \"a talented painter displayed her canvases\" (letters 20-23 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "The earth's surface; also Past tense of grind (6)",
+        "answer": "GROUND",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"The earth's surface\" and \"Past tense of grind\" are definitions of GROUND."
+      },
+      {
+        "clue": "Ordinal after fifth, shuffled: hstxi (5)",
+        "answer": "SIXTH",
+        "wordplay_type": "anagram",
+        "explanation": "\"hstxi\" is an anagram of SIXTH (the word \"shuffled\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "To help someone learn, buried in the drama teacher praised the actors (5)",
+        "answer": "TEACH",
+        "wordplay_type": "hidden_word",
+        "explanation": "TEACH is hidden in \"the drama teacher praised the actors\" (letters 9-13 of the phrase with spaces removed)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Colors",
+        "words": [
+          "RED",
+          "BLUE",
+          "YELLOW",
+          "PURPLE"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Types of ___storm",
+        "words": [
+          "THUNDER",
+          "SAND",
+          "SNOW",
+          "FIRE"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Farm animals",
+        "words": [
+          "COW",
+          "PIG",
+          "SHEEP",
+          "GOAT"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Big cats",
+        "words": [
+          "LION",
+          "TIGER",
+          "LEOPARD",
+          "CHEETAH"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
