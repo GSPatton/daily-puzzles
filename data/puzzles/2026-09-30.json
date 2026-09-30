@@ -1,0 +1,445 @@
+{
+  "date": "2026-09-30",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        3,
+        0,
+        7,
+        0,
+        0,
+        4,
+        0,
+        0
+      ],
+      [
+        0,
+        9,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        8,
+        2,
+        4,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0
+      ],
+      [
+        0,
+        6,
+        3,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        7,
+        0,
+        5
+      ],
+      [
+        0,
+        4,
+        0,
+        0,
+        9,
+        0,
+        0,
+        6,
+        3
+      ],
+      [
+        0,
+        5,
+        0,
+        0,
+        8,
+        7,
+        0,
+        3,
+        4
+      ],
+      [
+        0,
+        0,
+        8,
+        4,
+        0,
+        0,
+        2,
+        5,
+        0
+      ],
+      [
+        0,
+        0,
+        6,
+        0,
+        3,
+        0,
+        0,
+        8,
+        9
+      ]
+    ],
+    "solution": [
+      [
+        6,
+        3,
+        1,
+        7,
+        5,
+        8,
+        4,
+        9,
+        2
+      ],
+      [
+        7,
+        9,
+        5,
+        6,
+        2,
+        4,
+        3,
+        1,
+        8
+      ],
+      [
+        8,
+        2,
+        4,
+        9,
+        1,
+        3,
+        5,
+        7,
+        6
+      ],
+      [
+        5,
+        6,
+        3,
+        8,
+        7,
+        2,
+        9,
+        4,
+        1
+      ],
+      [
+        1,
+        8,
+        9,
+        3,
+        4,
+        6,
+        7,
+        2,
+        5
+      ],
+      [
+        2,
+        4,
+        7,
+        5,
+        9,
+        1,
+        8,
+        6,
+        3
+      ],
+      [
+        9,
+        5,
+        2,
+        1,
+        8,
+        7,
+        6,
+        3,
+        4
+      ],
+      [
+        3,
+        1,
+        8,
+        4,
+        6,
+        9,
+        2,
+        5,
+        7
+      ],
+      [
+        4,
+        7,
+        6,
+        2,
+        3,
+        5,
+        1,
+        8,
+        9
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "SPOT",
+        "clue": "Small mark, or a location"
+      },
+      {
+        "id": "1down",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "length": 4,
+        "answer": "STAY",
+        "clue": "To remain"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "length": 3,
+        "answer": "PAL",
+        "clue": "Friend"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "ONION",
+        "clue": "Layered pungent vegetable"
+      },
+      {
+        "id": "4across",
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "TAN",
+        "clue": "Brown skin tone from the sun"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 4,
+        "direction": "down",
+        "length": 4,
+        "answer": "HERO",
+        "clue": "Brave central character"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "ALIVE",
+        "clue": "Living"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "length": 3,
+        "answer": "VAT",
+        "clue": "Large tank for liquid"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "OAR",
+        "clue": "Paddle used to row a boat"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "ONTO",
+        "clue": "On top of"
+      }
+    ],
+    "solution_grid": [
+      [
+        "S",
+        "P",
+        "O",
+        "T",
+        "#"
+      ],
+      [
+        "T",
+        "A",
+        "N",
+        "#",
+        "H"
+      ],
+      [
+        "A",
+        "L",
+        "I",
+        "V",
+        "E"
+      ],
+      [
+        "Y",
+        "#",
+        "O",
+        "A",
+        "R"
+      ],
+      [
+        "#",
+        "O",
+        "N",
+        "T",
+        "O"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Current events reporting, mixed up: nesw (4)",
+        "answer": "NEWS",
+        "wordplay_type": "anagram",
+        "explanation": "\"nesw\" is an anagram of NEWS (the word \"mixed up\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Distinct period of time, hidden in the general manager approved the plan (3)",
+        "answer": "ERA",
+        "wordplay_type": "hidden_word",
+        "explanation": "ERA is hidden in \"the general manager approved the plan\" (letters 7-9 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Round dish for food; also To roll a ball at pins or a wicket (4)",
+        "answer": "BOWL",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Round dish for food\" and \"To roll a ball at pins or a wicket\" are definitions of BOWL."
+      },
+      {
+        "clue": "Brave central character, in a mess: erho (4)",
+        "answer": "HERO",
+        "wordplay_type": "anagram",
+        "explanation": "\"erho\" is an anagram of HERO (the word \"in a mess\" signals the letters are rearranged)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Big cats",
+        "words": [
+          "LION",
+          "TIGER",
+          "LEOPARD",
+          "CHEETAH"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Colors",
+        "words": [
+          "RED",
+          "BLUE",
+          "YELLOW",
+          "PURPLE"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Types of pasta",
+        "words": [
+          "PENNE",
+          "FUSILLI",
+          "SPAGHETTI",
+          "RAVIOLI"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Types of ___storm",
+        "words": [
+          "THUNDER",
+          "SAND",
+          "SNOW",
+          "FIRE"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
