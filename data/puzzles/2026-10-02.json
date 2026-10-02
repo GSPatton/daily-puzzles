@@ -1,0 +1,445 @@
+{
+  "date": "2026-10-02",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        1,
+        0,
+        2,
+        0,
+        0,
+        0,
+        5,
+        8,
+        0
+      ],
+      [
+        7,
+        9,
+        0,
+        5,
+        0,
+        0,
+        4,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        7,
+        1,
+        2,
+        9,
+        0,
+        0
+      ],
+      [
+        9,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        3,
+        0
+      ],
+      [
+        0,
+        3,
+        5,
+        0,
+        7,
+        0,
+        8,
+        9,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        9,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        8,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        7,
+        4
+      ],
+      [
+        0,
+        0,
+        0,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        4,
+        0,
+        6,
+        0,
+        0,
+        3,
+        0,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        1,
+        6,
+        2,
+        9,
+        3,
+        4,
+        5,
+        8,
+        7
+      ],
+      [
+        7,
+        9,
+        3,
+        5,
+        6,
+        8,
+        4,
+        1,
+        2
+      ],
+      [
+        5,
+        8,
+        4,
+        7,
+        1,
+        2,
+        9,
+        6,
+        3
+      ],
+      [
+        9,
+        1,
+        7,
+        8,
+        4,
+        5,
+        2,
+        3,
+        6
+      ],
+      [
+        4,
+        3,
+        5,
+        2,
+        7,
+        6,
+        8,
+        9,
+        1
+      ],
+      [
+        6,
+        2,
+        8,
+        1,
+        9,
+        3,
+        7,
+        4,
+        5
+      ],
+      [
+        8,
+        5,
+        9,
+        3,
+        2,
+        1,
+        6,
+        7,
+        4
+      ],
+      [
+        3,
+        7,
+        6,
+        4,
+        5,
+        9,
+        1,
+        2,
+        8
+      ],
+      [
+        2,
+        4,
+        1,
+        6,
+        8,
+        7,
+        3,
+        5,
+        9
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1down",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "length": 3,
+        "answer": "RUB",
+        "clue": "To press and move back and forth"
+      },
+      {
+        "id": "2across",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "LEG",
+        "clue": "Limb used for walking"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "LEGAL",
+        "clue": "Permitted by law"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "length": 4,
+        "answer": "EDIT",
+        "clue": "To revise text"
+      },
+      {
+        "id": "4across",
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "USED",
+        "clue": "Not new"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "direction": "down",
+        "length": 4,
+        "answer": "SELL",
+        "clue": "To exchange for money"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "BEGIN",
+        "clue": "To start"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 4,
+        "direction": "down",
+        "length": 3,
+        "answer": "NET",
+        "clue": "Mesh used to catch fish"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "LATE",
+        "clue": "Not on time"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "ILL",
+        "clue": "Sick"
+      }
+    ],
+    "solution_grid": [
+      [
+        "R",
+        "#",
+        "L",
+        "E",
+        "G"
+      ],
+      [
+        "U",
+        "S",
+        "E",
+        "D",
+        "#"
+      ],
+      [
+        "B",
+        "E",
+        "G",
+        "I",
+        "N"
+      ],
+      [
+        "#",
+        "L",
+        "A",
+        "T",
+        "E"
+      ],
+      [
+        "I",
+        "L",
+        "L",
+        "#",
+        "T"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Extent, or a cooking stove, part of the museum curator arranged the exhibit (5)",
+        "answer": "RANGE",
+        "wordplay_type": "hidden_word",
+        "explanation": "RANGE is hidden in \"the museum curator arranged the exhibit\" (letters 19-23 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Flying nocturnal mammal; also Wooden club used in baseball (3)",
+        "answer": "BAT",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Flying nocturnal mammal\" and \"Wooden club used in baseball\" are definitions of BAT."
+      },
+      {
+        "clue": "Cushioned surface, or a notepad, in a mess: apd (3)",
+        "answer": "PAD",
+        "wordplay_type": "anagram",
+        "explanation": "\"apd\" is an anagram of PAD (the word \"in a mess\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "What you see, or an opinion, some of the committee reviewed each application (4)",
+        "answer": "VIEW",
+        "wordplay_type": "hidden_word",
+        "explanation": "VIEW is hidden in \"the committee reviewed each application\" (letters 15-18 of the phrase with spaces removed)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Big cats",
+        "words": [
+          "LION",
+          "TIGER",
+          "LEOPARD",
+          "CHEETAH"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "School subjects",
+        "words": [
+          "MATH",
+          "SCIENCE",
+          "HISTORY",
+          "ART"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Chess pieces",
+        "words": [
+          "KING",
+          "QUEEN",
+          "BISHOP",
+          "KNIGHT"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Types of hats",
+        "words": [
+          "FEDORA",
+          "BERET",
+          "BEANIE",
+          "SOMBRERO"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
