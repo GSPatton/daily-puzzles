@@ -1,0 +1,445 @@
+{
+  "date": "2026-10-05",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        0,
+        7,
+        3,
+        0,
+        0,
+        5,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        6,
+        0,
+        1,
+        8,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        9,
+        6,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        0,
+        0,
+        9,
+        6,
+        0,
+        8,
+        0,
+        5
+      ],
+      [
+        0,
+        7,
+        4,
+        8,
+        5,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        6,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        8,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        5,
+        0
+      ],
+      [
+        0,
+        9,
+        0,
+        0,
+        0,
+        4,
+        6,
+        0,
+        8
+      ]
+    ],
+    "solution": [
+      [
+        8,
+        1,
+        7,
+        3,
+        9,
+        2,
+        5,
+        6,
+        4
+      ],
+      [
+        4,
+        5,
+        6,
+        7,
+        1,
+        8,
+        3,
+        9,
+        2
+      ],
+      [
+        3,
+        2,
+        9,
+        6,
+        4,
+        5,
+        7,
+        8,
+        1
+      ],
+      [
+        2,
+        3,
+        1,
+        9,
+        6,
+        7,
+        8,
+        4,
+        5
+      ],
+      [
+        9,
+        7,
+        4,
+        8,
+        5,
+        3,
+        2,
+        1,
+        6
+      ],
+      [
+        5,
+        6,
+        8,
+        4,
+        2,
+        1,
+        9,
+        7,
+        3
+      ],
+      [
+        1,
+        8,
+        2,
+        5,
+        7,
+        6,
+        4,
+        3,
+        9
+      ],
+      [
+        6,
+        4,
+        3,
+        2,
+        8,
+        9,
+        1,
+        5,
+        7
+      ],
+      [
+        7,
+        9,
+        5,
+        1,
+        3,
+        4,
+        6,
+        2,
+        8
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "STAY",
+        "clue": "To remain"
+      },
+      {
+        "id": "1down",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "length": 4,
+        "answer": "SOUP",
+        "clue": "Warm liquid dish, often with vegetables"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "length": 3,
+        "answer": "TIN",
+        "clue": "Silvery metal, or a small can"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "ALIVE",
+        "clue": "Living"
+      },
+      {
+        "id": "4across",
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "OIL",
+        "clue": "Slippery liquid used for cooking or fuel"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 4,
+        "direction": "down",
+        "length": 4,
+        "answer": "MEND",
+        "clue": "To repair"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "UNITE",
+        "clue": "To join together"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "length": 3,
+        "answer": "TAN",
+        "clue": "Brown skin tone from the sun"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "VAN",
+        "clue": "Boxy vehicle for hauling"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "SEND",
+        "clue": "To dispatch"
+      }
+    ],
+    "solution_grid": [
+      [
+        "S",
+        "T",
+        "A",
+        "Y",
+        "#"
+      ],
+      [
+        "O",
+        "I",
+        "L",
+        "#",
+        "M"
+      ],
+      [
+        "U",
+        "N",
+        "I",
+        "T",
+        "E"
+      ],
+      [
+        "P",
+        "#",
+        "V",
+        "A",
+        "N"
+      ],
+      [
+        "#",
+        "S",
+        "E",
+        "N",
+        "D"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "What you breathe, mixed up: rai (3)",
+        "answer": "AIR",
+        "wordplay_type": "anagram",
+        "explanation": "\"rai\" is an anagram of AIR (the word \"mixed up\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Flying nocturnal mammal; also Wooden club used in baseball (3)",
+        "answer": "BAT",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Flying nocturnal mammal\" and \"Wooden club used in baseball\" are definitions of BAT."
+      },
+      {
+        "clue": "A great deal, or a parcel of land, part of the pilot announced a smooth landing (3)",
+        "answer": "LOT",
+        "wordplay_type": "hidden_word",
+        "explanation": "LOT is hidden in \"the pilot announced a smooth landing\" (letters 6-8 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Armored vehicle, or a water container, confused: tnak (4)",
+        "answer": "TANK",
+        "wordplay_type": "anagram",
+        "explanation": "\"tnak\" is an anagram of TANK (the word \"confused\" signals the letters are rearranged)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Units of time",
+        "words": [
+          "SECOND",
+          "MINUTE",
+          "HOUR",
+          "WEEK"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Types of bread",
+        "words": [
+          "RYE",
+          "SOURDOUGH",
+          "BAGUETTE",
+          "PITA"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Types of clouds",
+        "words": [
+          "CUMULUS",
+          "STRATUS",
+          "CIRRUS",
+          "NIMBUS"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Weather phenomena",
+        "words": [
+          "RAIN",
+          "HAIL",
+          "FOG",
+          "SLEET"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
