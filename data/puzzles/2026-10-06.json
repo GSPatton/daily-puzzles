@@ -1,0 +1,445 @@
+{
+  "date": "2026-10-06",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        0,
+        5,
+        7,
+        4,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        9,
+        4,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        6,
+        7,
+        2,
+        1,
+        0,
+        0,
+        5,
+        9
+      ],
+      [
+        5,
+        0,
+        0,
+        6,
+        7,
+        2,
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        9,
+        0,
+        0,
+        0,
+        7,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        0,
+        3,
+        6,
+        0,
+        0,
+        7,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        9,
+        0,
+        0,
+        1,
+        2,
+        8,
+        0,
+        0,
+        5
+      ]
+    ],
+    "solution": [
+      [
+        1,
+        3,
+        5,
+        7,
+        4,
+        9,
+        6,
+        8,
+        2
+      ],
+      [
+        2,
+        9,
+        4,
+        8,
+        5,
+        6,
+        1,
+        3,
+        7
+      ],
+      [
+        8,
+        6,
+        7,
+        2,
+        1,
+        3,
+        4,
+        5,
+        9
+      ],
+      [
+        5,
+        4,
+        1,
+        6,
+        7,
+        2,
+        8,
+        9,
+        3
+      ],
+      [
+        7,
+        2,
+        3,
+        9,
+        8,
+        4,
+        5,
+        6,
+        1
+      ],
+      [
+        6,
+        8,
+        9,
+        5,
+        3,
+        1,
+        7,
+        2,
+        4
+      ],
+      [
+        4,
+        1,
+        2,
+        3,
+        6,
+        5,
+        9,
+        7,
+        8
+      ],
+      [
+        3,
+        5,
+        8,
+        4,
+        9,
+        7,
+        2,
+        1,
+        6
+      ],
+      [
+        9,
+        7,
+        6,
+        1,
+        2,
+        8,
+        3,
+        4,
+        5
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        1
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "DIM",
+        "clue": "Not bright"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "length": 4,
+        "answer": "IDEA",
+        "clue": "A thought or plan"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "MOVIE",
+        "clue": "Motion picture"
+      },
+      {
+        "id": "4down",
+        "number": 4,
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "length": 3,
+        "answer": "GEL",
+        "clue": "Styling product for hair"
+      },
+      {
+        "id": "5across",
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "DOSE",
+        "clue": "Measured amount of medicine"
+      },
+      {
+        "id": "6down",
+        "number": 6,
+        "row": 1,
+        "col": 3,
+        "direction": "down",
+        "length": 4,
+        "answer": "SING",
+        "clue": "To make music with your voice"
+      },
+      {
+        "id": "7across",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "DEVIL",
+        "clue": "Evil being"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "down",
+        "length": 3,
+        "answer": "DRY",
+        "clue": "Not wet"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "RAIN",
+        "clue": "Water falling from clouds"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "EGG",
+        "clue": "Laid by a hen"
+      }
+    ],
+    "solution_grid": [
+      [
+        "D",
+        "I",
+        "M",
+        "#",
+        "G"
+      ],
+      [
+        "#",
+        "D",
+        "O",
+        "S",
+        "E"
+      ],
+      [
+        "D",
+        "E",
+        "V",
+        "I",
+        "L"
+      ],
+      [
+        "R",
+        "A",
+        "I",
+        "N",
+        "#"
+      ],
+      [
+        "Y",
+        "#",
+        "E",
+        "G",
+        "G"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Long narrow hilltop, some of the engineer designed a new bridge (5)",
+        "answer": "RIDGE",
+        "wordplay_type": "hidden_word",
+        "explanation": "RIDGE is hidden in \"the engineer designed a new bridge\" (letters 25-29 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Not difficult, gone wrong: aesy (4)",
+        "answer": "EASY",
+        "wordplay_type": "anagram",
+        "explanation": "\"aesy\" is an anagram of EASY (the word \"gone wrong\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Measuring stick; also Monarch or leader (5)",
+        "answer": "RULER",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Measuring stick\" and \"Monarch or leader\" are definitions of RULER."
+      },
+      {
+        "clue": "Helps a fish swim, buried in a determined runner finished the marathon (3)",
+        "answer": "FIN",
+        "wordplay_type": "hidden_word",
+        "explanation": "FIN is hidden in \"a determined runner finished the marathon\" (letters 18-20 of the phrase with spaces removed)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Musical instruments",
+        "words": [
+          "PIANO",
+          "VIOLIN",
+          "GUITAR",
+          "TRUMPET"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Types of clouds",
+        "words": [
+          "CUMULUS",
+          "STRATUS",
+          "CIRRUS",
+          "NIMBUS"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "School subjects",
+        "words": [
+          "MATH",
+          "SCIENCE",
+          "HISTORY",
+          "ART"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Card suits",
+        "words": [
+          "HEARTS",
+          "CLUBS",
+          "SPADES",
+          "DIAMONDS"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
