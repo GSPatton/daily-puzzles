@@ -1,0 +1,445 @@
+{
+  "date": "2026-10-08",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        9,
+        8,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        0,
+        9,
+        0,
+        1,
+        0,
+        7,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        4,
+        0,
+        8,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        5,
+        0,
+        8,
+        0,
+        4,
+        0,
+        6,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        6,
+        0,
+        2,
+        4,
+        0,
+        0
+      ],
+      [
+        0,
+        2,
+        4,
+        0,
+        9,
+        5,
+        8,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        7,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        6,
+        0,
+        0,
+        7,
+        9,
+        0,
+        0,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        9,
+        8,
+        2,
+        3,
+        6,
+        7,
+        1,
+        5,
+        4
+      ],
+      [
+        5,
+        4,
+        6,
+        9,
+        2,
+        1,
+        3,
+        7,
+        8
+      ],
+      [
+        1,
+        7,
+        3,
+        4,
+        5,
+        8,
+        9,
+        2,
+        6
+      ],
+      [
+        3,
+        5,
+        9,
+        8,
+        1,
+        4,
+        2,
+        6,
+        7
+      ],
+      [
+        8,
+        1,
+        7,
+        6,
+        3,
+        2,
+        4,
+        9,
+        5
+      ],
+      [
+        6,
+        2,
+        4,
+        7,
+        9,
+        5,
+        8,
+        3,
+        1
+      ],
+      [
+        4,
+        3,
+        5,
+        2,
+        8,
+        6,
+        7,
+        1,
+        9
+      ],
+      [
+        7,
+        9,
+        1,
+        5,
+        4,
+        3,
+        6,
+        8,
+        2
+      ],
+      [
+        2,
+        6,
+        8,
+        1,
+        7,
+        9,
+        5,
+        4,
+        3
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "FEAR",
+        "clue": "Feeling of dread"
+      },
+      {
+        "id": "1down",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "length": 4,
+        "answer": "FIST",
+        "clue": "Clenched hand"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "length": 3,
+        "answer": "ELM",
+        "clue": "Shade tree with serrated leaves"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "ALIVE",
+        "clue": "Living"
+      },
+      {
+        "id": "4across",
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "ILL",
+        "clue": "Sick"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 4,
+        "direction": "down",
+        "length": 4,
+        "answer": "SENT",
+        "clue": "Past tense of send"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "SMILE",
+        "clue": "Happy facial expression"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "length": 3,
+        "answer": "LAB",
+        "clue": "Room for scientific work"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "VAN",
+        "clue": "Boxy vehicle for hauling"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "DEBT",
+        "clue": "Money owed"
+      }
+    ],
+    "solution_grid": [
+      [
+        "F",
+        "E",
+        "A",
+        "R",
+        "#"
+      ],
+      [
+        "I",
+        "L",
+        "L",
+        "#",
+        "S"
+      ],
+      [
+        "S",
+        "M",
+        "I",
+        "L",
+        "E"
+      ],
+      [
+        "T",
+        "#",
+        "V",
+        "A",
+        "N"
+      ],
+      [
+        "#",
+        "D",
+        "E",
+        "B",
+        "T"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "To throw a ball; also A playing field, or a musical tone (5)",
+        "answer": "PITCH",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"To throw a ball\" and \"A playing field, or a musical tone\" are definitions of PITCH."
+      },
+      {
+        "clue": "Symbolic banner of a nation, in a mess: gfla (4)",
+        "answer": "FLAG",
+        "wordplay_type": "anagram",
+        "explanation": "\"gfla\" is an anagram of FLAG (the word \"in a mess\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Freedom from difficulty, part of please deliver the parcel promptly (4)",
+        "answer": "EASE",
+        "wordplay_type": "hidden_word",
+        "explanation": "EASE is hidden in \"please deliver the parcel promptly\" (letters 3-6 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Stone; also To sway back and forth (4)",
+        "answer": "ROCK",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Stone\" and \"To sway back and forth\" are definitions of ROCK."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Types of ___storm",
+        "words": [
+          "THUNDER",
+          "SAND",
+          "SNOW",
+          "FIRE"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Weather phenomena",
+        "words": [
+          "RAIN",
+          "HAIL",
+          "FOG",
+          "SLEET"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Colors",
+        "words": [
+          "RED",
+          "BLUE",
+          "YELLOW",
+          "PURPLE"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "___light",
+        "words": [
+          "MOON",
+          "SUN",
+          "DAY",
+          "LIME"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
