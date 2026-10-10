@@ -1,0 +1,445 @@
+{
+  "date": "2026-10-10",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        7,
+        0,
+        3,
+        0,
+        0,
+        0,
+        2,
+        4
+      ],
+      [
+        0,
+        0,
+        9,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        4,
+        0,
+        0,
+        0,
+        6,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        8,
+        3,
+        9,
+        0,
+        6,
+        0
+      ],
+      [
+        0,
+        0,
+        4,
+        0,
+        2,
+        1,
+        8,
+        5,
+        0
+      ],
+      [
+        0,
+        2,
+        6,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        7,
+        5,
+        0,
+        9,
+        0,
+        8,
+        0,
+        0,
+        1
+      ],
+      [
+        1,
+        0,
+        3,
+        0,
+        0,
+        4,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        8,
+        0,
+        1,
+        0,
+        2,
+        0,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        6,
+        7,
+        1,
+        3,
+        8,
+        5,
+        9,
+        2,
+        4
+      ],
+      [
+        3,
+        8,
+        9,
+        4,
+        7,
+        2,
+        5,
+        1,
+        6
+      ],
+      [
+        2,
+        4,
+        5,
+        1,
+        9,
+        6,
+        7,
+        8,
+        3
+      ],
+      [
+        5,
+        1,
+        7,
+        8,
+        3,
+        9,
+        4,
+        6,
+        2
+      ],
+      [
+        9,
+        3,
+        4,
+        6,
+        2,
+        1,
+        8,
+        5,
+        7
+      ],
+      [
+        8,
+        2,
+        6,
+        5,
+        4,
+        7,
+        1,
+        3,
+        9
+      ],
+      [
+        7,
+        5,
+        2,
+        9,
+        6,
+        8,
+        3,
+        4,
+        1
+      ],
+      [
+        1,
+        9,
+        3,
+        2,
+        5,
+        4,
+        6,
+        7,
+        8
+      ],
+      [
+        4,
+        6,
+        8,
+        7,
+        1,
+        3,
+        2,
+        9,
+        5
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        1
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "FUN",
+        "clue": "Enjoyable"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "length": 4,
+        "answer": "UNIT",
+        "clue": "Single item, or a measure"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "NOVEL",
+        "clue": "Long fictional book"
+      },
+      {
+        "id": "4down",
+        "number": 4,
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "length": 3,
+        "answer": "GEL",
+        "clue": "Styling product for hair"
+      },
+      {
+        "id": "5across",
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "NOSE",
+        "clue": "Organ used for smelling"
+      },
+      {
+        "id": "6down",
+        "number": 6,
+        "row": 1,
+        "col": 3,
+        "direction": "down",
+        "length": 4,
+        "answer": "SAME",
+        "clue": "Identical"
+      },
+      {
+        "id": "7across",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "RIVAL",
+        "clue": "Competitor"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "down",
+        "length": 3,
+        "answer": "RIB",
+        "clue": "Curved bone in the chest"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "ITEM",
+        "clue": "Individual object"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "LEG",
+        "clue": "Limb used for walking"
+      }
+    ],
+    "solution_grid": [
+      [
+        "F",
+        "U",
+        "N",
+        "#",
+        "G"
+      ],
+      [
+        "#",
+        "N",
+        "O",
+        "S",
+        "E"
+      ],
+      [
+        "R",
+        "I",
+        "V",
+        "A",
+        "L"
+      ],
+      [
+        "I",
+        "T",
+        "E",
+        "M",
+        "#"
+      ],
+      [
+        "B",
+        "#",
+        "L",
+        "E",
+        "G"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "To cut neatly, gone wrong: tmri (4)",
+        "answer": "TRIM",
+        "wordplay_type": "anagram",
+        "explanation": "\"tmri\" is an anagram of TRIM (the word \"gone wrong\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Measuring stick; also Monarch or leader (5)",
+        "answer": "RULER",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Measuring stick\" and \"Monarch or leader\" are definitions of RULER."
+      },
+      {
+        "clue": "To employ for a purpose, hidden in the electrician rewired the old house (3)",
+        "answer": "USE",
+        "wordplay_type": "hidden_word",
+        "explanation": "USE is hidden in \"the electrician rewired the old house\" (letters 30-32 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Group made at one time, confused: abcth (5)",
+        "answer": "BATCH",
+        "wordplay_type": "anagram",
+        "explanation": "\"abcth\" is an anagram of BATCH (the word \"confused\" signals the letters are rearranged)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Kitchen utensils",
+        "words": [
+          "SPATULA",
+          "WHISK",
+          "LADLE",
+          "TONGS"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Musical instruments",
+        "words": [
+          "PIANO",
+          "VIOLIN",
+          "GUITAR",
+          "TRUMPET"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Card suits",
+        "words": [
+          "HEARTS",
+          "CLUBS",
+          "SPADES",
+          "DIAMONDS"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Precious gems",
+        "words": [
+          "RUBY",
+          "EMERALD",
+          "SAPPHIRE",
+          "TOPAZ"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
