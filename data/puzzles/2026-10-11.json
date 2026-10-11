@@ -1,0 +1,445 @@
+{
+  "date": "2026-10-11",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        3,
+        0,
+        0,
+        0,
+        9,
+        8,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        7,
+        5,
+        3,
+        0,
+        0
+      ],
+      [
+        7,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        8,
+        0
+      ],
+      [
+        0,
+        0,
+        8,
+        0,
+        0,
+        4,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        9,
+        3,
+        0,
+        0,
+        0,
+        6,
+        0
+      ],
+      [
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        9,
+        0
+      ],
+      [
+        6,
+        0,
+        3,
+        0,
+        0,
+        1,
+        5,
+        7,
+        0
+      ],
+      [
+        8,
+        0,
+        4,
+        5,
+        3,
+        0,
+        0,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        0,
+        7,
+        0,
+        0,
+        0,
+        0,
+        3
+      ]
+    ],
+    "solution": [
+      [
+        3,
+        4,
+        2,
+        6,
+        9,
+        8,
+        7,
+        5,
+        1
+      ],
+      [
+        9,
+        8,
+        6,
+        1,
+        7,
+        5,
+        3,
+        2,
+        4
+      ],
+      [
+        7,
+        5,
+        1,
+        4,
+        2,
+        3,
+        9,
+        8,
+        6
+      ],
+      [
+        2,
+        6,
+        8,
+        9,
+        5,
+        4,
+        1,
+        3,
+        7
+      ],
+      [
+        4,
+        1,
+        9,
+        3,
+        8,
+        7,
+        2,
+        6,
+        5
+      ],
+      [
+        5,
+        3,
+        7,
+        2,
+        1,
+        6,
+        4,
+        9,
+        8
+      ],
+      [
+        6,
+        9,
+        3,
+        8,
+        4,
+        1,
+        5,
+        7,
+        2
+      ],
+      [
+        8,
+        7,
+        4,
+        5,
+        3,
+        2,
+        6,
+        1,
+        9
+      ],
+      [
+        1,
+        2,
+        5,
+        7,
+        6,
+        9,
+        8,
+        4,
+        3
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        1
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "ARM",
+        "clue": "Limb from shoulder to hand"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "length": 4,
+        "answer": "READ",
+        "clue": "To interpret written words"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "MANGO",
+        "clue": "Sweet tropical fruit"
+      },
+      {
+        "id": "4down",
+        "number": 4,
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "length": 3,
+        "answer": "GEL",
+        "clue": "Styling product for hair"
+      },
+      {
+        "id": "5across",
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "EASE",
+        "clue": "Freedom from difficulty"
+      },
+      {
+        "id": "6down",
+        "number": 6,
+        "row": 1,
+        "col": 3,
+        "direction": "down",
+        "length": 4,
+        "answer": "SEED",
+        "clue": "Plant's beginning"
+      },
+      {
+        "id": "7across",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "PANEL",
+        "clue": "Flat section, or a discussion group"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "down",
+        "length": 3,
+        "answer": "PEN",
+        "clue": "Writing tool with ink"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "EDGE",
+        "clue": "Outer boundary"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "ODD",
+        "clue": "Strange, or not even"
+      }
+    ],
+    "solution_grid": [
+      [
+        "A",
+        "R",
+        "M",
+        "#",
+        "G"
+      ],
+      [
+        "#",
+        "E",
+        "A",
+        "S",
+        "E"
+      ],
+      [
+        "P",
+        "A",
+        "N",
+        "E",
+        "L"
+      ],
+      [
+        "E",
+        "D",
+        "G",
+        "E",
+        "#"
+      ],
+      [
+        "N",
+        "#",
+        "O",
+        "D",
+        "D"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "A nation's seat of government; also Wealth used to start a business (7)",
+        "answer": "CAPITAL",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"A nation's seat of government\" and \"Wealth used to start a business\" are definitions of CAPITAL."
+      },
+      {
+        "clue": "To strike your hands together, in a mess: calp (4)",
+        "answer": "CLAP",
+        "wordplay_type": "anagram",
+        "explanation": "\"calp\" is an anagram of CLAP (the word \"in a mess\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Should, hidden in a curious raccoon rummaged through the trash (5)",
+        "answer": "OUGHT",
+        "wordplay_type": "hidden_word",
+        "explanation": "OUGHT is hidden in \"a curious raccoon rummaged through the trash\" (letters 27-31 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Sports equipment for tennis; also Loud disturbing noise (6)",
+        "answer": "RACKET",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Sports equipment for tennis\" and \"Loud disturbing noise\" are definitions of RACKET."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Types of dance",
+        "words": [
+          "TANGO",
+          "WALTZ",
+          "SALSA",
+          "FOXTROT"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Units of time",
+        "words": [
+          "SECOND",
+          "MINUTE",
+          "HOUR",
+          "WEEK"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Types of pasta",
+        "words": [
+          "PENNE",
+          "FUSILLI",
+          "SPAGHETTI",
+          "RAVIOLI"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Types of boats",
+        "words": [
+          "CANOE",
+          "KAYAK",
+          "YACHT",
+          "FERRY"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
