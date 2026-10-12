@@ -1,0 +1,445 @@
+{
+  "date": "2026-10-12",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        6,
+        7,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        8,
+        0,
+        0,
+        5,
+        6,
+        0,
+        2,
+        7,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        5
+      ],
+      [
+        0,
+        0,
+        3,
+        8,
+        0,
+        0,
+        9,
+        0,
+        0
+      ],
+      [
+        0,
+        5,
+        0,
+        4,
+        0,
+        9,
+        0,
+        0,
+        6
+      ],
+      [
+        0,
+        9,
+        1,
+        6,
+        0,
+        5,
+        0,
+        0,
+        0
+      ],
+      [
+        3,
+        0,
+        0,
+        0,
+        0,
+        6,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        6,
+        2,
+        5,
+        0,
+        0,
+        1,
+        8
+      ],
+      [
+        0,
+        8,
+        0,
+        9,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        5,
+        6,
+        7,
+        3,
+        2,
+        1,
+        8,
+        4,
+        9
+      ],
+      [
+        8,
+        1,
+        9,
+        5,
+        6,
+        4,
+        2,
+        7,
+        3
+      ],
+      [
+        4,
+        3,
+        2,
+        7,
+        9,
+        8,
+        1,
+        6,
+        5
+      ],
+      [
+        6,
+        4,
+        3,
+        8,
+        7,
+        2,
+        9,
+        5,
+        1
+      ],
+      [
+        7,
+        5,
+        8,
+        4,
+        1,
+        9,
+        3,
+        2,
+        6
+      ],
+      [
+        2,
+        9,
+        1,
+        6,
+        3,
+        5,
+        7,
+        8,
+        4
+      ],
+      [
+        3,
+        2,
+        4,
+        1,
+        8,
+        6,
+        5,
+        9,
+        7
+      ],
+      [
+        9,
+        7,
+        6,
+        2,
+        5,
+        3,
+        4,
+        1,
+        8
+      ],
+      [
+        1,
+        8,
+        5,
+        9,
+        4,
+        7,
+        6,
+        3,
+        2
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1down",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "length": 3,
+        "answer": "RIM",
+        "clue": "Outer edge"
+      },
+      {
+        "id": "2across",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "DRY",
+        "clue": "Not wet"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "DEVIL",
+        "clue": "Evil being"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "length": 4,
+        "answer": "RAIN",
+        "clue": "Water falling from clouds"
+      },
+      {
+        "id": "4across",
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "IDEA",
+        "clue": "A thought or plan"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "direction": "down",
+        "length": 4,
+        "answer": "DOSE",
+        "clue": "Measured amount of medicine"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "MOVIE",
+        "clue": "Motion picture"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 4,
+        "direction": "down",
+        "length": 3,
+        "answer": "EGG",
+        "clue": "Laid by a hen"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "SING",
+        "clue": "To make music with your voice"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "GEL",
+        "clue": "Styling product for hair"
+      }
+    ],
+    "solution_grid": [
+      [
+        "R",
+        "#",
+        "D",
+        "R",
+        "Y"
+      ],
+      [
+        "I",
+        "D",
+        "E",
+        "A",
+        "#"
+      ],
+      [
+        "M",
+        "O",
+        "V",
+        "I",
+        "E"
+      ],
+      [
+        "#",
+        "S",
+        "I",
+        "N",
+        "G"
+      ],
+      [
+        "G",
+        "E",
+        "L",
+        "#",
+        "G"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Financial institution; also Edge of a river (4)",
+        "answer": "BANK",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Financial institution\" and \"Edge of a river\" are definitions of BANK."
+      },
+      {
+        "clue": "Brass instrument, or an animal's headgear, gone wrong: rhon (4)",
+        "answer": "HORN",
+        "wordplay_type": "anagram",
+        "explanation": "\"rhon\" is an anagram of HORN (the word \"gone wrong\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Edge of the mouth, some of the gardener planted rows of tulips (3)",
+        "answer": "LIP",
+        "wordplay_type": "hidden_word",
+        "explanation": "LIP is hidden in \"the gardener planted rows of tulips\" (letters 27-29 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Flying nocturnal mammal; also Wooden club used in baseball (3)",
+        "answer": "BAT",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Flying nocturnal mammal\" and \"Wooden club used in baseball\" are definitions of BAT."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Units of time",
+        "words": [
+          "SECOND",
+          "MINUTE",
+          "HOUR",
+          "WEEK"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Types of hats",
+        "words": [
+          "FEDORA",
+          "BERET",
+          "BEANIE",
+          "SOMBRERO"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Types of clouds",
+        "words": [
+          "CUMULUS",
+          "STRATUS",
+          "CIRRUS",
+          "NIMBUS"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Types of bread",
+        "words": [
+          "RYE",
+          "SOURDOUGH",
+          "BAGUETTE",
+          "PITA"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
