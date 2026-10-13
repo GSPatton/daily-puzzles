@@ -1,0 +1,445 @@
+{
+  "date": "2026-10-13",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        4,
+        0,
+        0,
+        0,
+        0,
+        9,
+        7,
+        0
+      ],
+      [
+        2,
+        8,
+        0,
+        0,
+        9,
+        1,
+        0,
+        0,
+        5
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        9,
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        0,
+        0,
+        3,
+        6,
+        0,
+        0,
+        2,
+        9
+      ],
+      [
+        6,
+        0,
+        7,
+        0,
+        0,
+        8,
+        5,
+        3,
+        0
+      ],
+      [
+        0,
+        7,
+        0,
+        0,
+        5,
+        4,
+        0,
+        1,
+        8
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        8,
+        0,
+        0,
+        9,
+        0
+      ],
+      [
+        8,
+        0,
+        6,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        5,
+        4,
+        1,
+        8,
+        3,
+        6,
+        9,
+        7,
+        2
+      ],
+      [
+        2,
+        8,
+        3,
+        7,
+        9,
+        1,
+        4,
+        6,
+        5
+      ],
+      [
+        7,
+        6,
+        9,
+        5,
+        4,
+        2,
+        1,
+        8,
+        3
+      ],
+      [
+        3,
+        2,
+        5,
+        1,
+        7,
+        9,
+        8,
+        4,
+        6
+      ],
+      [
+        4,
+        1,
+        8,
+        3,
+        6,
+        5,
+        7,
+        2,
+        9
+      ],
+      [
+        6,
+        9,
+        7,
+        4,
+        2,
+        8,
+        5,
+        3,
+        1
+      ],
+      [
+        9,
+        7,
+        2,
+        6,
+        5,
+        4,
+        3,
+        1,
+        8
+      ],
+      [
+        1,
+        5,
+        4,
+        2,
+        8,
+        3,
+        6,
+        9,
+        7
+      ],
+      [
+        8,
+        3,
+        6,
+        9,
+        1,
+        7,
+        2,
+        5,
+        4
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1down",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "length": 3,
+        "answer": "DIM",
+        "clue": "Not bright"
+      },
+      {
+        "id": "2across",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "BED",
+        "clue": "Where you sleep"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "BERRY",
+        "clue": "Small juicy fruit"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "length": 4,
+        "answer": "EASE",
+        "clue": "Freedom from difficulty"
+      },
+      {
+        "id": "4across",
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "IDEA",
+        "clue": "A thought or plan"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "direction": "down",
+        "length": 4,
+        "answer": "DATA",
+        "clue": "Information, especially digital"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "MARSH",
+        "clue": "Wet, swampy land"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 4,
+        "direction": "down",
+        "length": 3,
+        "answer": "HEN",
+        "clue": "Female chicken"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "TREE",
+        "clue": "Tall plant with a trunk"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "RAY",
+        "clue": "Beam of light"
+      }
+    ],
+    "solution_grid": [
+      [
+        "D",
+        "#",
+        "B",
+        "E",
+        "D"
+      ],
+      [
+        "I",
+        "D",
+        "E",
+        "A",
+        "#"
+      ],
+      [
+        "M",
+        "A",
+        "R",
+        "S",
+        "H"
+      ],
+      [
+        "#",
+        "T",
+        "R",
+        "E",
+        "E"
+      ],
+      [
+        "R",
+        "A",
+        "Y",
+        "#",
+        "N"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Season after winter; also Coiled metal device (6)",
+        "answer": "SPRING",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Season after winter\" and \"Coiled metal device\" are definitions of SPRING."
+      },
+      {
+        "clue": "Solid ground, held in the pilot announced a smooth landing (4)",
+        "answer": "LAND",
+        "wordplay_type": "hidden_word",
+        "explanation": "LAND is hidden in \"the pilot announced a smooth landing\" (letters 25-28 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Clenched hand, rearranged: tsif (4)",
+        "answer": "FIST",
+        "wordplay_type": "anagram",
+        "explanation": "\"tsif\" is an anagram of FIST (the word \"rearranged\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Sports equipment for tennis; also Loud disturbing noise (6)",
+        "answer": "RACKET",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Sports equipment for tennis\" and \"Loud disturbing noise\" are definitions of RACKET."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Types of ___storm",
+        "words": [
+          "THUNDER",
+          "SAND",
+          "SNOW",
+          "FIRE"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Musical instruments",
+        "words": [
+          "PIANO",
+          "VIOLIN",
+          "GUITAR",
+          "TRUMPET"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Weather phenomena",
+        "words": [
+          "RAIN",
+          "HAIL",
+          "FOG",
+          "SLEET"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Citrus fruits",
+        "words": [
+          "ORANGE",
+          "GRAPEFRUIT",
+          "LEMON",
+          "TANGERINE"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
