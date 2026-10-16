@@ -1,0 +1,445 @@
+{
+  "date": "2026-10-16",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        0,
+        0,
+        6,
+        0,
+        0,
+        0,
+        0,
+        3
+      ],
+      [
+        8,
+        3,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        6
+      ],
+      [
+        9,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        1,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        6,
+        7,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        7,
+        2,
+        0,
+        6,
+        0
+      ],
+      [
+        0,
+        7,
+        0,
+        1,
+        4,
+        0,
+        2,
+        0,
+        0
+      ],
+      [
+        2,
+        0,
+        6,
+        0,
+        3,
+        9,
+        0,
+        4,
+        0
+      ],
+      [
+        7,
+        0,
+        0,
+        0,
+        1,
+        4,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        4,
+        8,
+        0,
+        0,
+        0,
+        0,
+        5
+      ]
+    ],
+    "solution": [
+      [
+        4,
+        2,
+        1,
+        6,
+        9,
+        5,
+        8,
+        7,
+        3
+      ],
+      [
+        8,
+        3,
+        7,
+        4,
+        2,
+        1,
+        5,
+        9,
+        6
+      ],
+      [
+        9,
+        6,
+        5,
+        7,
+        8,
+        3,
+        4,
+        1,
+        2
+      ],
+      [
+        1,
+        9,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        4
+      ],
+      [
+        5,
+        4,
+        8,
+        9,
+        7,
+        2,
+        3,
+        6,
+        1
+      ],
+      [
+        6,
+        7,
+        3,
+        1,
+        4,
+        8,
+        2,
+        5,
+        9
+      ],
+      [
+        2,
+        8,
+        6,
+        5,
+        3,
+        9,
+        1,
+        4,
+        7
+      ],
+      [
+        7,
+        5,
+        9,
+        2,
+        1,
+        4,
+        6,
+        3,
+        8
+      ],
+      [
+        3,
+        1,
+        4,
+        8,
+        6,
+        7,
+        9,
+        2,
+        5
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1down",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "length": 3,
+        "answer": "DEN",
+        "clue": "Cozy room, or a lion's home"
+      },
+      {
+        "id": "2across",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "RIM",
+        "clue": "Outer edge"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "RIVAL",
+        "clue": "Competitor"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "length": 4,
+        "answer": "ITEM",
+        "clue": "Individual object"
+      },
+      {
+        "id": "4across",
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "EDIT",
+        "clue": "To revise text"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "direction": "down",
+        "length": 4,
+        "answer": "DOSE",
+        "clue": "Measured amount of medicine"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "NOVEL",
+        "clue": "Long fictional book"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 4,
+        "direction": "down",
+        "length": 3,
+        "answer": "LEG",
+        "clue": "Limb used for walking"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "SAME",
+        "clue": "Identical"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "GEL",
+        "clue": "Styling product for hair"
+      }
+    ],
+    "solution_grid": [
+      [
+        "D",
+        "#",
+        "R",
+        "I",
+        "M"
+      ],
+      [
+        "E",
+        "D",
+        "I",
+        "T",
+        "#"
+      ],
+      [
+        "N",
+        "O",
+        "V",
+        "E",
+        "L"
+      ],
+      [
+        "#",
+        "S",
+        "A",
+        "M",
+        "E"
+      ],
+      [
+        "G",
+        "E",
+        "L",
+        "#",
+        "G"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "2,000 pounds, found within a consumer report on new gadgets (3)",
+        "answer": "TON",
+        "wordplay_type": "hidden_word",
+        "explanation": "TON is hidden in \"a consumer report on new gadgets\" (letters 15-17 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Writing tool; also Small enclosure for animals (3)",
+        "answer": "PEN",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Writing tool\" and \"Small enclosure for animals\" are definitions of PEN."
+      },
+      {
+        "clue": "Used in comparisons, shuffled: athn (4)",
+        "answer": "THAN",
+        "wordplay_type": "anagram",
+        "explanation": "\"athn\" is an anagram of THAN (the word \"shuffled\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Onward, found within the orchestra rehearsed for the concert (5)",
+        "answer": "FORTH",
+        "wordplay_type": "hidden_word",
+        "explanation": "FORTH is hidden in \"the orchestra rehearsed for the concert\" (letters 22-26 of the phrase with spaces removed)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Board games",
+        "words": [
+          "CHESS",
+          "MONOPOLY",
+          "SCRABBLE",
+          "CLUEDO"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "School subjects",
+        "words": [
+          "MATH",
+          "SCIENCE",
+          "HISTORY",
+          "ART"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Weather phenomena",
+        "words": [
+          "RAIN",
+          "HAIL",
+          "FOG",
+          "SLEET"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Types of clouds",
+        "words": [
+          "CUMULUS",
+          "STRATUS",
+          "CIRRUS",
+          "NIMBUS"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
