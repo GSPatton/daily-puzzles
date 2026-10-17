@@ -1,0 +1,445 @@
+{
+  "date": "2026-10-17",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        5,
+        0,
+        0,
+        8,
+        7,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        3,
+        1,
+        6,
+        0,
+        9,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        6,
+        0
+      ],
+      [
+        8,
+        7,
+        4,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        0
+      ],
+      [
+        0,
+        2,
+        0,
+        0,
+        1,
+        8,
+        0,
+        5,
+        3
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        6,
+        0,
+        0
+      ],
+      [
+        6,
+        9,
+        0,
+        2,
+        0,
+        7,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        6,
+        0,
+        8,
+        2,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        5,
+        6,
+        2,
+        8,
+        7,
+        4,
+        9,
+        3,
+        1
+      ],
+      [
+        7,
+        3,
+        1,
+        6,
+        5,
+        9,
+        4,
+        8,
+        2
+      ],
+      [
+        4,
+        8,
+        9,
+        3,
+        2,
+        1,
+        5,
+        6,
+        7
+      ],
+      [
+        8,
+        7,
+        4,
+        5,
+        3,
+        2,
+        1,
+        9,
+        6
+      ],
+      [
+        1,
+        5,
+        3,
+        7,
+        9,
+        6,
+        2,
+        4,
+        8
+      ],
+      [
+        9,
+        2,
+        6,
+        4,
+        1,
+        8,
+        7,
+        5,
+        3
+      ],
+      [
+        2,
+        4,
+        5,
+        1,
+        8,
+        3,
+        6,
+        7,
+        9
+      ],
+      [
+        6,
+        9,
+        8,
+        2,
+        4,
+        7,
+        3,
+        1,
+        5
+      ],
+      [
+        3,
+        1,
+        7,
+        9,
+        6,
+        5,
+        8,
+        2,
+        4
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        1
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "BUS",
+        "clue": "Vehicle for public transport"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "length": 4,
+        "answer": "USED",
+        "clue": "Not new"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "STAGE",
+        "clue": "Platform for performances"
+      },
+      {
+        "id": "4down",
+        "number": 4,
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "length": 3,
+        "answer": "SPY",
+        "clue": "Secret agent"
+      },
+      {
+        "id": "5across",
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "STOP",
+        "clue": "To cease moving"
+      },
+      {
+        "id": "6down",
+        "number": 6,
+        "row": 1,
+        "col": 3,
+        "direction": "down",
+        "length": 4,
+        "answer": "OVER",
+        "clue": "Above, or finished"
+      },
+      {
+        "id": "7across",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "HEAVY",
+        "clue": "Weighing a lot"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "down",
+        "length": 3,
+        "answer": "HEN",
+        "clue": "Female chicken"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "EDGE",
+        "clue": "Outer boundary"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "ERA",
+        "clue": "Distinct period of time"
+      }
+    ],
+    "solution_grid": [
+      [
+        "B",
+        "U",
+        "S",
+        "#",
+        "S"
+      ],
+      [
+        "#",
+        "S",
+        "T",
+        "O",
+        "P"
+      ],
+      [
+        "H",
+        "E",
+        "A",
+        "V",
+        "Y"
+      ],
+      [
+        "E",
+        "D",
+        "G",
+        "E",
+        "#"
+      ],
+      [
+        "N",
+        "#",
+        "E",
+        "R",
+        "A"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Pointed end; also Gratuity for good service (3)",
+        "answer": "TIP",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Pointed end\" and \"Gratuity for good service\" are definitions of TIP."
+      },
+      {
+        "clue": "To demonstrate as true, buried in the general manager approved the plan (5)",
+        "answer": "PROVE",
+        "wordplay_type": "hidden_word",
+        "explanation": "PROVE is hidden in \"the general manager approved the plan\" (letters 20-24 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Bottom support, or a military post, scrambled: eabs (4)",
+        "answer": "BASE",
+        "wordplay_type": "anagram",
+        "explanation": "\"eabs\" is an anagram of BASE (the word \"scrambled\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "To guide the way; also A heavy grey metal (4)",
+        "answer": "LEAD",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"To guide the way\" and \"A heavy grey metal\" are definitions of LEAD."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Types of clouds",
+        "words": [
+          "CUMULUS",
+          "STRATUS",
+          "CIRRUS",
+          "NIMBUS"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Ocean creatures",
+        "words": [
+          "WHALE",
+          "SHARK",
+          "OCTOPUS",
+          "DOLPHIN"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "___light",
+        "words": [
+          "MOON",
+          "SUN",
+          "DAY",
+          "LIME"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Types of ___storm",
+        "words": [
+          "THUNDER",
+          "SAND",
+          "SNOW",
+          "FIRE"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
