@@ -1,0 +1,445 @@
+{
+  "date": "2026-10-18",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        0,
+        5,
+        3,
+        0,
+        7,
+        0,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8,
+        1
+      ],
+      [
+        0,
+        6,
+        0,
+        0,
+        2,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        5,
+        4,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        8
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        6,
+        0
+      ],
+      [
+        8,
+        0,
+        1,
+        5,
+        3,
+        6,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        2,
+        1,
+        0,
+        4,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        6,
+        5,
+        3,
+        0,
+        0
+      ],
+      [
+        6,
+        0,
+        0,
+        0,
+        8,
+        0,
+        4,
+        1,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        1,
+        8,
+        5,
+        3,
+        4,
+        7,
+        6,
+        2,
+        9
+      ],
+      [
+        3,
+        2,
+        4,
+        6,
+        5,
+        9,
+        7,
+        8,
+        1
+      ],
+      [
+        7,
+        6,
+        9,
+        8,
+        2,
+        1,
+        5,
+        4,
+        3
+      ],
+      [
+        5,
+        4,
+        6,
+        7,
+        1,
+        2,
+        9,
+        3,
+        8
+      ],
+      [
+        2,
+        7,
+        3,
+        4,
+        9,
+        8,
+        1,
+        6,
+        5
+      ],
+      [
+        8,
+        9,
+        1,
+        5,
+        3,
+        6,
+        2,
+        7,
+        4
+      ],
+      [
+        9,
+        3,
+        2,
+        1,
+        7,
+        4,
+        8,
+        5,
+        6
+      ],
+      [
+        4,
+        1,
+        8,
+        2,
+        6,
+        5,
+        3,
+        9,
+        7
+      ],
+      [
+        6,
+        5,
+        7,
+        9,
+        8,
+        3,
+        4,
+        1,
+        2
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "SOUP",
+        "clue": "Warm liquid dish, often with vegetables"
+      },
+      {
+        "id": "1down",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "length": 4,
+        "answer": "STAR",
+        "clue": "Twinkling object in the night sky"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "length": 3,
+        "answer": "OIL",
+        "clue": "Slippery liquid used for cooking or fuel"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "UNION",
+        "clue": "Joining together, or a worker's group"
+      },
+      {
+        "id": "4across",
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "TIN",
+        "clue": "Silvery metal, or a small can"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 4,
+        "direction": "down",
+        "length": 4,
+        "answer": "HERO",
+        "clue": "Brave central character"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "ALIVE",
+        "clue": "Living"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "length": 3,
+        "answer": "VAT",
+        "clue": "Large tank for liquid"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "OAR",
+        "clue": "Paddle used to row a boat"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "ONTO",
+        "clue": "On top of"
+      }
+    ],
+    "solution_grid": [
+      [
+        "S",
+        "O",
+        "U",
+        "P",
+        "#"
+      ],
+      [
+        "T",
+        "I",
+        "N",
+        "#",
+        "H"
+      ],
+      [
+        "A",
+        "L",
+        "I",
+        "V",
+        "E"
+      ],
+      [
+        "R",
+        "#",
+        "O",
+        "A",
+        "R"
+      ],
+      [
+        "#",
+        "O",
+        "N",
+        "T",
+        "O"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Limb from shoulder to hand, all over the place: amr (3)",
+        "answer": "ARM",
+        "wordplay_type": "anagram",
+        "explanation": "\"amr\" is an anagram of ARM (the word \"all over the place\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Writing tool; also Small enclosure for animals (3)",
+        "answer": "PEN",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Writing tool\" and \"Small enclosure for animals\" are definitions of PEN."
+      },
+      {
+        "clue": "Free of dirt, some of the volunteers cleaned up the park (5)",
+        "answer": "CLEAN",
+        "wordplay_type": "hidden_word",
+        "explanation": "CLEAN is hidden in \"the volunteers cleaned up the park\" (letters 14-18 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "To emerge from an egg, oddly arranged: hctah (5)",
+        "answer": "HATCH",
+        "wordplay_type": "anagram",
+        "explanation": "\"hctah\" is an anagram of HATCH (the word \"oddly arranged\" signals the letters are rearranged)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Board games",
+        "words": [
+          "CHESS",
+          "MONOPOLY",
+          "SCRABBLE",
+          "CLUEDO"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Types of clouds",
+        "words": [
+          "CUMULUS",
+          "STRATUS",
+          "CIRRUS",
+          "NIMBUS"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Types of hats",
+        "words": [
+          "FEDORA",
+          "BERET",
+          "BEANIE",
+          "SOMBRERO"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Types of ___storm",
+        "words": [
+          "THUNDER",
+          "SAND",
+          "SNOW",
+          "FIRE"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
