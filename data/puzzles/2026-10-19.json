@@ -1,0 +1,445 @@
+{
+  "date": "2026-10-19",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        6,
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        9
+      ],
+      [
+        0,
+        7,
+        4,
+        0,
+        0,
+        3,
+        0,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        3,
+        0,
+        5,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        8,
+        1,
+        0,
+        0,
+        4,
+        6
+      ],
+      [
+        0,
+        0,
+        0,
+        4,
+        0,
+        0,
+        0,
+        9,
+        1
+      ],
+      [
+        0,
+        0,
+        2,
+        0,
+        5,
+        0,
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        4,
+        6,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0
+      ],
+      [
+        9,
+        0,
+        8,
+        6,
+        3,
+        0,
+        0,
+        1,
+        2
+      ]
+    ],
+    "solution": [
+      [
+        1,
+        3,
+        9,
+        5,
+        2,
+        6,
+        7,
+        8,
+        4
+      ],
+      [
+        2,
+        6,
+        5,
+        7,
+        4,
+        8,
+        1,
+        3,
+        9
+      ],
+      [
+        8,
+        7,
+        4,
+        1,
+        9,
+        3,
+        6,
+        2,
+        5
+      ],
+      [
+        4,
+        9,
+        1,
+        3,
+        6,
+        5,
+        2,
+        7,
+        8
+      ],
+      [
+        5,
+        2,
+        7,
+        8,
+        1,
+        9,
+        3,
+        4,
+        6
+      ],
+      [
+        6,
+        8,
+        3,
+        4,
+        7,
+        2,
+        5,
+        9,
+        1
+      ],
+      [
+        7,
+        1,
+        2,
+        9,
+        5,
+        4,
+        8,
+        6,
+        3
+      ],
+      [
+        3,
+        4,
+        6,
+        2,
+        8,
+        1,
+        9,
+        5,
+        7
+      ],
+      [
+        9,
+        5,
+        8,
+        6,
+        3,
+        7,
+        4,
+        1,
+        2
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "DATE",
+        "clue": "Calendar day, or a romantic outing"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "ALONE",
+        "clue": "By oneself"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "length": 3,
+        "answer": "TIN",
+        "clue": "Silvery metal, or a small can"
+      },
+      {
+        "id": "4down",
+        "number": 4,
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "length": 4,
+        "answer": "EDGE",
+        "clue": "Outer boundary"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "length": 4,
+        "answer": "MASS",
+        "clue": "Large body of matter"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 1,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "LID",
+        "clue": "Cover for a jar"
+      },
+      {
+        "id": "7across",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "ALONG",
+        "clue": "In line with"
+      },
+      {
+        "id": "8down",
+        "number": 8,
+        "row": 2,
+        "col": 1,
+        "direction": "down",
+        "length": 3,
+        "answer": "LOT",
+        "clue": "A great deal, or a parcel of land"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "SON",
+        "clue": "Male child"
+      },
+      {
+        "id": "10across",
+        "number": 10,
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "STEP",
+        "clue": "One pace, or a stair"
+      }
+    ],
+    "solution_grid": [
+      [
+        "#",
+        "D",
+        "A",
+        "T",
+        "E"
+      ],
+      [
+        "M",
+        "#",
+        "L",
+        "I",
+        "D"
+      ],
+      [
+        "A",
+        "L",
+        "O",
+        "N",
+        "G"
+      ],
+      [
+        "S",
+        "O",
+        "N",
+        "#",
+        "E"
+      ],
+      [
+        "S",
+        "T",
+        "E",
+        "P",
+        "#"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Pointed end; also Gratuity for good service (3)",
+        "answer": "TIP",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Pointed end\" and \"Gratuity for good service\" are definitions of TIP."
+      },
+      {
+        "clue": "Faithful, shuffled: aloyl (5)",
+        "answer": "LOYAL",
+        "wordplay_type": "anagram",
+        "explanation": "\"aloyl\" is an anagram of LOYAL (the word \"shuffled\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Vessel for ashes or coffee, some of our neighbor built a wooden fence (3)",
+        "answer": "URN",
+        "wordplay_type": "hidden_word",
+        "explanation": "URN is hidden in \"our neighbor built a wooden fence\" (letters 2-4 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Stone; also To sway back and forth (4)",
+        "answer": "ROCK",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Stone\" and \"To sway back and forth\" are definitions of ROCK."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Citrus fruits",
+        "words": [
+          "ORANGE",
+          "GRAPEFRUIT",
+          "LEMON",
+          "TANGERINE"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Units of time",
+        "words": [
+          "SECOND",
+          "MINUTE",
+          "HOUR",
+          "WEEK"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Types of dance",
+        "words": [
+          "TANGO",
+          "WALTZ",
+          "SALSA",
+          "FOXTROT"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Types of pasta",
+        "words": [
+          "PENNE",
+          "FUSILLI",
+          "SPAGHETTI",
+          "RAVIOLI"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
