@@ -1,0 +1,445 @@
+{
+  "date": "2026-10-20",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        4,
+        0,
+        9,
+        2,
+        8,
+        1,
+        0,
+        0,
+        5
+      ],
+      [
+        8,
+        0,
+        3,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        9,
+        0,
+        8
+      ],
+      [
+        0,
+        0,
+        0,
+        4,
+        0,
+        3,
+        5,
+        0,
+        0
+      ],
+      [
+        0,
+        3,
+        6,
+        0,
+        0,
+        9,
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        2,
+        0,
+        5,
+        0,
+        8,
+        0,
+        0,
+        0
+      ],
+      [
+        3,
+        0,
+        1,
+        0,
+        0,
+        6,
+        0,
+        8,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        5,
+        4,
+        0,
+        0,
+        6
+      ],
+      [
+        0,
+        0,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        4,
+        7,
+        9,
+        2,
+        8,
+        1,
+        3,
+        6,
+        5
+      ],
+      [
+        8,
+        6,
+        3,
+        9,
+        4,
+        5,
+        2,
+        1,
+        7
+      ],
+      [
+        2,
+        1,
+        5,
+        6,
+        3,
+        7,
+        9,
+        4,
+        8
+      ],
+      [
+        9,
+        8,
+        7,
+        4,
+        6,
+        3,
+        5,
+        2,
+        1
+      ],
+      [
+        5,
+        3,
+        6,
+        1,
+        2,
+        9,
+        8,
+        7,
+        4
+      ],
+      [
+        1,
+        2,
+        4,
+        5,
+        7,
+        8,
+        6,
+        9,
+        3
+      ],
+      [
+        3,
+        5,
+        1,
+        7,
+        9,
+        6,
+        4,
+        8,
+        2
+      ],
+      [
+        7,
+        9,
+        2,
+        8,
+        5,
+        4,
+        1,
+        3,
+        6
+      ],
+      [
+        6,
+        4,
+        8,
+        3,
+        1,
+        2,
+        7,
+        5,
+        9
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        1
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "TUB",
+        "clue": "Bathing basin"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "length": 4,
+        "answer": "USED",
+        "clue": "Not new"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "BEGIN",
+        "clue": "To start"
+      },
+      {
+        "id": "4down",
+        "number": 4,
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "length": 3,
+        "answer": "ILL",
+        "clue": "Sick"
+      },
+      {
+        "id": "5across",
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "SELL",
+        "clue": "To exchange for money"
+      },
+      {
+        "id": "6down",
+        "number": 6,
+        "row": 1,
+        "col": 3,
+        "direction": "down",
+        "length": 4,
+        "answer": "LATE",
+        "clue": "Not on time"
+      },
+      {
+        "id": "7across",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "LEGAL",
+        "clue": "Permitted by law"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "down",
+        "length": 3,
+        "answer": "LEG",
+        "clue": "Limb used for walking"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "EDIT",
+        "clue": "To revise text"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "NEW",
+        "clue": "Not old"
+      }
+    ],
+    "solution_grid": [
+      [
+        "T",
+        "U",
+        "B",
+        "#",
+        "I"
+      ],
+      [
+        "#",
+        "S",
+        "E",
+        "L",
+        "L"
+      ],
+      [
+        "L",
+        "E",
+        "G",
+        "A",
+        "L"
+      ],
+      [
+        "E",
+        "D",
+        "I",
+        "T",
+        "#"
+      ],
+      [
+        "G",
+        "#",
+        "N",
+        "E",
+        "W"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Rail vehicle, or to practice a skill, held in the athlete trained hard every morning (5)",
+        "answer": "TRAIN",
+        "wordplay_type": "hidden_word",
+        "explanation": "TRAIN is hidden in \"the athlete trained hard every morning\" (letters 11-15 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Shaggy Himalayan ox, all over the place: aky (3)",
+        "answer": "YAK",
+        "wordplay_type": "anagram",
+        "explanation": "\"aky\" is an anagram of YAK (the word \"all over the place\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Unkind; also The average value (4)",
+        "answer": "MEAN",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Unkind\" and \"The average value\" are definitions of MEAN."
+      },
+      {
+        "clue": "Opposite of dark, part of a sudden storm delayed the flight (5)",
+        "answer": "LIGHT",
+        "wordplay_type": "hidden_word",
+        "explanation": "LIGHT is hidden in \"a sudden storm delayed the flight\" (letters 24-28 of the phrase with spaces removed)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Insects",
+        "words": [
+          "BEETLE",
+          "CRICKET",
+          "MANTIS",
+          "MOTH"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "___light",
+        "words": [
+          "MOON",
+          "SUN",
+          "DAY",
+          "LIME"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Big cats",
+        "words": [
+          "LION",
+          "TIGER",
+          "LEOPARD",
+          "CHEETAH"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Board games",
+        "words": [
+          "CHESS",
+          "MONOPOLY",
+          "SCRABBLE",
+          "CLUEDO"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
