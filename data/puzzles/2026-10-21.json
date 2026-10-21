@@ -1,0 +1,445 @@
+{
+  "date": "2026-10-21",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        9,
+        2,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        3,
+        0,
+        0,
+        4,
+        0,
+        6,
+        0,
+        0
+      ],
+      [
+        4,
+        0,
+        7,
+        0,
+        0,
+        9,
+        0,
+        0,
+        5
+      ],
+      [
+        0,
+        9,
+        1,
+        6,
+        0,
+        7,
+        2,
+        0,
+        4
+      ],
+      [
+        6,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        7,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        6,
+        1
+      ],
+      [
+        0,
+        7,
+        0,
+        0,
+        0,
+        6,
+        9,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        7,
+        1,
+        0,
+        0,
+        4,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        8,
+        0,
+        0,
+        5,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        9,
+        2,
+        6,
+        1,
+        7,
+        5,
+        4,
+        3,
+        8
+      ],
+      [
+        1,
+        3,
+        5,
+        2,
+        4,
+        8,
+        6,
+        9,
+        7
+      ],
+      [
+        4,
+        8,
+        7,
+        3,
+        6,
+        9,
+        1,
+        2,
+        5
+      ],
+      [
+        3,
+        9,
+        1,
+        6,
+        5,
+        7,
+        2,
+        8,
+        4
+      ],
+      [
+        6,
+        5,
+        8,
+        4,
+        2,
+        1,
+        3,
+        7,
+        9
+      ],
+      [
+        7,
+        4,
+        2,
+        8,
+        9,
+        3,
+        5,
+        6,
+        1
+      ],
+      [
+        8,
+        7,
+        4,
+        5,
+        3,
+        6,
+        9,
+        1,
+        2
+      ],
+      [
+        5,
+        6,
+        9,
+        7,
+        1,
+        2,
+        8,
+        4,
+        3
+      ],
+      [
+        2,
+        1,
+        3,
+        9,
+        8,
+        4,
+        7,
+        5,
+        6
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        1
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "BUS",
+        "clue": "Vehicle for public transport"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "length": 4,
+        "answer": "USED",
+        "clue": "Not new"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "STAGE",
+        "clue": "Platform for performances"
+      },
+      {
+        "id": "4down",
+        "number": 4,
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "length": 3,
+        "answer": "SPY",
+        "clue": "Secret agent"
+      },
+      {
+        "id": "5across",
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "STOP",
+        "clue": "To cease moving"
+      },
+      {
+        "id": "6down",
+        "number": 6,
+        "row": 1,
+        "col": 3,
+        "direction": "down",
+        "length": 4,
+        "answer": "OVER",
+        "clue": "Above, or finished"
+      },
+      {
+        "id": "7across",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "HEAVY",
+        "clue": "Weighing a lot"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "down",
+        "length": 3,
+        "answer": "HEN",
+        "clue": "Female chicken"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "EDGE",
+        "clue": "Outer boundary"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "ERA",
+        "clue": "Distinct period of time"
+      }
+    ],
+    "solution_grid": [
+      [
+        "B",
+        "U",
+        "S",
+        "#",
+        "S"
+      ],
+      [
+        "#",
+        "S",
+        "T",
+        "O",
+        "P"
+      ],
+      [
+        "H",
+        "E",
+        "A",
+        "V",
+        "Y"
+      ],
+      [
+        "E",
+        "D",
+        "G",
+        "E",
+        "#"
+      ],
+      [
+        "N",
+        "#",
+        "E",
+        "R",
+        "A"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Sequence of letters, or a magic incantation, mixed up: pllse (5)",
+        "answer": "SPELL",
+        "wordplay_type": "anagram",
+        "explanation": "\"pllse\" is an anagram of SPELL (the word \"mixed up\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Sick, some of a brilliant idea occurred to her suddenly (3)",
+        "answer": "ILL",
+        "wordplay_type": "hidden_word",
+        "explanation": "ILL is hidden in \"a brilliant idea occurred to her suddenly\" (letters 4-6 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Just and even-handed; also A carnival with rides (4)",
+        "answer": "FAIR",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Just and even-handed\" and \"A carnival with rides\" are definitions of FAIR."
+      },
+      {
+        "clue": "One who leads, confused: gidue (5)",
+        "answer": "GUIDE",
+        "wordplay_type": "anagram",
+        "explanation": "\"gidue\" is an anagram of GUIDE (the word \"confused\" signals the letters are rearranged)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Continents",
+        "words": [
+          "ASIA",
+          "AFRICA",
+          "EUROPE",
+          "OCEANIA"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Ocean creatures",
+        "words": [
+          "WHALE",
+          "SHARK",
+          "OCTOPUS",
+          "DOLPHIN"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Tree nuts",
+        "words": [
+          "ALMOND",
+          "CASHEW",
+          "PECAN",
+          "WALNUT"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Board games",
+        "words": [
+          "CHESS",
+          "MONOPOLY",
+          "SCRABBLE",
+          "CLUEDO"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
