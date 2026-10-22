@@ -1,0 +1,445 @@
+{
+  "date": "2026-10-22",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        6,
+        0,
+        0,
+        2,
+        0
+      ],
+      [
+        0,
+        6,
+        4,
+        7,
+        1,
+        0,
+        5,
+        3,
+        0
+      ],
+      [
+        6,
+        0,
+        0,
+        0,
+        0,
+        4,
+        8,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        9,
+        3,
+        0,
+        2,
+        0,
+        7,
+        5
+      ],
+      [
+        0,
+        5,
+        0,
+        0,
+        0,
+        6,
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0
+      ],
+      [
+        0,
+        8,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        3
+      ],
+      [
+        3,
+        0,
+        2,
+        9,
+        0,
+        0,
+        4,
+        8,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        8,
+        3,
+        1,
+        4,
+        2,
+        5,
+        7,
+        6,
+        9
+      ],
+      [
+        5,
+        9,
+        7,
+        8,
+        6,
+        3,
+        1,
+        2,
+        4
+      ],
+      [
+        2,
+        6,
+        4,
+        7,
+        1,
+        9,
+        5,
+        3,
+        8
+      ],
+      [
+        6,
+        2,
+        3,
+        5,
+        7,
+        4,
+        8,
+        9,
+        1
+      ],
+      [
+        4,
+        1,
+        9,
+        3,
+        8,
+        2,
+        6,
+        7,
+        5
+      ],
+      [
+        7,
+        5,
+        8,
+        1,
+        9,
+        6,
+        3,
+        4,
+        2
+      ],
+      [
+        9,
+        4,
+        5,
+        6,
+        3,
+        8,
+        2,
+        1,
+        7
+      ],
+      [
+        1,
+        8,
+        6,
+        2,
+        4,
+        7,
+        9,
+        5,
+        3
+      ],
+      [
+        3,
+        7,
+        2,
+        9,
+        5,
+        1,
+        4,
+        8,
+        6
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1down",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "length": 3,
+        "answer": "TEN",
+        "clue": "Number after nine"
+      },
+      {
+        "id": "2across",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "RIB",
+        "clue": "Curved bone in the chest"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "RIVAL",
+        "clue": "Competitor"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "length": 4,
+        "answer": "ITEM",
+        "clue": "Individual object"
+      },
+      {
+        "id": "4across",
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "EDIT",
+        "clue": "To revise text"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "direction": "down",
+        "length": 4,
+        "answer": "DOSE",
+        "clue": "Measured amount of medicine"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "NOVEL",
+        "clue": "Long fictional book"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 4,
+        "direction": "down",
+        "length": 3,
+        "answer": "LEG",
+        "clue": "Limb used for walking"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "SAME",
+        "clue": "Identical"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "GEL",
+        "clue": "Styling product for hair"
+      }
+    ],
+    "solution_grid": [
+      [
+        "T",
+        "#",
+        "R",
+        "I",
+        "B"
+      ],
+      [
+        "E",
+        "D",
+        "I",
+        "T",
+        "#"
+      ],
+      [
+        "N",
+        "O",
+        "V",
+        "E",
+        "L"
+      ],
+      [
+        "#",
+        "S",
+        "A",
+        "M",
+        "E"
+      ],
+      [
+        "G",
+        "E",
+        "L",
+        "#",
+        "G"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Folder for documents; also Tool for smoothing rough edges (4)",
+        "answer": "FILE",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Folder for documents\" and \"Tool for smoothing rough edges\" are definitions of FILE."
+      },
+      {
+        "clue": "Plate, or a meal, mixed up: ihds (4)",
+        "answer": "DISH",
+        "wordplay_type": "anagram",
+        "explanation": "\"ihds\" is an anagram of DISH (the word \"mixed up\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Gentle tap, held in an unusual pattern emerged overnight (3)",
+        "answer": "PAT",
+        "wordplay_type": "hidden_word",
+        "explanation": "PAT is hidden in \"an unusual pattern emerged overnight\" (letters 10-12 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Tree's outer covering; also Sound a dog makes (4)",
+        "answer": "BARK",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Tree's outer covering\" and \"Sound a dog makes\" are definitions of BARK."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Types of dance",
+        "words": [
+          "TANGO",
+          "WALTZ",
+          "SALSA",
+          "FOXTROT"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Chess pieces",
+        "words": [
+          "KING",
+          "QUEEN",
+          "BISHOP",
+          "KNIGHT"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Types of ___storm",
+        "words": [
+          "THUNDER",
+          "SAND",
+          "SNOW",
+          "FIRE"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Zodiac signs",
+        "words": [
+          "ARIES",
+          "TAURUS",
+          "GEMINI",
+          "LEO"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
