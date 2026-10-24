@@ -1,0 +1,445 @@
+{
+  "date": "2026-10-24",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        4,
+        0,
+        3,
+        5,
+        0,
+        0,
+        9
+      ],
+      [
+        0,
+        5,
+        0,
+        4,
+        2,
+        0,
+        8,
+        0,
+        7
+      ],
+      [
+        4,
+        0,
+        0,
+        7,
+        0,
+        3,
+        0,
+        8,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        6,
+        3
+      ],
+      [
+        2,
+        0,
+        3,
+        0,
+        1,
+        8,
+        0,
+        0,
+        0
+      ],
+      [
+        6,
+        3,
+        0,
+        0,
+        9,
+        2,
+        0,
+        1,
+        0
+      ],
+      [
+        8,
+        1,
+        0,
+        0,
+        0,
+        0,
+        3,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        7,
+        0,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        3,
+        2,
+        6,
+        8,
+        7,
+        9,
+        1,
+        4,
+        5
+      ],
+      [
+        7,
+        8,
+        4,
+        1,
+        3,
+        5,
+        6,
+        2,
+        9
+      ],
+      [
+        9,
+        5,
+        1,
+        4,
+        2,
+        6,
+        8,
+        3,
+        7
+      ],
+      [
+        4,
+        9,
+        5,
+        7,
+        6,
+        3,
+        2,
+        8,
+        1
+      ],
+      [
+        1,
+        7,
+        8,
+        2,
+        5,
+        4,
+        9,
+        6,
+        3
+      ],
+      [
+        2,
+        6,
+        3,
+        9,
+        1,
+        8,
+        5,
+        7,
+        4
+      ],
+      [
+        6,
+        3,
+        7,
+        5,
+        9,
+        2,
+        4,
+        1,
+        8
+      ],
+      [
+        8,
+        1,
+        9,
+        6,
+        4,
+        7,
+        3,
+        5,
+        2
+      ],
+      [
+        5,
+        4,
+        2,
+        3,
+        8,
+        1,
+        7,
+        9,
+        6
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "BAKE",
+        "clue": "To cook in an oven"
+      },
+      {
+        "id": "1down",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "length": 4,
+        "answer": "BUSY",
+        "clue": "Not idle"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "length": 3,
+        "answer": "ARM",
+        "clue": "Limb from shoulder to hand"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "KNIFE",
+        "clue": "Sharp cutting utensil"
+      },
+      {
+        "id": "4across",
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "URN",
+        "clue": "Vessel for ashes or coffee"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 4,
+        "direction": "down",
+        "length": 4,
+        "answer": "SENT",
+        "clue": "Past tense of send"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "SMILE",
+        "clue": "Happy facial expression"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "length": 3,
+        "answer": "LAB",
+        "clue": "Room for scientific work"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "FAN",
+        "clue": "Device that cools you off"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "DEBT",
+        "clue": "Money owed"
+      }
+    ],
+    "solution_grid": [
+      [
+        "B",
+        "A",
+        "K",
+        "E",
+        "#"
+      ],
+      [
+        "U",
+        "R",
+        "N",
+        "#",
+        "S"
+      ],
+      [
+        "S",
+        "M",
+        "I",
+        "L",
+        "E"
+      ],
+      [
+        "Y",
+        "#",
+        "F",
+        "A",
+        "N"
+      ],
+      [
+        "#",
+        "D",
+        "E",
+        "B",
+        "T"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Normal, buried in an unusual pattern emerged overnight (5)",
+        "answer": "USUAL",
+        "wordplay_type": "hidden_word",
+        "explanation": "USUAL is hidden in \"an unusual pattern emerged overnight\" (letters 5-9 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Fundamental, confused: sacib (5)",
+        "answer": "BASIC",
+        "wordplay_type": "anagram",
+        "explanation": "\"sacib\" is an anagram of BASIC (the word \"confused\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "The earth's surface; also Past tense of grind (6)",
+        "answer": "GROUND",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"The earth's surface\" and \"Past tense of grind\" are definitions of GROUND."
+      },
+      {
+        "clue": "Unhappy, found within the tourists admired the old cathedral (3)",
+        "answer": "SAD",
+        "wordplay_type": "hidden_word",
+        "explanation": "SAD is hidden in \"the tourists admired the old cathedral\" (letters 11-13 of the phrase with spaces removed)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Citrus fruits",
+        "words": [
+          "ORANGE",
+          "GRAPEFRUIT",
+          "LEMON",
+          "TANGERINE"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Kitchen utensils",
+        "words": [
+          "SPATULA",
+          "WHISK",
+          "LADLE",
+          "TONGS"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Types of clouds",
+        "words": [
+          "CUMULUS",
+          "STRATUS",
+          "CIRRUS",
+          "NIMBUS"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Colors",
+        "words": [
+          "RED",
+          "BLUE",
+          "YELLOW",
+          "PURPLE"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
