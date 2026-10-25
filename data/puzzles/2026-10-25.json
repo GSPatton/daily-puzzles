@@ -1,0 +1,445 @@
+{
+  "date": "2026-10-25",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        1,
+        7,
+        0,
+        8,
+        0,
+        0,
+        3,
+        9,
+        0
+      ],
+      [
+        0,
+        5,
+        0,
+        0,
+        0,
+        6,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        9,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        7,
+        8,
+        0,
+        1,
+        0,
+        0,
+        4,
+        0,
+        0
+      ],
+      [
+        0,
+        4,
+        0,
+        0,
+        0,
+        2,
+        0,
+        5,
+        0
+      ],
+      [
+        9,
+        0,
+        1,
+        0,
+        0,
+        4,
+        6,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        8,
+        0,
+        0,
+        0,
+        5,
+        0,
+        9
+      ],
+      [
+        4,
+        9,
+        0,
+        6,
+        0,
+        0,
+        0,
+        2,
+        0
+      ],
+      [
+        0,
+        6,
+        2,
+        0,
+        0,
+        0,
+        8,
+        4,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        1,
+        7,
+        4,
+        8,
+        2,
+        5,
+        3,
+        9,
+        6
+      ],
+      [
+        8,
+        5,
+        9,
+        3,
+        7,
+        6,
+        2,
+        1,
+        4
+      ],
+      [
+        2,
+        3,
+        6,
+        4,
+        9,
+        1,
+        7,
+        8,
+        5
+      ],
+      [
+        7,
+        8,
+        5,
+        1,
+        6,
+        9,
+        4,
+        3,
+        2
+      ],
+      [
+        6,
+        4,
+        3,
+        7,
+        8,
+        2,
+        9,
+        5,
+        1
+      ],
+      [
+        9,
+        2,
+        1,
+        5,
+        3,
+        4,
+        6,
+        7,
+        8
+      ],
+      [
+        3,
+        1,
+        8,
+        2,
+        4,
+        7,
+        5,
+        6,
+        9
+      ],
+      [
+        4,
+        9,
+        7,
+        6,
+        5,
+        8,
+        1,
+        2,
+        3
+      ],
+      [
+        5,
+        6,
+        2,
+        9,
+        1,
+        3,
+        8,
+        4,
+        7
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "TAPE",
+        "clue": "Adhesive strip"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "ALONE",
+        "clue": "By oneself"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "length": 3,
+        "answer": "PIN",
+        "clue": "Sharp fastening tool"
+      },
+      {
+        "id": "4down",
+        "number": 4,
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "length": 4,
+        "answer": "EDGE",
+        "clue": "Outer boundary"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "length": 4,
+        "answer": "PASS",
+        "clue": "To go by, or to succeed a test"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 1,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "LID",
+        "clue": "Cover for a jar"
+      },
+      {
+        "id": "7across",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "ALONG",
+        "clue": "In line with"
+      },
+      {
+        "id": "8down",
+        "number": 8,
+        "row": 2,
+        "col": 1,
+        "direction": "down",
+        "length": 3,
+        "answer": "LOT",
+        "clue": "A great deal, or a parcel of land"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "SON",
+        "clue": "Male child"
+      },
+      {
+        "id": "10across",
+        "number": 10,
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "STEM",
+        "clue": "Plant's main stalk"
+      }
+    ],
+    "solution_grid": [
+      [
+        "#",
+        "T",
+        "A",
+        "P",
+        "E"
+      ],
+      [
+        "P",
+        "#",
+        "L",
+        "I",
+        "D"
+      ],
+      [
+        "A",
+        "L",
+        "O",
+        "N",
+        "G"
+      ],
+      [
+        "S",
+        "O",
+        "N",
+        "#",
+        "E"
+      ],
+      [
+        "S",
+        "T",
+        "E",
+        "M",
+        "#"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Two times, mixed up: tceiw (5)",
+        "answer": "TWICE",
+        "wordplay_type": "anagram",
+        "explanation": "\"tceiw\" is an anagram of TWICE (the word \"mixed up\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "To move fast on foot, some of a determined runner finished the marathon (3)",
+        "answer": "RUN",
+        "wordplay_type": "hidden_word",
+        "explanation": "RUN is hidden in \"a determined runner finished the marathon\" (letters 12-14 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Tree's outer covering; also Sound a dog makes (4)",
+        "answer": "BARK",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Tree's outer covering\" and \"Sound a dog makes\" are definitions of BARK."
+      },
+      {
+        "clue": "Sweet green or yellow fruit, scrambled: rape (4)",
+        "answer": "PEAR",
+        "wordplay_type": "anagram",
+        "explanation": "\"rape\" is an anagram of PEAR (the word \"scrambled\" signals the letters are rearranged)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Kitchen utensils",
+        "words": [
+          "SPATULA",
+          "WHISK",
+          "LADLE",
+          "TONGS"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Continents",
+        "words": [
+          "ASIA",
+          "AFRICA",
+          "EUROPE",
+          "OCEANIA"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Citrus fruits",
+        "words": [
+          "ORANGE",
+          "GRAPEFRUIT",
+          "LEMON",
+          "TANGERINE"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "School subjects",
+        "words": [
+          "MATH",
+          "SCIENCE",
+          "HISTORY",
+          "ART"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
