@@ -1,0 +1,445 @@
+{
+  "date": "2026-10-26",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        0,
+        7,
+        0,
+        9,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        8,
+        0,
+        4,
+        0,
+        0,
+        0,
+        7,
+        3,
+        2
+      ],
+      [
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8,
+        6,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        6,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        2,
+        4,
+        6
+      ],
+      [
+        0,
+        0,
+        6,
+        4,
+        3,
+        0,
+        0,
+        5,
+        7
+      ],
+      [
+        7,
+        0,
+        0,
+        0,
+        0,
+        6,
+        5,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        3,
+        0,
+        4,
+        2,
+        1,
+        7,
+        0
+      ],
+      [
+        0,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        6,
+        2,
+        7,
+        8,
+        9,
+        3,
+        4,
+        1,
+        5
+      ],
+      [
+        8,
+        9,
+        4,
+        6,
+        5,
+        1,
+        7,
+        3,
+        2
+      ],
+      [
+        5,
+        3,
+        1,
+        7,
+        2,
+        4,
+        8,
+        6,
+        9
+      ],
+      [
+        4,
+        7,
+        9,
+        2,
+        6,
+        5,
+        3,
+        8,
+        1
+      ],
+      [
+        3,
+        5,
+        8,
+        1,
+        7,
+        9,
+        2,
+        4,
+        6
+      ],
+      [
+        2,
+        1,
+        6,
+        4,
+        3,
+        8,
+        9,
+        5,
+        7
+      ],
+      [
+        7,
+        8,
+        2,
+        3,
+        1,
+        6,
+        5,
+        9,
+        4
+      ],
+      [
+        9,
+        6,
+        3,
+        5,
+        4,
+        2,
+        1,
+        7,
+        8
+      ],
+      [
+        1,
+        4,
+        5,
+        9,
+        8,
+        7,
+        6,
+        2,
+        3
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1down",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "length": 3,
+        "answer": "NUN",
+        "clue": "Religious sister"
+      },
+      {
+        "id": "2across",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "RIM",
+        "clue": "Outer edge"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "RIVAL",
+        "clue": "Competitor"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "length": 4,
+        "answer": "ITEM",
+        "clue": "Individual object"
+      },
+      {
+        "id": "4across",
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "UNIT",
+        "clue": "Single item, or a measure"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "direction": "down",
+        "length": 4,
+        "answer": "NOSE",
+        "clue": "Organ used for smelling"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "NOVEL",
+        "clue": "Long fictional book"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 4,
+        "direction": "down",
+        "length": 3,
+        "answer": "LEG",
+        "clue": "Limb used for walking"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "SAME",
+        "clue": "Identical"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "GEL",
+        "clue": "Styling product for hair"
+      }
+    ],
+    "solution_grid": [
+      [
+        "N",
+        "#",
+        "R",
+        "I",
+        "M"
+      ],
+      [
+        "U",
+        "N",
+        "I",
+        "T",
+        "#"
+      ],
+      [
+        "N",
+        "O",
+        "V",
+        "E",
+        "L"
+      ],
+      [
+        "#",
+        "S",
+        "A",
+        "M",
+        "E"
+      ],
+      [
+        "G",
+        "E",
+        "L",
+        "#",
+        "G"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Small rug, part of the drama teacher praised the actors (3)",
+        "answer": "MAT",
+        "wordplay_type": "hidden_word",
+        "explanation": "MAT is hidden in \"the drama teacher praised the actors\" (letters 7-9 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "A sports trainer; also A long-distance bus (5)",
+        "answer": "COACH",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"A sports trainer\" and \"A long-distance bus\" are definitions of COACH."
+      },
+      {
+        "clue": "Scheme for the future, in a mess: pnal (4)",
+        "answer": "PLAN",
+        "wordplay_type": "anagram",
+        "explanation": "\"pnal\" is an anagram of PLAN (the word \"in a mess\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Onward, hidden in the orchestra rehearsed for the concert (5)",
+        "answer": "FORTH",
+        "wordplay_type": "hidden_word",
+        "explanation": "FORTH is hidden in \"the orchestra rehearsed for the concert\" (letters 22-26 of the phrase with spaces removed)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Types of bread",
+        "words": [
+          "RYE",
+          "SOURDOUGH",
+          "BAGUETTE",
+          "PITA"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "___light",
+        "words": [
+          "MOON",
+          "SUN",
+          "DAY",
+          "LIME"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Citrus fruits",
+        "words": [
+          "ORANGE",
+          "GRAPEFRUIT",
+          "LEMON",
+          "TANGERINE"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Varieties of tea",
+        "words": [
+          "GREEN",
+          "BLACK",
+          "HERBAL",
+          "CHAI"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
