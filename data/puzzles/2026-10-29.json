@@ -1,0 +1,445 @@
+{
+  "date": "2026-10-29",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        9,
+        0,
+        0,
+        0,
+        4,
+        0,
+        8,
+        0,
+        3
+      ],
+      [
+        0,
+        3,
+        1,
+        0,
+        8,
+        0,
+        0,
+        0,
+        4
+      ],
+      [
+        8,
+        0,
+        2,
+        1,
+        0,
+        0,
+        9,
+        0,
+        6
+      ],
+      [
+        0,
+        0,
+        4,
+        0,
+        0,
+        0,
+        3,
+        0,
+        7
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        9,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        6,
+        0,
+        0,
+        0,
+        0,
+        2,
+        9,
+        0
+      ],
+      [
+        0,
+        2,
+        7,
+        4,
+        0,
+        0,
+        0,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        0,
+        6,
+        0,
+        1,
+        0,
+        0,
+        5
+      ],
+      [
+        6,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        9,
+        5,
+        6,
+        2,
+        4,
+        7,
+        8,
+        1,
+        3
+      ],
+      [
+        7,
+        3,
+        1,
+        9,
+        8,
+        6,
+        5,
+        2,
+        4
+      ],
+      [
+        8,
+        4,
+        2,
+        1,
+        5,
+        3,
+        9,
+        7,
+        6
+      ],
+      [
+        1,
+        9,
+        4,
+        8,
+        6,
+        2,
+        3,
+        5,
+        7
+      ],
+      [
+        2,
+        7,
+        8,
+        3,
+        9,
+        5,
+        6,
+        4,
+        1
+      ],
+      [
+        3,
+        6,
+        5,
+        7,
+        1,
+        4,
+        2,
+        9,
+        8
+      ],
+      [
+        5,
+        2,
+        7,
+        4,
+        3,
+        8,
+        1,
+        6,
+        9
+      ],
+      [
+        4,
+        8,
+        9,
+        6,
+        2,
+        1,
+        7,
+        3,
+        5
+      ],
+      [
+        6,
+        1,
+        3,
+        5,
+        7,
+        9,
+        4,
+        8,
+        2
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        1
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "GUN",
+        "clue": "Firearm"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "length": 4,
+        "answer": "UNIT",
+        "clue": "Single item, or a measure"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "NOVEL",
+        "clue": "Long fictional book"
+      },
+      {
+        "id": "4down",
+        "number": 4,
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "length": 3,
+        "answer": "GEL",
+        "clue": "Styling product for hair"
+      },
+      {
+        "id": "5across",
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "NOSE",
+        "clue": "Organ used for smelling"
+      },
+      {
+        "id": "6down",
+        "number": 6,
+        "row": 1,
+        "col": 3,
+        "direction": "down",
+        "length": 4,
+        "answer": "SAME",
+        "clue": "Identical"
+      },
+      {
+        "id": "7across",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "RIVAL",
+        "clue": "Competitor"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "down",
+        "length": 3,
+        "answer": "RIB",
+        "clue": "Curved bone in the chest"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "ITEM",
+        "clue": "Individual object"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "LEG",
+        "clue": "Limb used for walking"
+      }
+    ],
+    "solution_grid": [
+      [
+        "G",
+        "U",
+        "N",
+        "#",
+        "G"
+      ],
+      [
+        "#",
+        "N",
+        "O",
+        "S",
+        "E"
+      ],
+      [
+        "R",
+        "I",
+        "V",
+        "A",
+        "L"
+      ],
+      [
+        "I",
+        "T",
+        "E",
+        "M",
+        "#"
+      ],
+      [
+        "B",
+        "#",
+        "L",
+        "E",
+        "G"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "An invoice; also A duck's beak (4)",
+        "answer": "BILL",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"An invoice\" and \"A duck's beak\" are definitions of BILL."
+      },
+      {
+        "clue": "Identical, all over the place: aems (4)",
+        "answer": "SAME",
+        "wordplay_type": "anagram",
+        "explanation": "\"aems\" is an anagram of SAME (the word \"all over the place\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Polite, or relating to citizens, held in the historian described ancient civilizations (5)",
+        "answer": "CIVIL",
+        "wordplay_type": "hidden_word",
+        "explanation": "CIVIL is hidden in \"the historian described ancient civilizations\" (letters 29-33 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Tropical tree; also Inner surface of the hand (4)",
+        "answer": "PALM",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Tropical tree\" and \"Inner surface of the hand\" are definitions of PALM."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Types of pasta",
+        "words": [
+          "PENNE",
+          "FUSILLI",
+          "SPAGHETTI",
+          "RAVIOLI"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Types of ___storm",
+        "words": [
+          "THUNDER",
+          "SAND",
+          "SNOW",
+          "FIRE"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Zodiac signs",
+        "words": [
+          "ARIES",
+          "TAURUS",
+          "GEMINI",
+          "LEO"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Continents",
+        "words": [
+          "ASIA",
+          "AFRICA",
+          "EUROPE",
+          "OCEANIA"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
