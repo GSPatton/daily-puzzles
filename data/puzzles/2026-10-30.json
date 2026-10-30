@@ -1,0 +1,445 @@
+{
+  "date": "2026-10-30",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        6,
+        3,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        8,
+        5,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        2,
+        0,
+        0,
+        5,
+        0,
+        0,
+        3
+      ],
+      [
+        1,
+        4,
+        0,
+        5,
+        8,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        2,
+        9,
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        0,
+        9,
+        0,
+        6,
+        3,
+        4,
+        0,
+        5
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        2,
+        0
+      ],
+      [
+        7,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        4,
+        7,
+        3,
+        0,
+        0,
+        0,
+        1
+      ]
+    ],
+    "solution": [
+      [
+        6,
+        3,
+        7,
+        2,
+        1,
+        8,
+        9,
+        5,
+        4
+      ],
+      [
+        8,
+        5,
+        1,
+        3,
+        9,
+        4,
+        7,
+        6,
+        2
+      ],
+      [
+        4,
+        9,
+        2,
+        6,
+        7,
+        5,
+        1,
+        8,
+        3
+      ],
+      [
+        1,
+        4,
+        6,
+        5,
+        8,
+        7,
+        2,
+        3,
+        9
+      ],
+      [
+        3,
+        7,
+        5,
+        4,
+        2,
+        9,
+        6,
+        1,
+        8
+      ],
+      [
+        2,
+        8,
+        9,
+        1,
+        6,
+        3,
+        4,
+        7,
+        5
+      ],
+      [
+        9,
+        6,
+        3,
+        8,
+        4,
+        1,
+        5,
+        2,
+        7
+      ],
+      [
+        7,
+        1,
+        8,
+        9,
+        5,
+        2,
+        3,
+        4,
+        6
+      ],
+      [
+        5,
+        2,
+        4,
+        7,
+        3,
+        6,
+        8,
+        9,
+        1
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "DATE",
+        "clue": "Calendar day, or a romantic outing"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "ALONE",
+        "clue": "By oneself"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "length": 3,
+        "answer": "TAN",
+        "clue": "Brown skin tone from the sun"
+      },
+      {
+        "id": "4down",
+        "number": 4,
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "length": 4,
+        "answer": "EDGE",
+        "clue": "Outer boundary"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "length": 4,
+        "answer": "MASS",
+        "clue": "Large body of matter"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 1,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "LAD",
+        "clue": "Young man"
+      },
+      {
+        "id": "7across",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "ALONG",
+        "clue": "In line with"
+      },
+      {
+        "id": "8down",
+        "number": 8,
+        "row": 2,
+        "col": 1,
+        "direction": "down",
+        "length": 3,
+        "answer": "LOT",
+        "clue": "A great deal, or a parcel of land"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "SON",
+        "clue": "Male child"
+      },
+      {
+        "id": "10across",
+        "number": 10,
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "STEP",
+        "clue": "One pace, or a stair"
+      }
+    ],
+    "solution_grid": [
+      [
+        "#",
+        "D",
+        "A",
+        "T",
+        "E"
+      ],
+      [
+        "M",
+        "#",
+        "L",
+        "A",
+        "D"
+      ],
+      [
+        "A",
+        "L",
+        "O",
+        "N",
+        "G"
+      ],
+      [
+        "S",
+        "O",
+        "N",
+        "#",
+        "E"
+      ],
+      [
+        "S",
+        "T",
+        "E",
+        "P",
+        "#"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Outer boundary, some of the accountant balanced the monthly ledger (4)",
+        "answer": "EDGE",
+        "wordplay_type": "hidden_word",
+        "explanation": "EDGE is hidden in \"the accountant balanced the monthly ledger\" (letters 33-36 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Assistance, mixed up: leph (4)",
+        "answer": "HELP",
+        "wordplay_type": "anagram",
+        "explanation": "\"leph\" is an anagram of HELP (the word \"mixed up\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "An invoice; also A duck's beak (4)",
+        "answer": "BILL",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"An invoice\" and \"A duck's beak\" are definitions of BILL."
+      },
+      {
+        "clue": "Extremely, held in the athlete trained hard every morning (4)",
+        "answer": "VERY",
+        "wordplay_type": "hidden_word",
+        "explanation": "VERY is hidden in \"the athlete trained hard every morning\" (letters 23-26 of the phrase with spaces removed)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Weather phenomena",
+        "words": [
+          "RAIN",
+          "HAIL",
+          "FOG",
+          "SLEET"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "School subjects",
+        "words": [
+          "MATH",
+          "SCIENCE",
+          "HISTORY",
+          "ART"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Tree nuts",
+        "words": [
+          "ALMOND",
+          "CASHEW",
+          "PECAN",
+          "WALNUT"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Insects",
+        "words": [
+          "BEETLE",
+          "CRICKET",
+          "MANTIS",
+          "MOTH"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
