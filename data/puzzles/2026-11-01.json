@@ -1,0 +1,445 @@
+{
+  "date": "2026-11-01",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        1,
+        0,
+        0,
+        3,
+        4,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        8,
+        9,
+        0,
+        0,
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        7,
+        0,
+        8,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        2,
+        6,
+        0,
+        0,
+        8,
+        0,
+        0,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        3,
+        0,
+        2,
+        0,
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        7,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        1,
+        0,
+        6,
+        0,
+        0,
+        0,
+        4,
+        0,
+        0
+      ],
+      [
+        8,
+        5,
+        0,
+        0,
+        0,
+        3,
+        1,
+        9,
+        0
+      ],
+      [
+        0,
+        2,
+        9,
+        1,
+        0,
+        0,
+        0,
+        0,
+        5
+      ]
+    ],
+    "solution": [
+      [
+        9,
+        1,
+        5,
+        7,
+        3,
+        4,
+        2,
+        6,
+        8
+      ],
+      [
+        6,
+        4,
+        8,
+        9,
+        1,
+        2,
+        5,
+        7,
+        3
+      ],
+      [
+        3,
+        7,
+        2,
+        8,
+        5,
+        6,
+        9,
+        4,
+        1
+      ],
+      [
+        2,
+        6,
+        1,
+        4,
+        8,
+        5,
+        7,
+        3,
+        9
+      ],
+      [
+        7,
+        9,
+        3,
+        6,
+        2,
+        1,
+        8,
+        5,
+        4
+      ],
+      [
+        5,
+        8,
+        4,
+        3,
+        7,
+        9,
+        6,
+        1,
+        2
+      ],
+      [
+        1,
+        3,
+        6,
+        5,
+        9,
+        8,
+        4,
+        2,
+        7
+      ],
+      [
+        8,
+        5,
+        7,
+        2,
+        4,
+        3,
+        1,
+        9,
+        6
+      ],
+      [
+        4,
+        2,
+        9,
+        1,
+        6,
+        7,
+        3,
+        8,
+        5
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        1
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "ANT",
+        "clue": "Tiny colony-building insect"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "length": 4,
+        "answer": "NICE",
+        "clue": "Pleasant"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "TREAT",
+        "clue": "Special reward, or to handle medically"
+      },
+      {
+        "id": "4down",
+        "number": 4,
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "length": 3,
+        "answer": "ONE",
+        "clue": "First number"
+      },
+      {
+        "id": "5across",
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "IRON",
+        "clue": "Strong metal, also a pressing appliance"
+      },
+      {
+        "id": "6down",
+        "number": 6,
+        "row": 1,
+        "col": 3,
+        "direction": "down",
+        "length": 4,
+        "answer": "ONTO",
+        "clue": "On top of"
+      },
+      {
+        "id": "7across",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "SCENE",
+        "clue": "Setting of an event"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "down",
+        "length": 3,
+        "answer": "SHY",
+        "clue": "Timid"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "HEAT",
+        "clue": "Warmth"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "TON",
+        "clue": "2,000 pounds"
+      }
+    ],
+    "solution_grid": [
+      [
+        "A",
+        "N",
+        "T",
+        "#",
+        "O"
+      ],
+      [
+        "#",
+        "I",
+        "R",
+        "O",
+        "N"
+      ],
+      [
+        "S",
+        "C",
+        "E",
+        "N",
+        "E"
+      ],
+      [
+        "H",
+        "E",
+        "A",
+        "T",
+        "#"
+      ],
+      [
+        "Y",
+        "#",
+        "T",
+        "O",
+        "N"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Gentle tap, oddly arranged: tap (3)",
+        "answer": "PAT",
+        "wordplay_type": "anagram",
+        "explanation": "\"tap\" is an anagram of PAT (the word \"oddly arranged\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Helps a fish swim, part of the editor revised the final draft (3)",
+        "answer": "FIN",
+        "wordplay_type": "hidden_word",
+        "explanation": "FIN is hidden in \"the editor revised the final draft\" (letters 20-22 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Pointed end; also Gratuity for good service (3)",
+        "answer": "TIP",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Pointed end\" and \"Gratuity for good service\" are definitions of TIP."
+      },
+      {
+        "clue": "Small organized group, rearranged: qdasu (5)",
+        "answer": "SQUAD",
+        "wordplay_type": "anagram",
+        "explanation": "\"qdasu\" is an anagram of SQUAD (the word \"rearranged\" signals the letters are rearranged)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Types of dance",
+        "words": [
+          "TANGO",
+          "WALTZ",
+          "SALSA",
+          "FOXTROT"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Types of boats",
+        "words": [
+          "CANOE",
+          "KAYAK",
+          "YACHT",
+          "FERRY"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Citrus fruits",
+        "words": [
+          "ORANGE",
+          "GRAPEFRUIT",
+          "LEMON",
+          "TANGERINE"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Musical instruments",
+        "words": [
+          "PIANO",
+          "VIOLIN",
+          "GUITAR",
+          "TRUMPET"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
