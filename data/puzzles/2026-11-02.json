@@ -1,0 +1,445 @@
+{
+  "date": "2026-11-02",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        0,
+        0,
+        0,
+        8,
+        5,
+        4,
+        0,
+        6
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        8
+      ],
+      [
+        3,
+        8,
+        0,
+        0,
+        7,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        7,
+        0,
+        0,
+        4,
+        0,
+        0,
+        2,
+        0,
+        0
+      ],
+      [
+        4,
+        0,
+        1,
+        9,
+        6,
+        0,
+        8,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        8,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        5,
+        0,
+        2,
+        1,
+        6,
+        0,
+        0
+      ],
+      [
+        1,
+        6,
+        7,
+        0,
+        9,
+        3,
+        0,
+        0,
+        2
+      ]
+    ],
+    "solution": [
+      [
+        2,
+        1,
+        9,
+        3,
+        8,
+        5,
+        4,
+        7,
+        6
+      ],
+      [
+        5,
+        7,
+        6,
+        1,
+        4,
+        9,
+        3,
+        2,
+        8
+      ],
+      [
+        3,
+        8,
+        4,
+        2,
+        7,
+        6,
+        1,
+        5,
+        9
+      ],
+      [
+        7,
+        9,
+        3,
+        4,
+        1,
+        8,
+        2,
+        6,
+        5
+      ],
+      [
+        4,
+        5,
+        1,
+        9,
+        6,
+        2,
+        8,
+        3,
+        7
+      ],
+      [
+        6,
+        2,
+        8,
+        5,
+        3,
+        7,
+        9,
+        1,
+        4
+      ],
+      [
+        8,
+        3,
+        2,
+        6,
+        5,
+        4,
+        7,
+        9,
+        1
+      ],
+      [
+        9,
+        4,
+        5,
+        7,
+        2,
+        1,
+        6,
+        8,
+        3
+      ],
+      [
+        1,
+        6,
+        7,
+        8,
+        9,
+        3,
+        5,
+        4,
+        2
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "FADE",
+        "clue": "To gradually disappear"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "AMONG",
+        "clue": "In the middle of"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "length": 3,
+        "answer": "DIM",
+        "clue": "Not bright"
+      },
+      {
+        "id": "4down",
+        "number": 4,
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "length": 4,
+        "answer": "EXAM",
+        "clue": "Formal test"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "length": 4,
+        "answer": "EASE",
+        "clue": "Freedom from difficulty"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 1,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "MIX",
+        "clue": "To combine"
+      },
+      {
+        "id": "7across",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "AROMA",
+        "clue": "Pleasant smell"
+      },
+      {
+        "id": "8down",
+        "number": 8,
+        "row": 2,
+        "col": 1,
+        "direction": "down",
+        "length": 3,
+        "answer": "ROD",
+        "clue": "Thin straight bar"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "SON",
+        "clue": "Male child"
+      },
+      {
+        "id": "10across",
+        "number": 10,
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "EDGE",
+        "clue": "Outer boundary"
+      }
+    ],
+    "solution_grid": [
+      [
+        "#",
+        "F",
+        "A",
+        "D",
+        "E"
+      ],
+      [
+        "E",
+        "#",
+        "M",
+        "I",
+        "X"
+      ],
+      [
+        "A",
+        "R",
+        "O",
+        "M",
+        "A"
+      ],
+      [
+        "S",
+        "O",
+        "N",
+        "#",
+        "M"
+      ],
+      [
+        "E",
+        "D",
+        "G",
+        "E",
+        "#"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Brimmed hat, or a bottle's lid, found within the captain steered the ship carefully (3)",
+        "answer": "CAP",
+        "wordplay_type": "hidden_word",
+        "explanation": "CAP is hidden in \"the captain steered the ship carefully\" (letters 4-6 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "A narrative tale; also One level of a building (5)",
+        "answer": "STORY",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"A narrative tale\" and \"One level of a building\" are definitions of STORY."
+      },
+      {
+        "clue": "Will, expressing intent, shuffled: hsall (5)",
+        "answer": "SHALL",
+        "wordplay_type": "anagram",
+        "explanation": "\"hsall\" is an anagram of SHALL (the word \"shuffled\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Long narrow hilltop, found within the engineer designed a new bridge (5)",
+        "answer": "RIDGE",
+        "wordplay_type": "hidden_word",
+        "explanation": "RIDGE is hidden in \"the engineer designed a new bridge\" (letters 25-29 of the phrase with spaces removed)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Types of ___storm",
+        "words": [
+          "THUNDER",
+          "SAND",
+          "SNOW",
+          "FIRE"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Bodies of water",
+        "words": [
+          "LAKE",
+          "RIVER",
+          "POND",
+          "STREAM"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Insects",
+        "words": [
+          "BEETLE",
+          "CRICKET",
+          "MANTIS",
+          "MOTH"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Types of bread",
+        "words": [
+          "RYE",
+          "SOURDOUGH",
+          "BAGUETTE",
+          "PITA"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
