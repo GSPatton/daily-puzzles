@@ -1,0 +1,445 @@
+{
+  "date": "2026-11-03",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        0,
+        2,
+        6,
+        0,
+        4,
+        0,
+        7,
+        0
+      ],
+      [
+        0,
+        1,
+        7,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3
+      ],
+      [
+        6,
+        4,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        3,
+        5,
+        0,
+        0,
+        2,
+        0
+      ],
+      [
+        0,
+        9,
+        8,
+        2,
+        0,
+        0,
+        0,
+        5,
+        0
+      ],
+      [
+        5,
+        0,
+        1,
+        0,
+        0,
+        7,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        3,
+        0,
+        8,
+        7,
+        9,
+        0,
+        4,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        9,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        6,
+        0,
+        0,
+        3,
+        7
+      ]
+    ],
+    "solution": [
+      [
+        9,
+        5,
+        2,
+        6,
+        3,
+        4,
+        8,
+        7,
+        1
+      ],
+      [
+        8,
+        1,
+        7,
+        9,
+        2,
+        5,
+        4,
+        6,
+        3
+      ],
+      [
+        6,
+        4,
+        3,
+        7,
+        8,
+        1,
+        2,
+        9,
+        5
+      ],
+      [
+        7,
+        6,
+        4,
+        3,
+        5,
+        8,
+        1,
+        2,
+        9
+      ],
+      [
+        3,
+        9,
+        8,
+        2,
+        1,
+        6,
+        7,
+        5,
+        4
+      ],
+      [
+        5,
+        2,
+        1,
+        4,
+        9,
+        7,
+        3,
+        8,
+        6
+      ],
+      [
+        1,
+        3,
+        5,
+        8,
+        7,
+        9,
+        6,
+        4,
+        2
+      ],
+      [
+        2,
+        7,
+        6,
+        5,
+        4,
+        3,
+        9,
+        1,
+        8
+      ],
+      [
+        4,
+        8,
+        9,
+        1,
+        6,
+        2,
+        5,
+        3,
+        7
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1down",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "length": 3,
+        "answer": "FUN",
+        "clue": "Enjoyable"
+      },
+      {
+        "id": "2across",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "RIB",
+        "clue": "Curved bone in the chest"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "RIVAL",
+        "clue": "Competitor"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "length": 4,
+        "answer": "ITEM",
+        "clue": "Individual object"
+      },
+      {
+        "id": "4across",
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "UNIT",
+        "clue": "Single item, or a measure"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "direction": "down",
+        "length": 4,
+        "answer": "NOSE",
+        "clue": "Organ used for smelling"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "NOVEL",
+        "clue": "Long fictional book"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 4,
+        "direction": "down",
+        "length": 3,
+        "answer": "LEG",
+        "clue": "Limb used for walking"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "SAME",
+        "clue": "Identical"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "GEL",
+        "clue": "Styling product for hair"
+      }
+    ],
+    "solution_grid": [
+      [
+        "F",
+        "#",
+        "R",
+        "I",
+        "B"
+      ],
+      [
+        "U",
+        "N",
+        "I",
+        "T",
+        "#"
+      ],
+      [
+        "N",
+        "O",
+        "V",
+        "E",
+        "L"
+      ],
+      [
+        "#",
+        "S",
+        "A",
+        "M",
+        "E"
+      ],
+      [
+        "G",
+        "E",
+        "L",
+        "#",
+        "G"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Opposite of dark, part of a sudden storm delayed the flight (5)",
+        "answer": "LIGHT",
+        "wordplay_type": "hidden_word",
+        "explanation": "LIGHT is hidden in \"a sudden storm delayed the flight\" (letters 24-28 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Man or boy, mixed up: mael (4)",
+        "answer": "MALE",
+        "wordplay_type": "anagram",
+        "explanation": "\"mael\" is an anagram of MALE (the word \"mixed up\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Neckwear; also A drawn match (3)",
+        "answer": "TIE",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Neckwear\" and \"A drawn match\" are definitions of TIE."
+      },
+      {
+        "clue": "Straight mark, or a queue, some of the announcer read the evening headlines (4)",
+        "answer": "LINE",
+        "wordplay_type": "hidden_word",
+        "explanation": "LINE is hidden in \"the announcer read the evening headlines\" (letters 31-34 of the phrase with spaces removed)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Colors",
+        "words": [
+          "RED",
+          "BLUE",
+          "YELLOW",
+          "PURPLE"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Ocean creatures",
+        "words": [
+          "WHALE",
+          "SHARK",
+          "OCTOPUS",
+          "DOLPHIN"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Types of ___storm",
+        "words": [
+          "THUNDER",
+          "SAND",
+          "SNOW",
+          "FIRE"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Insects",
+        "words": [
+          "BEETLE",
+          "CRICKET",
+          "MANTIS",
+          "MOTH"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
