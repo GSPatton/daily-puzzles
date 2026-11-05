@@ -1,0 +1,445 @@
+{
+  "date": "2026-11-05",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5
+      ],
+      [
+        0,
+        6,
+        9,
+        3,
+        0,
+        0,
+        0,
+        4,
+        7
+      ],
+      [
+        0,
+        4,
+        5,
+        6,
+        7,
+        0,
+        9,
+        0,
+        8
+      ],
+      [
+        6,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        5,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        2,
+        0,
+        9,
+        0,
+        0,
+        6
+      ],
+      [
+        0,
+        7,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        9,
+        4
+      ],
+      [
+        0,
+        0,
+        8,
+        4,
+        0,
+        6,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        9,
+        0,
+        0,
+        8,
+        0,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        8,
+        3,
+        7,
+        1,
+        9,
+        4,
+        6,
+        2,
+        5
+      ],
+      [
+        2,
+        6,
+        9,
+        3,
+        8,
+        5,
+        1,
+        4,
+        7
+      ],
+      [
+        1,
+        4,
+        5,
+        6,
+        7,
+        2,
+        9,
+        3,
+        8
+      ],
+      [
+        6,
+        1,
+        2,
+        7,
+        4,
+        8,
+        3,
+        5,
+        9
+      ],
+      [
+        5,
+        8,
+        3,
+        2,
+        1,
+        9,
+        4,
+        7,
+        6
+      ],
+      [
+        9,
+        7,
+        4,
+        5,
+        6,
+        3,
+        2,
+        8,
+        1
+      ],
+      [
+        7,
+        2,
+        6,
+        8,
+        3,
+        1,
+        5,
+        9,
+        4
+      ],
+      [
+        3,
+        9,
+        8,
+        4,
+        5,
+        6,
+        7,
+        1,
+        2
+      ],
+      [
+        4,
+        5,
+        1,
+        9,
+        2,
+        7,
+        8,
+        6,
+        3
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        1
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "RUB",
+        "clue": "To press and move back and forth"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "length": 4,
+        "answer": "USED",
+        "clue": "Not new"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "BEGIN",
+        "clue": "To start"
+      },
+      {
+        "id": "4down",
+        "number": 4,
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "length": 3,
+        "answer": "ILL",
+        "clue": "Sick"
+      },
+      {
+        "id": "5across",
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "SELL",
+        "clue": "To exchange for money"
+      },
+      {
+        "id": "6down",
+        "number": 6,
+        "row": 1,
+        "col": 3,
+        "direction": "down",
+        "length": 4,
+        "answer": "LATE",
+        "clue": "Not on time"
+      },
+      {
+        "id": "7across",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "LEGAL",
+        "clue": "Permitted by law"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "down",
+        "length": 3,
+        "answer": "LEG",
+        "clue": "Limb used for walking"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "EDIT",
+        "clue": "To revise text"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "NEW",
+        "clue": "Not old"
+      }
+    ],
+    "solution_grid": [
+      [
+        "R",
+        "U",
+        "B",
+        "#",
+        "I"
+      ],
+      [
+        "#",
+        "S",
+        "E",
+        "L",
+        "L"
+      ],
+      [
+        "L",
+        "E",
+        "G",
+        "A",
+        "L"
+      ],
+      [
+        "E",
+        "D",
+        "I",
+        "T",
+        "#"
+      ],
+      [
+        "G",
+        "#",
+        "N",
+        "E",
+        "W"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "To have fun, or a stage production, buried in a talented painter displayed her canvases (4)",
+        "answer": "PLAY",
+        "wordplay_type": "hidden_word",
+        "explanation": "PLAY is hidden in \"a talented painter displayed her canvases\" (letters 20-23 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Rhythm, or to defeat, gone wrong: tbae (4)",
+        "answer": "BEAT",
+        "wordplay_type": "anagram",
+        "explanation": "\"tbae\" is an anagram of BEAT (the word \"gone wrong\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Flying nocturnal mammal; also Wooden club used in baseball (3)",
+        "answer": "BAT",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Flying nocturnal mammal\" and \"Wooden club used in baseball\" are definitions of BAT."
+      },
+      {
+        "clue": "Belonging to me, or an excavation, found within a determined runner finished the marathon (4)",
+        "answer": "MINE",
+        "wordplay_type": "hidden_word",
+        "explanation": "MINE is hidden in \"a determined runner finished the marathon\" (letters 7-10 of the phrase with spaces removed)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Citrus fruits",
+        "words": [
+          "ORANGE",
+          "GRAPEFRUIT",
+          "LEMON",
+          "TANGERINE"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Big cats",
+        "words": [
+          "LION",
+          "TIGER",
+          "LEOPARD",
+          "CHEETAH"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Musical instruments",
+        "words": [
+          "PIANO",
+          "VIOLIN",
+          "GUITAR",
+          "TRUMPET"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "___light",
+        "words": [
+          "MOON",
+          "SUN",
+          "DAY",
+          "LIME"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
