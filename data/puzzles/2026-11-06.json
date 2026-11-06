@@ -1,0 +1,445 @@
+{
+  "date": "2026-11-06",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        9,
+        0,
+        0,
+        4,
+        0,
+        0,
+        7,
+        0
+      ],
+      [
+        0,
+        0,
+        2,
+        9,
+        0,
+        8,
+        5,
+        0,
+        6
+      ],
+      [
+        7,
+        0,
+        0,
+        2,
+        0,
+        1,
+        8,
+        0,
+        0
+      ],
+      [
+        0,
+        7,
+        0,
+        0,
+        9,
+        0,
+        3,
+        2,
+        0
+      ],
+      [
+        6,
+        0,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        3,
+        4,
+        6,
+        0
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        5,
+        4,
+        0,
+        0,
+        9,
+        0,
+        0
+      ],
+      [
+        0,
+        4,
+        0,
+        0,
+        5,
+        0,
+        2,
+        0,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        8,
+        9,
+        6,
+        3,
+        4,
+        5,
+        1,
+        7,
+        2
+      ],
+      [
+        4,
+        1,
+        2,
+        9,
+        7,
+        8,
+        5,
+        3,
+        6
+      ],
+      [
+        7,
+        5,
+        3,
+        2,
+        6,
+        1,
+        8,
+        4,
+        9
+      ],
+      [
+        5,
+        7,
+        1,
+        6,
+        9,
+        4,
+        3,
+        2,
+        8
+      ],
+      [
+        6,
+        3,
+        4,
+        5,
+        8,
+        2,
+        7,
+        9,
+        1
+      ],
+      [
+        9,
+        2,
+        8,
+        7,
+        1,
+        3,
+        4,
+        6,
+        5
+      ],
+      [
+        2,
+        8,
+        7,
+        1,
+        3,
+        9,
+        6,
+        5,
+        4
+      ],
+      [
+        1,
+        6,
+        5,
+        4,
+        2,
+        7,
+        9,
+        8,
+        3
+      ],
+      [
+        3,
+        4,
+        9,
+        8,
+        5,
+        6,
+        2,
+        1,
+        7
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "PLAY",
+        "clue": "To have fun, or a stage production"
+      },
+      {
+        "id": "1down",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "length": 4,
+        "answer": "POST",
+        "clue": "Mail, or an upright pole"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "length": 3,
+        "answer": "LIT",
+        "clue": "Turned on, or past tense of light"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "ALONE",
+        "clue": "By oneself"
+      },
+      {
+        "id": "4across",
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "OIL",
+        "clue": "Slippery liquid used for cooking or fuel"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 4,
+        "direction": "down",
+        "length": 4,
+        "answer": "SENT",
+        "clue": "Past tense of send"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "STORE",
+        "clue": "Shop, or to save for later"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "length": 3,
+        "answer": "RUB",
+        "clue": "To press and move back and forth"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "NUN",
+        "clue": "Religious sister"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "DEBT",
+        "clue": "Money owed"
+      }
+    ],
+    "solution_grid": [
+      [
+        "P",
+        "L",
+        "A",
+        "Y",
+        "#"
+      ],
+      [
+        "O",
+        "I",
+        "L",
+        "#",
+        "S"
+      ],
+      [
+        "S",
+        "T",
+        "O",
+        "R",
+        "E"
+      ],
+      [
+        "T",
+        "#",
+        "N",
+        "U",
+        "N"
+      ],
+      [
+        "#",
+        "D",
+        "E",
+        "B",
+        "T"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Part played by an actor, gone wrong: elor (4)",
+        "answer": "ROLE",
+        "wordplay_type": "anagram",
+        "explanation": "\"elor\" is an anagram of ROLE (the word \"gone wrong\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "The earth's surface; also Past tense of grind (6)",
+        "answer": "GROUND",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"The earth's surface\" and \"Past tense of grind\" are definitions of GROUND."
+      },
+      {
+        "clue": "Vehicle with four wheels, hidden in the mechanic checked the engine carefully (3)",
+        "answer": "CAR",
+        "wordplay_type": "hidden_word",
+        "explanation": "CAR is hidden in \"the mechanic checked the engine carefully\" (letters 28-30 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "To search for prey, oddly arranged: htnu (4)",
+        "answer": "HUNT",
+        "wordplay_type": "anagram",
+        "explanation": "\"htnu\" is an anagram of HUNT (the word \"oddly arranged\" signals the letters are rearranged)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Tree nuts",
+        "words": [
+          "ALMOND",
+          "CASHEW",
+          "PECAN",
+          "WALNUT"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Ocean creatures",
+        "words": [
+          "WHALE",
+          "SHARK",
+          "OCTOPUS",
+          "DOLPHIN"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Chess pieces",
+        "words": [
+          "KING",
+          "QUEEN",
+          "BISHOP",
+          "KNIGHT"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "___light",
+        "words": [
+          "MOON",
+          "SUN",
+          "DAY",
+          "LIME"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
