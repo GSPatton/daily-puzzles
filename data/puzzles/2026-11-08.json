@@ -1,0 +1,445 @@
+{
+  "date": "2026-11-08",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        7,
+        0,
+        0,
+        0,
+        9,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        8,
+        0,
+        7,
+        3,
+        0,
+        0,
+        9,
+        2
+      ],
+      [
+        9,
+        0,
+        0,
+        0,
+        1,
+        2,
+        0,
+        0,
+        8
+      ],
+      [
+        0,
+        0,
+        7,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        4,
+        3,
+        0,
+        1,
+        0,
+        7,
+        0
+      ],
+      [
+        8,
+        1,
+        9,
+        6,
+        0,
+        7,
+        0,
+        2,
+        3
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        7,
+        0,
+        5,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        2,
+        3,
+        8,
+        4,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        2,
+        7,
+        1,
+        8,
+        6,
+        9,
+        3,
+        5,
+        4
+      ],
+      [
+        4,
+        8,
+        6,
+        7,
+        3,
+        5,
+        1,
+        9,
+        2
+      ],
+      [
+        9,
+        5,
+        3,
+        4,
+        1,
+        2,
+        7,
+        6,
+        8
+      ],
+      [
+        5,
+        3,
+        7,
+        2,
+        9,
+        4,
+        6,
+        8,
+        1
+      ],
+      [
+        6,
+        2,
+        4,
+        3,
+        8,
+        1,
+        9,
+        7,
+        5
+      ],
+      [
+        8,
+        1,
+        9,
+        6,
+        5,
+        7,
+        4,
+        2,
+        3
+      ],
+      [
+        3,
+        9,
+        8,
+        5,
+        4,
+        6,
+        2,
+        1,
+        7
+      ],
+      [
+        1,
+        4,
+        2,
+        9,
+        7,
+        8,
+        5,
+        3,
+        6
+      ],
+      [
+        7,
+        6,
+        5,
+        1,
+        2,
+        3,
+        8,
+        4,
+        9
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1down",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "length": 3,
+        "answer": "TUB",
+        "clue": "Bathing basin"
+      },
+      {
+        "id": "2across",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "LEG",
+        "clue": "Limb used for walking"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "LEGAL",
+        "clue": "Permitted by law"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "length": 4,
+        "answer": "EDIT",
+        "clue": "To revise text"
+      },
+      {
+        "id": "4across",
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "USED",
+        "clue": "Not new"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "direction": "down",
+        "length": 4,
+        "answer": "SELL",
+        "clue": "To exchange for money"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "BEGIN",
+        "clue": "To start"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 4,
+        "direction": "down",
+        "length": 3,
+        "answer": "NEW",
+        "clue": "Not old"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "LATE",
+        "clue": "Not on time"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "ILL",
+        "clue": "Sick"
+      }
+    ],
+    "solution_grid": [
+      [
+        "T",
+        "#",
+        "L",
+        "E",
+        "G"
+      ],
+      [
+        "U",
+        "S",
+        "E",
+        "D",
+        "#"
+      ],
+      [
+        "B",
+        "E",
+        "G",
+        "I",
+        "N"
+      ],
+      [
+        "#",
+        "L",
+        "A",
+        "T",
+        "E"
+      ],
+      [
+        "I",
+        "L",
+        "L",
+        "#",
+        "W"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Where a trial is held; also To romantically pursue someone (5)",
+        "answer": "COURT",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Where a trial is held\" and \"To romantically pursue someone\" are definitions of COURT."
+      },
+      {
+        "clue": "Tops the body, holds the brain, part of the announcer read the evening headlines (4)",
+        "answer": "HEAD",
+        "wordplay_type": "hidden_word",
+        "explanation": "HEAD is hidden in \"the announcer read the evening headlines\" (letters 27-30 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Sugary tasting, mixed up: setwe (5)",
+        "answer": "SWEET",
+        "wordplay_type": "anagram",
+        "explanation": "\"setwe\" is an anagram of SWEET (the word \"mixed up\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Neckwear; also A drawn match (3)",
+        "answer": "TIE",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Neckwear\" and \"A drawn match\" are definitions of TIE."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Continents",
+        "words": [
+          "ASIA",
+          "AFRICA",
+          "EUROPE",
+          "OCEANIA"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Card suits",
+        "words": [
+          "HEARTS",
+          "CLUBS",
+          "SPADES",
+          "DIAMONDS"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Zodiac signs",
+        "words": [
+          "ARIES",
+          "TAURUS",
+          "GEMINI",
+          "LEO"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Big cats",
+        "words": [
+          "LION",
+          "TIGER",
+          "LEOPARD",
+          "CHEETAH"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
