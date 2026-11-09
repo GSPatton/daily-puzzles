@@ -1,0 +1,445 @@
+{
+  "date": "2026-11-09",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        7,
+        0,
+        4,
+        0,
+        5,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        2,
+        7,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        5,
+        9,
+        0,
+        6,
+        0,
+        4,
+        1,
+        0
+      ],
+      [
+        8,
+        0,
+        0,
+        2,
+        4,
+        0,
+        6,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        9,
+        0,
+        0,
+        0,
+        7,
+        3
+      ],
+      [
+        0,
+        9,
+        0,
+        0,
+        0,
+        0,
+        3,
+        4,
+        0
+      ],
+      [
+        0,
+        2,
+        0,
+        3,
+        7,
+        6,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        3,
+        0,
+        9,
+        0,
+        0,
+        2,
+        5
+      ]
+    ],
+    "solution": [
+      [
+        9,
+        7,
+        8,
+        4,
+        3,
+        5,
+        2,
+        6,
+        1
+      ],
+      [
+        1,
+        6,
+        2,
+        7,
+        8,
+        9,
+        5,
+        3,
+        4
+      ],
+      [
+        4,
+        3,
+        5,
+        6,
+        1,
+        2,
+        9,
+        8,
+        7
+      ],
+      [
+        3,
+        5,
+        9,
+        8,
+        6,
+        7,
+        4,
+        1,
+        2
+      ],
+      [
+        8,
+        1,
+        7,
+        2,
+        4,
+        3,
+        6,
+        5,
+        9
+      ],
+      [
+        2,
+        4,
+        6,
+        9,
+        5,
+        1,
+        8,
+        7,
+        3
+      ],
+      [
+        7,
+        9,
+        1,
+        5,
+        2,
+        8,
+        3,
+        4,
+        6
+      ],
+      [
+        5,
+        2,
+        4,
+        3,
+        7,
+        6,
+        1,
+        9,
+        8
+      ],
+      [
+        6,
+        8,
+        3,
+        1,
+        9,
+        4,
+        7,
+        2,
+        5
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1down",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "length": 3,
+        "answer": "FUN",
+        "clue": "Enjoyable"
+      },
+      {
+        "id": "2across",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "RIB",
+        "clue": "Curved bone in the chest"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "RIVAL",
+        "clue": "Competitor"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "length": 4,
+        "answer": "ITEM",
+        "clue": "Individual object"
+      },
+      {
+        "id": "4across",
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "UNIT",
+        "clue": "Single item, or a measure"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "direction": "down",
+        "length": 4,
+        "answer": "NOSE",
+        "clue": "Organ used for smelling"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "NOVEL",
+        "clue": "Long fictional book"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 4,
+        "direction": "down",
+        "length": 3,
+        "answer": "LEG",
+        "clue": "Limb used for walking"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "SAME",
+        "clue": "Identical"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "GEL",
+        "clue": "Styling product for hair"
+      }
+    ],
+    "solution_grid": [
+      [
+        "F",
+        "#",
+        "R",
+        "I",
+        "B"
+      ],
+      [
+        "U",
+        "N",
+        "I",
+        "T",
+        "#"
+      ],
+      [
+        "N",
+        "O",
+        "V",
+        "E",
+        "L"
+      ],
+      [
+        "#",
+        "S",
+        "A",
+        "M",
+        "E"
+      ],
+      [
+        "G",
+        "E",
+        "L",
+        "#",
+        "G"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "A sports trainer; also A long-distance bus (5)",
+        "answer": "COACH",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"A sports trainer\" and \"A long-distance bus\" are definitions of COACH."
+      },
+      {
+        "clue": "Taxi, found within the cabinet minister gave a speech (3)",
+        "answer": "CAB",
+        "wordplay_type": "hidden_word",
+        "explanation": "CAB is hidden in \"the cabinet minister gave a speech\" (letters 4-6 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Study of numbers, in a mess: amth (4)",
+        "answer": "MATH",
+        "wordplay_type": "anagram",
+        "explanation": "\"amth\" is an anagram of MATH (the word \"in a mess\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "To rush forward; also A fee, or a criminal accusation (6)",
+        "answer": "CHARGE",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"To rush forward\" and \"A fee, or a criminal accusation\" are definitions of CHARGE."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Colors",
+        "words": [
+          "RED",
+          "BLUE",
+          "YELLOW",
+          "PURPLE"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Types of dance",
+        "words": [
+          "TANGO",
+          "WALTZ",
+          "SALSA",
+          "FOXTROT"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Insects",
+        "words": [
+          "BEETLE",
+          "CRICKET",
+          "MANTIS",
+          "MOTH"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Types of shoes",
+        "words": [
+          "SNEAKER",
+          "SANDAL",
+          "BOOT",
+          "LOAFER"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
