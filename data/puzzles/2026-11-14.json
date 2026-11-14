@@ -1,0 +1,445 @@
+{
+  "date": "2026-11-14",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        2,
+        0,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        1,
+        5,
+        0,
+        6,
+        0,
+        7,
+        3,
+        8
+      ],
+      [
+        0,
+        0,
+        3,
+        0,
+        0,
+        9,
+        5,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        6,
+        0,
+        0,
+        8,
+        1,
+        0,
+        3
+      ],
+      [
+        5,
+        3,
+        1,
+        0,
+        2,
+        4,
+        0,
+        0,
+        7
+      ],
+      [
+        0,
+        4,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0,
+        0,
+        5,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        4,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        2,
+        7,
+        8,
+        5,
+        3,
+        1,
+        6,
+        9,
+        4
+      ],
+      [
+        9,
+        1,
+        5,
+        4,
+        6,
+        2,
+        7,
+        3,
+        8
+      ],
+      [
+        4,
+        6,
+        3,
+        7,
+        8,
+        9,
+        5,
+        2,
+        1
+      ],
+      [
+        7,
+        2,
+        6,
+        9,
+        5,
+        8,
+        1,
+        4,
+        3
+      ],
+      [
+        5,
+        3,
+        1,
+        6,
+        2,
+        4,
+        9,
+        8,
+        7
+      ],
+      [
+        8,
+        4,
+        9,
+        1,
+        7,
+        3,
+        2,
+        6,
+        5
+      ],
+      [
+        6,
+        8,
+        4,
+        2,
+        1,
+        7,
+        3,
+        5,
+        9
+      ],
+      [
+        1,
+        9,
+        2,
+        3,
+        4,
+        5,
+        8,
+        7,
+        6
+      ],
+      [
+        3,
+        5,
+        7,
+        8,
+        9,
+        6,
+        4,
+        1,
+        2
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "FATE",
+        "clue": "Destiny"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "ALONE",
+        "clue": "By oneself"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "length": 3,
+        "answer": "TIN",
+        "clue": "Silvery metal, or a small can"
+      },
+      {
+        "id": "4down",
+        "number": 4,
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "length": 4,
+        "answer": "EDGE",
+        "clue": "Outer boundary"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "length": 4,
+        "answer": "MASS",
+        "clue": "Large body of matter"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 1,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "LID",
+        "clue": "Cover for a jar"
+      },
+      {
+        "id": "7across",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "ALONG",
+        "clue": "In line with"
+      },
+      {
+        "id": "8down",
+        "number": 8,
+        "row": 2,
+        "col": 1,
+        "direction": "down",
+        "length": 3,
+        "answer": "LOT",
+        "clue": "A great deal, or a parcel of land"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "SON",
+        "clue": "Male child"
+      },
+      {
+        "id": "10across",
+        "number": 10,
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "STEM",
+        "clue": "Plant's main stalk"
+      }
+    ],
+    "solution_grid": [
+      [
+        "#",
+        "F",
+        "A",
+        "T",
+        "E"
+      ],
+      [
+        "M",
+        "#",
+        "L",
+        "I",
+        "D"
+      ],
+      [
+        "A",
+        "L",
+        "O",
+        "N",
+        "G"
+      ],
+      [
+        "S",
+        "O",
+        "N",
+        "#",
+        "E"
+      ],
+      [
+        "S",
+        "T",
+        "E",
+        "M",
+        "#"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Televised or staged performance, part of local artists showcase their new work (4)",
+        "answer": "SHOW",
+        "wordplay_type": "hidden_word",
+        "explanation": "SHOW is hidden in \"local artists showcase their new work\" (letters 13-16 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "A platform for performing; also A phase in a process (5)",
+        "answer": "STAGE",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"A platform for performing\" and \"A phase in a process\" are definitions of STAGE."
+      },
+      {
+        "clue": "Very large, scrambled: geuh (4)",
+        "answer": "HUGE",
+        "wordplay_type": "anagram",
+        "explanation": "\"geuh\" is an anagram of HUGE (the word \"scrambled\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Opposite of dark, held in a sudden storm delayed the flight (5)",
+        "answer": "LIGHT",
+        "wordplay_type": "hidden_word",
+        "explanation": "LIGHT is hidden in \"a sudden storm delayed the flight\" (letters 24-28 of the phrase with spaces removed)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Farm animals",
+        "words": [
+          "COW",
+          "PIG",
+          "SHEEP",
+          "GOAT"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Precious gems",
+        "words": [
+          "RUBY",
+          "EMERALD",
+          "SAPPHIRE",
+          "TOPAZ"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Citrus fruits",
+        "words": [
+          "ORANGE",
+          "GRAPEFRUIT",
+          "LEMON",
+          "TANGERINE"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Chess pieces",
+        "words": [
+          "KING",
+          "QUEEN",
+          "BISHOP",
+          "KNIGHT"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
