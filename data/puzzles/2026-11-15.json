@@ -1,0 +1,445 @@
+{
+  "date": "2026-11-15",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        0,
+        2,
+        0,
+        1,
+        0,
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        1,
+        8,
+        0,
+        0,
+        0,
+        7,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        6,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        7,
+        9
+      ],
+      [
+        8,
+        9,
+        0,
+        6,
+        0,
+        5,
+        0,
+        0,
+        0
+      ],
+      [
+        3,
+        2,
+        0,
+        0,
+        8,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        6,
+        0,
+        2,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        9,
+        0,
+        5,
+        0,
+        4,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        8,
+        3,
+        4,
+        9,
+        0,
+        7
+      ]
+    ],
+    "solution": [
+      [
+        7,
+        3,
+        2,
+        5,
+        1,
+        8,
+        6,
+        9,
+        4
+      ],
+      [
+        5,
+        1,
+        8,
+        4,
+        9,
+        6,
+        7,
+        2,
+        3
+      ],
+      [
+        9,
+        4,
+        6,
+        7,
+        2,
+        3,
+        1,
+        8,
+        5
+      ],
+      [
+        1,
+        6,
+        5,
+        3,
+        4,
+        2,
+        8,
+        7,
+        9
+      ],
+      [
+        8,
+        9,
+        4,
+        6,
+        7,
+        5,
+        3,
+        1,
+        2
+      ],
+      [
+        3,
+        2,
+        7,
+        1,
+        8,
+        9,
+        5,
+        4,
+        6
+      ],
+      [
+        4,
+        8,
+        3,
+        9,
+        6,
+        7,
+        2,
+        5,
+        1
+      ],
+      [
+        6,
+        7,
+        9,
+        2,
+        5,
+        1,
+        4,
+        3,
+        8
+      ],
+      [
+        2,
+        5,
+        1,
+        8,
+        3,
+        4,
+        9,
+        6,
+        7
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1down",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "length": 3,
+        "answer": "RUB",
+        "clue": "To press and move back and forth"
+      },
+      {
+        "id": "2across",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "LEG",
+        "clue": "Limb used for walking"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "LEGAL",
+        "clue": "Permitted by law"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "length": 4,
+        "answer": "EDIT",
+        "clue": "To revise text"
+      },
+      {
+        "id": "4across",
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "USED",
+        "clue": "Not new"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "direction": "down",
+        "length": 4,
+        "answer": "SELL",
+        "clue": "To exchange for money"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "BEGIN",
+        "clue": "To start"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 4,
+        "direction": "down",
+        "length": 3,
+        "answer": "NEW",
+        "clue": "Not old"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "LATE",
+        "clue": "Not on time"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "ILL",
+        "clue": "Sick"
+      }
+    ],
+    "solution_grid": [
+      [
+        "R",
+        "#",
+        "L",
+        "E",
+        "G"
+      ],
+      [
+        "U",
+        "S",
+        "E",
+        "D",
+        "#"
+      ],
+      [
+        "B",
+        "E",
+        "G",
+        "I",
+        "N"
+      ],
+      [
+        "#",
+        "L",
+        "A",
+        "T",
+        "E"
+      ],
+      [
+        "I",
+        "L",
+        "L",
+        "#",
+        "W"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Mesh used to catch fish, hidden in the cabinet minister gave a speech (3)",
+        "answer": "NET",
+        "wordplay_type": "hidden_word",
+        "explanation": "NET is hidden in \"the cabinet minister gave a speech\" (letters 8-10 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Unkind; also The average value (4)",
+        "answer": "MEAN",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Unkind\" and \"The average value\" are definitions of MEAN."
+      },
+      {
+        "clue": "Remedy, in a mess: eurc (4)",
+        "answer": "CURE",
+        "wordplay_type": "anagram",
+        "explanation": "\"eurc\" is an anagram of CURE (the word \"in a mess\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Swindle, or a downside, some of a consumer report on new gadgets (3)",
+        "answer": "CON",
+        "wordplay_type": "hidden_word",
+        "explanation": "CON is hidden in \"a consumer report on new gadgets\" (letters 2-4 of the phrase with spaces removed)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Card suits",
+        "words": [
+          "HEARTS",
+          "CLUBS",
+          "SPADES",
+          "DIAMONDS"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Bodies of water",
+        "words": [
+          "LAKE",
+          "RIVER",
+          "POND",
+          "STREAM"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Continents",
+        "words": [
+          "ASIA",
+          "AFRICA",
+          "EUROPE",
+          "OCEANIA"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Big cats",
+        "words": [
+          "LION",
+          "TIGER",
+          "LEOPARD",
+          "CHEETAH"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
