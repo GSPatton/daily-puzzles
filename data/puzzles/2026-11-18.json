@@ -1,0 +1,445 @@
+{
+  "date": "2026-11-18",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        3,
+        0,
+        0,
+        4,
+        9,
+        2,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        7,
+        0,
+        6,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        9,
+        5,
+        0,
+        0,
+        0,
+        0,
+        7
+      ],
+      [
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        8,
+        0,
+        3,
+        0,
+        4,
+        7,
+        5
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        3,
+        6,
+        5,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        4,
+        0,
+        0,
+        6,
+        0,
+        7,
+        3,
+        8
+      ],
+      [
+        0,
+        7,
+        0,
+        0,
+        9,
+        0,
+        0,
+        0,
+        2
+      ]
+    ],
+    "solution": [
+      [
+        7,
+        3,
+        6,
+        8,
+        4,
+        9,
+        2,
+        5,
+        1
+      ],
+      [
+        5,
+        2,
+        4,
+        3,
+        7,
+        1,
+        6,
+        8,
+        9
+      ],
+      [
+        1,
+        8,
+        9,
+        5,
+        2,
+        6,
+        3,
+        4,
+        7
+      ],
+      [
+        4,
+        5,
+        7,
+        6,
+        1,
+        8,
+        9,
+        2,
+        3
+      ],
+      [
+        6,
+        1,
+        8,
+        9,
+        3,
+        2,
+        4,
+        7,
+        5
+      ],
+      [
+        2,
+        9,
+        3,
+        7,
+        5,
+        4,
+        8,
+        1,
+        6
+      ],
+      [
+        3,
+        6,
+        5,
+        2,
+        8,
+        7,
+        1,
+        9,
+        4
+      ],
+      [
+        9,
+        4,
+        2,
+        1,
+        6,
+        5,
+        7,
+        3,
+        8
+      ],
+      [
+        8,
+        7,
+        1,
+        4,
+        9,
+        3,
+        5,
+        6,
+        2
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "TOSS",
+        "clue": "To throw lightly"
+      },
+      {
+        "id": "1down",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "length": 4,
+        "answer": "TOUR",
+        "clue": "Guided trip"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "length": 3,
+        "answer": "OWN",
+        "clue": "To possess"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "SLICE",
+        "clue": "Thin flat piece"
+      },
+      {
+        "id": "4across",
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "OWL",
+        "clue": "Nocturnal bird of prey"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 4,
+        "direction": "down",
+        "length": 4,
+        "answer": "HERD",
+        "clue": "Group of grazing animals"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "UNITE",
+        "clue": "To join together"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "length": 3,
+        "answer": "TAN",
+        "clue": "Brown skin tone from the sun"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "CAR",
+        "clue": "Vehicle with four wheels"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "LEND",
+        "clue": "To loan"
+      }
+    ],
+    "solution_grid": [
+      [
+        "T",
+        "O",
+        "S",
+        "S",
+        "#"
+      ],
+      [
+        "O",
+        "W",
+        "L",
+        "#",
+        "H"
+      ],
+      [
+        "U",
+        "N",
+        "I",
+        "T",
+        "E"
+      ],
+      [
+        "R",
+        "#",
+        "C",
+        "A",
+        "R"
+      ],
+      [
+        "#",
+        "L",
+        "E",
+        "N",
+        "D"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Open grassy area, or area of study, some of the farmer harvested the wheat fields (5)",
+        "answer": "FIELD",
+        "wordplay_type": "hidden_word",
+        "explanation": "FIELD is hidden in \"the farmer harvested the wheat fields\" (letters 27-31 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "A platform for performing; also A phase in a process (5)",
+        "answer": "STAGE",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"A platform for performing\" and \"A phase in a process\" are definitions of STAGE."
+      },
+      {
+        "clue": "To love deeply, all over the place: edaor (5)",
+        "answer": "ADORE",
+        "wordplay_type": "anagram",
+        "explanation": "\"edaor\" is an anagram of ADORE (the word \"all over the place\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Taxi, held in the cabinet minister gave a speech (3)",
+        "answer": "CAB",
+        "wordplay_type": "hidden_word",
+        "explanation": "CAB is hidden in \"the cabinet minister gave a speech\" (letters 4-6 of the phrase with spaces removed)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "___light",
+        "words": [
+          "MOON",
+          "SUN",
+          "DAY",
+          "LIME"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Continents",
+        "words": [
+          "ASIA",
+          "AFRICA",
+          "EUROPE",
+          "OCEANIA"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Types of clouds",
+        "words": [
+          "CUMULUS",
+          "STRATUS",
+          "CIRRUS",
+          "NIMBUS"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Colors",
+        "words": [
+          "RED",
+          "BLUE",
+          "YELLOW",
+          "PURPLE"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
