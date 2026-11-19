@@ -1,0 +1,445 @@
+{
+  "date": "2026-11-19",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        1,
+        0,
+        0,
+        0,
+        7,
+        3,
+        0,
+        0,
+        0
+      ],
+      [
+        6,
+        0,
+        0,
+        0,
+        8,
+        0,
+        0,
+        9,
+        7
+      ],
+      [
+        7,
+        9,
+        0,
+        6,
+        0,
+        0,
+        8,
+        0,
+        0
+      ],
+      [
+        3,
+        0,
+        7,
+        0,
+        0,
+        0,
+        0,
+        4,
+        8
+      ],
+      [
+        0,
+        4,
+        0,
+        0,
+        6,
+        0,
+        9,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        5,
+        8,
+        0,
+        0,
+        1,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        6,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        9,
+        0,
+        0,
+        6,
+        0
+      ],
+      [
+        2,
+        0,
+        9,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        1,
+        2,
+        8,
+        9,
+        7,
+        3,
+        4,
+        5,
+        6
+      ],
+      [
+        6,
+        5,
+        3,
+        4,
+        8,
+        1,
+        2,
+        9,
+        7
+      ],
+      [
+        7,
+        9,
+        4,
+        6,
+        2,
+        5,
+        8,
+        1,
+        3
+      ],
+      [
+        3,
+        1,
+        7,
+        2,
+        5,
+        9,
+        6,
+        4,
+        8
+      ],
+      [
+        8,
+        4,
+        2,
+        1,
+        6,
+        7,
+        9,
+        3,
+        5
+      ],
+      [
+        9,
+        6,
+        5,
+        8,
+        3,
+        4,
+        1,
+        7,
+        2
+      ],
+      [
+        4,
+        3,
+        6,
+        7,
+        1,
+        8,
+        5,
+        2,
+        9
+      ],
+      [
+        5,
+        8,
+        1,
+        3,
+        9,
+        2,
+        7,
+        6,
+        4
+      ],
+      [
+        2,
+        7,
+        9,
+        5,
+        4,
+        6,
+        3,
+        8,
+        1
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1down",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "length": 3,
+        "answer": "PUB",
+        "clue": "British bar"
+      },
+      {
+        "id": "2across",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "LEG",
+        "clue": "Limb used for walking"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "LEGAL",
+        "clue": "Permitted by law"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "length": 4,
+        "answer": "EDIT",
+        "clue": "To revise text"
+      },
+      {
+        "id": "4across",
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "USED",
+        "clue": "Not new"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "direction": "down",
+        "length": 4,
+        "answer": "SELL",
+        "clue": "To exchange for money"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "BEGIN",
+        "clue": "To start"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 4,
+        "direction": "down",
+        "length": 3,
+        "answer": "NET",
+        "clue": "Mesh used to catch fish"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "LATE",
+        "clue": "Not on time"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "ILL",
+        "clue": "Sick"
+      }
+    ],
+    "solution_grid": [
+      [
+        "P",
+        "#",
+        "L",
+        "E",
+        "G"
+      ],
+      [
+        "U",
+        "S",
+        "E",
+        "D",
+        "#"
+      ],
+      [
+        "B",
+        "E",
+        "G",
+        "I",
+        "N"
+      ],
+      [
+        "#",
+        "L",
+        "A",
+        "T",
+        "E"
+      ],
+      [
+        "I",
+        "L",
+        "L",
+        "#",
+        "T"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Turf, grass and its roots, all over the place: dos (3)",
+        "answer": "SOD",
+        "wordplay_type": "anagram",
+        "explanation": "\"dos\" is an anagram of SOD (the word \"all over the place\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Long narrow hilltop, some of the engineer designed a new bridge (5)",
+        "answer": "RIDGE",
+        "wordplay_type": "hidden_word",
+        "explanation": "RIDGE is hidden in \"the engineer designed a new bridge\" (letters 25-29 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Flippered marine mammal; also To close something airtight (4)",
+        "answer": "SEAL",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Flippered marine mammal\" and \"To close something airtight\" are definitions of SEAL."
+      },
+      {
+        "clue": "To brag, rearranged: batso (5)",
+        "answer": "BOAST",
+        "wordplay_type": "anagram",
+        "explanation": "\"batso\" is an anagram of BOAST (the word \"rearranged\" signals the letters are rearranged)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Types of pasta",
+        "words": [
+          "PENNE",
+          "FUSILLI",
+          "SPAGHETTI",
+          "RAVIOLI"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Kitchen utensils",
+        "words": [
+          "SPATULA",
+          "WHISK",
+          "LADLE",
+          "TONGS"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Big cats",
+        "words": [
+          "LION",
+          "TIGER",
+          "LEOPARD",
+          "CHEETAH"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "___light",
+        "words": [
+          "MOON",
+          "SUN",
+          "DAY",
+          "LIME"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
