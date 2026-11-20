@@ -1,0 +1,445 @@
+{
+  "date": "2026-11-20",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        6,
+        9,
+        0,
+        0,
+        4,
+        0,
+        0,
+        7
+      ],
+      [
+        8,
+        0,
+        0,
+        5,
+        0,
+        0,
+        6,
+        2,
+        4
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        9,
+        7,
+        0,
+        2
+      ],
+      [
+        1,
+        0,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        6,
+        2,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        7,
+        0,
+        2,
+        0,
+        5,
+        9
+      ],
+      [
+        9,
+        4,
+        0,
+        0,
+        0,
+        1,
+        3,
+        0,
+        0
+      ],
+      [
+        0,
+        8,
+        7,
+        0,
+        0,
+        0,
+        0,
+        4,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        2,
+        6,
+        9,
+        1,
+        8,
+        4,
+        5,
+        3,
+        7
+      ],
+      [
+        8,
+        3,
+        1,
+        5,
+        9,
+        7,
+        6,
+        2,
+        4
+      ],
+      [
+        4,
+        7,
+        5,
+        3,
+        2,
+        6,
+        1,
+        9,
+        8
+      ],
+      [
+        3,
+        5,
+        4,
+        6,
+        1,
+        9,
+        7,
+        8,
+        2
+      ],
+      [
+        1,
+        2,
+        8,
+        4,
+        7,
+        5,
+        9,
+        6,
+        3
+      ],
+      [
+        7,
+        9,
+        6,
+        2,
+        3,
+        8,
+        4,
+        1,
+        5
+      ],
+      [
+        6,
+        1,
+        3,
+        7,
+        4,
+        2,
+        8,
+        5,
+        9
+      ],
+      [
+        9,
+        4,
+        2,
+        8,
+        5,
+        1,
+        3,
+        7,
+        6
+      ],
+      [
+        5,
+        8,
+        7,
+        9,
+        6,
+        3,
+        2,
+        4,
+        1
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        1
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "PEN",
+        "clue": "Writing tool with ink"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "length": 4,
+        "answer": "EDIT",
+        "clue": "To revise text"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "NOVEL",
+        "clue": "Long fictional book"
+      },
+      {
+        "id": "4down",
+        "number": 4,
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "length": 3,
+        "answer": "GEL",
+        "clue": "Styling product for hair"
+      },
+      {
+        "id": "5across",
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "DOSE",
+        "clue": "Measured amount of medicine"
+      },
+      {
+        "id": "6down",
+        "number": 6,
+        "row": 1,
+        "col": 3,
+        "direction": "down",
+        "length": 4,
+        "answer": "SAME",
+        "clue": "Identical"
+      },
+      {
+        "id": "7across",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "RIVAL",
+        "clue": "Competitor"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "down",
+        "length": 3,
+        "answer": "RIM",
+        "clue": "Outer edge"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "ITEM",
+        "clue": "Individual object"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "LEG",
+        "clue": "Limb used for walking"
+      }
+    ],
+    "solution_grid": [
+      [
+        "P",
+        "E",
+        "N",
+        "#",
+        "G"
+      ],
+      [
+        "#",
+        "D",
+        "O",
+        "S",
+        "E"
+      ],
+      [
+        "R",
+        "I",
+        "V",
+        "A",
+        "L"
+      ],
+      [
+        "I",
+        "T",
+        "E",
+        "M",
+        "#"
+      ],
+      [
+        "M",
+        "#",
+        "L",
+        "E",
+        "G"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "To cease moving, found within vast open ocean views from the cliff (4)",
+        "answer": "STOP",
+        "wordplay_type": "hidden_word",
+        "explanation": "STOP is hidden in \"vast open ocean views from the cliff\" (letters 3-6 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Neckwear; also A drawn match (3)",
+        "answer": "TIE",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Neckwear\" and \"A drawn match\" are definitions of TIE."
+      },
+      {
+        "clue": "Actors in a production, in a mess: atcs (4)",
+        "answer": "CAST",
+        "wordplay_type": "anagram",
+        "explanation": "\"atcs\" is an anagram of CAST (the word \"in a mess\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Attentive concern, some of the captain steered the ship carefully (4)",
+        "answer": "CARE",
+        "wordplay_type": "hidden_word",
+        "explanation": "CARE is hidden in \"the captain steered the ship carefully\" (letters 25-28 of the phrase with spaces removed)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Types of shoes",
+        "words": [
+          "SNEAKER",
+          "SANDAL",
+          "BOOT",
+          "LOAFER"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Insects",
+        "words": [
+          "BEETLE",
+          "CRICKET",
+          "MANTIS",
+          "MOTH"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "School subjects",
+        "words": [
+          "MATH",
+          "SCIENCE",
+          "HISTORY",
+          "ART"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Types of boats",
+        "words": [
+          "CANOE",
+          "KAYAK",
+          "YACHT",
+          "FERRY"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
