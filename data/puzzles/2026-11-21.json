@@ -1,0 +1,445 @@
+{
+  "date": "2026-11-21",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        1,
+        5,
+        0,
+        0,
+        4,
+        2,
+        0,
+        7,
+        8
+      ],
+      [
+        6,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        8,
+        2,
+        6,
+        1
+      ],
+      [
+        0,
+        7,
+        0,
+        9,
+        6,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        8,
+        0,
+        0,
+        0,
+        9,
+        7
+      ],
+      [
+        2,
+        3,
+        9,
+        7,
+        5,
+        4,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        6,
+        0,
+        4
+      ],
+      [
+        0,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        9,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        8,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        1,
+        5,
+        3,
+        6,
+        4,
+        2,
+        9,
+        7,
+        8
+      ],
+      [
+        6,
+        2,
+        8,
+        1,
+        9,
+        7,
+        3,
+        4,
+        5
+      ],
+      [
+        4,
+        9,
+        7,
+        5,
+        3,
+        8,
+        2,
+        6,
+        1
+      ],
+      [
+        8,
+        7,
+        4,
+        9,
+        6,
+        1,
+        5,
+        3,
+        2
+      ],
+      [
+        5,
+        1,
+        6,
+        8,
+        2,
+        3,
+        4,
+        9,
+        7
+      ],
+      [
+        2,
+        3,
+        9,
+        7,
+        5,
+        4,
+        8,
+        1,
+        6
+      ],
+      [
+        7,
+        8,
+        5,
+        3,
+        1,
+        9,
+        6,
+        2,
+        4
+      ],
+      [
+        3,
+        4,
+        1,
+        2,
+        8,
+        6,
+        7,
+        5,
+        9
+      ],
+      [
+        9,
+        6,
+        2,
+        4,
+        7,
+        5,
+        1,
+        8,
+        3
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "SPOT",
+        "clue": "Small mark, or a location"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "PAPER",
+        "clue": "Thin material for writing"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "length": 3,
+        "answer": "OIL",
+        "clue": "Slippery liquid used for cooking or fuel"
+      },
+      {
+        "id": "4down",
+        "number": 4,
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "length": 4,
+        "answer": "TREE",
+        "clue": "Tall plant with a trunk"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "length": 4,
+        "answer": "BABY",
+        "clue": "Infant"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 1,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "AIR",
+        "clue": "What you breathe"
+      },
+      {
+        "id": "7across",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "APPLE",
+        "clue": "Fruit that keeps the doctor away"
+      },
+      {
+        "id": "8down",
+        "number": 8,
+        "row": 2,
+        "col": 1,
+        "direction": "down",
+        "length": 3,
+        "answer": "PEA",
+        "clue": "Small round green vegetable"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "BEE",
+        "clue": "Buzzing pollinator"
+      },
+      {
+        "id": "10across",
+        "number": 10,
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "YARD",
+        "clue": "Grassy area outside a house"
+      }
+    ],
+    "solution_grid": [
+      [
+        "#",
+        "S",
+        "P",
+        "O",
+        "T"
+      ],
+      [
+        "B",
+        "#",
+        "A",
+        "I",
+        "R"
+      ],
+      [
+        "A",
+        "P",
+        "P",
+        "L",
+        "E"
+      ],
+      [
+        "B",
+        "E",
+        "E",
+        "#",
+        "E"
+      ],
+      [
+        "Y",
+        "A",
+        "R",
+        "D",
+        "#"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Place for relaxation and treatments, scrambled: psa (3)",
+        "answer": "SPA",
+        "wordplay_type": "anagram",
+        "explanation": "\"psa\" is an anagram of SPA (the word \"scrambled\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "A cardboard container; also To fight with fists (3)",
+        "answer": "BOX",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"A cardboard container\" and \"To fight with fists\" are definitions of BOX."
+      },
+      {
+        "clue": "Line of seats, or to paddle, part of the gardener planted rows of tulips (3)",
+        "answer": "ROW",
+        "wordplay_type": "hidden_word",
+        "explanation": "ROW is hidden in \"the gardener planted rows of tulips\" (letters 19-21 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "To rest on your bottom, gone wrong: tis (3)",
+        "answer": "SIT",
+        "wordplay_type": "anagram",
+        "explanation": "\"tis\" is an anagram of SIT (the word \"gone wrong\" signals the letters are rearranged)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Kitchen appliances",
+        "words": [
+          "OVEN",
+          "TOASTER",
+          "BLENDER",
+          "FRIDGE"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Board games",
+        "words": [
+          "CHESS",
+          "MONOPOLY",
+          "SCRABBLE",
+          "CLUEDO"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Types of dance",
+        "words": [
+          "TANGO",
+          "WALTZ",
+          "SALSA",
+          "FOXTROT"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Weather phenomena",
+        "words": [
+          "RAIN",
+          "HAIL",
+          "FOG",
+          "SLEET"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
