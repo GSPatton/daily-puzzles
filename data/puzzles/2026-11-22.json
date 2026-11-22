@@ -1,0 +1,445 @@
+{
+  "date": "2026-11-22",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        9,
+        8,
+        0,
+        0,
+        7,
+        3,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        9,
+        2,
+        0,
+        0,
+        6,
+        8
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        6,
+        0,
+        0,
+        7,
+        0
+      ],
+      [
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        6,
+        0,
+        4
+      ],
+      [
+        8,
+        0,
+        0,
+        0,
+        0,
+        6,
+        0,
+        5,
+        9
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        8,
+        0
+      ],
+      [
+        0,
+        0,
+        5,
+        0,
+        1,
+        8,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        2,
+        0,
+        5,
+        4,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        9,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        9,
+        8,
+        6,
+        4,
+        7,
+        3,
+        5,
+        1,
+        2
+      ],
+      [
+        7,
+        3,
+        1,
+        9,
+        2,
+        5,
+        4,
+        6,
+        8
+      ],
+      [
+        4,
+        5,
+        2,
+        8,
+        6,
+        1,
+        9,
+        7,
+        3
+      ],
+      [
+        5,
+        7,
+        3,
+        1,
+        8,
+        9,
+        6,
+        2,
+        4
+      ],
+      [
+        8,
+        1,
+        4,
+        2,
+        3,
+        6,
+        7,
+        5,
+        9
+      ],
+      [
+        2,
+        6,
+        9,
+        7,
+        5,
+        4,
+        3,
+        8,
+        1
+      ],
+      [
+        6,
+        9,
+        5,
+        3,
+        1,
+        8,
+        2,
+        4,
+        7
+      ],
+      [
+        3,
+        2,
+        8,
+        5,
+        4,
+        7,
+        1,
+        9,
+        6
+      ],
+      [
+        1,
+        4,
+        7,
+        6,
+        9,
+        2,
+        8,
+        3,
+        5
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "SAFE",
+        "clue": "Free from danger, or a lockbox"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "ALONE",
+        "clue": "By oneself"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "length": 3,
+        "answer": "FIN",
+        "clue": "Helps a fish swim"
+      },
+      {
+        "id": "4down",
+        "number": 4,
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "length": 4,
+        "answer": "EDGE",
+        "clue": "Outer boundary"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "length": 4,
+        "answer": "PASS",
+        "clue": "To go by, or to succeed a test"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 1,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "LID",
+        "clue": "Cover for a jar"
+      },
+      {
+        "id": "7across",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "ALONG",
+        "clue": "In line with"
+      },
+      {
+        "id": "8down",
+        "number": 8,
+        "row": 2,
+        "col": 1,
+        "direction": "down",
+        "length": 3,
+        "answer": "LOT",
+        "clue": "A great deal, or a parcel of land"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "SON",
+        "clue": "Male child"
+      },
+      {
+        "id": "10across",
+        "number": 10,
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "STEP",
+        "clue": "One pace, or a stair"
+      }
+    ],
+    "solution_grid": [
+      [
+        "#",
+        "S",
+        "A",
+        "F",
+        "E"
+      ],
+      [
+        "P",
+        "#",
+        "L",
+        "I",
+        "D"
+      ],
+      [
+        "A",
+        "L",
+        "O",
+        "N",
+        "G"
+      ],
+      [
+        "S",
+        "O",
+        "N",
+        "#",
+        "E"
+      ],
+      [
+        "S",
+        "T",
+        "E",
+        "P",
+        "#"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Measuring stick; also Monarch or leader (5)",
+        "answer": "RULER",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Measuring stick\" and \"Monarch or leader\" are definitions of RULER."
+      },
+      {
+        "clue": "Temporary peace agreement, mixed up: tecru (5)",
+        "answer": "TRUCE",
+        "wordplay_type": "anagram",
+        "explanation": "\"tecru\" is an anagram of TRUCE (the word \"mixed up\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Joint between torso and leg, part of the captain steered the ship carefully (3)",
+        "answer": "HIP",
+        "wordplay_type": "hidden_word",
+        "explanation": "HIP is hidden in \"the captain steered the ship carefully\" (letters 22-24 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Large wading bird; also Machine for lifting heavy objects (5)",
+        "answer": "CRANE",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Large wading bird\" and \"Machine for lifting heavy objects\" are definitions of CRANE."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "___light",
+        "words": [
+          "MOON",
+          "SUN",
+          "DAY",
+          "LIME"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Types of pasta",
+        "words": [
+          "PENNE",
+          "FUSILLI",
+          "SPAGHETTI",
+          "RAVIOLI"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Insects",
+        "words": [
+          "BEETLE",
+          "CRICKET",
+          "MANTIS",
+          "MOTH"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Farm animals",
+        "words": [
+          "COW",
+          "PIG",
+          "SHEEP",
+          "GOAT"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
