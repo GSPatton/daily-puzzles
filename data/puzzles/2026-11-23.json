@@ -1,0 +1,445 @@
+{
+  "date": "2026-11-23",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        2,
+        6,
+        0,
+        0,
+        0,
+        1,
+        4,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        2,
+        0
+      ],
+      [
+        0,
+        5,
+        1,
+        0,
+        8,
+        0,
+        6,
+        7,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        9,
+        0,
+        4,
+        0
+      ],
+      [
+        0,
+        9,
+        0,
+        0,
+        0,
+        8,
+        7,
+        0,
+        5
+      ],
+      [
+        1,
+        4,
+        0,
+        0,
+        5,
+        0,
+        0,
+        6,
+        0
+      ],
+      [
+        0,
+        0,
+        6,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        3,
+        2,
+        5,
+        0,
+        7,
+        0,
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        5,
+        9,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        2,
+        6,
+        3,
+        7,
+        9,
+        1,
+        4,
+        5,
+        8
+      ],
+      [
+        8,
+        7,
+        9,
+        6,
+        4,
+        5,
+        3,
+        2,
+        1
+      ],
+      [
+        4,
+        5,
+        1,
+        3,
+        8,
+        2,
+        6,
+        7,
+        9
+      ],
+      [
+        5,
+        3,
+        7,
+        1,
+        6,
+        9,
+        8,
+        4,
+        2
+      ],
+      [
+        6,
+        9,
+        2,
+        4,
+        3,
+        8,
+        7,
+        1,
+        5
+      ],
+      [
+        1,
+        4,
+        8,
+        2,
+        5,
+        7,
+        9,
+        6,
+        3
+      ],
+      [
+        9,
+        8,
+        6,
+        5,
+        1,
+        4,
+        2,
+        3,
+        7
+      ],
+      [
+        3,
+        2,
+        5,
+        9,
+        7,
+        6,
+        1,
+        8,
+        4
+      ],
+      [
+        7,
+        1,
+        4,
+        8,
+        2,
+        3,
+        5,
+        9,
+        6
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "COST",
+        "clue": "Price"
+      },
+      {
+        "id": "1down",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "down",
+        "length": 4,
+        "answer": "CAPE",
+        "clue": "Sleeveless cloak"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "length": 3,
+        "answer": "ONE",
+        "clue": "First number"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "STATE",
+        "clue": "Condition, or a political region"
+      },
+      {
+        "id": "4across",
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "ANT",
+        "clue": "Tiny colony-building insect"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 4,
+        "direction": "down",
+        "length": 4,
+        "answer": "BEND",
+        "clue": "To curve"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "PEACE",
+        "clue": "Freedom from conflict"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 3,
+        "direction": "down",
+        "length": 3,
+        "answer": "CAR",
+        "clue": "Vehicle with four wheels"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "TAN",
+        "clue": "Brown skin tone from the sun"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "HERD",
+        "clue": "Group of grazing animals"
+      }
+    ],
+    "solution_grid": [
+      [
+        "C",
+        "O",
+        "S",
+        "T",
+        "#"
+      ],
+      [
+        "A",
+        "N",
+        "T",
+        "#",
+        "B"
+      ],
+      [
+        "P",
+        "E",
+        "A",
+        "C",
+        "E"
+      ],
+      [
+        "E",
+        "#",
+        "T",
+        "A",
+        "N"
+      ],
+      [
+        "#",
+        "H",
+        "E",
+        "R",
+        "D"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Speed or price measure, mixed up: eatr (4)",
+        "answer": "RATE",
+        "wordplay_type": "anagram",
+        "explanation": "\"eatr\" is an anagram of RATE (the word \"mixed up\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "A living green organism; also To secretly place something (5)",
+        "answer": "PLANT",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"A living green organism\" and \"To secretly place something\" are definitions of PLANT."
+      },
+      {
+        "clue": "Highest point, buried in vast open ocean views from the cliff (3)",
+        "answer": "TOP",
+        "wordplay_type": "hidden_word",
+        "explanation": "TOP is hidden in \"vast open ocean views from the cliff\" (letters 4-6 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "To move fast on foot, all over the place: urn (3)",
+        "answer": "RUN",
+        "wordplay_type": "anagram",
+        "explanation": "\"urn\" is an anagram of RUN (the word \"all over the place\" signals the letters are rearranged)."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Weather phenomena",
+        "words": [
+          "RAIN",
+          "HAIL",
+          "FOG",
+          "SLEET"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Citrus fruits",
+        "words": [
+          "ORANGE",
+          "GRAPEFRUIT",
+          "LEMON",
+          "TANGERINE"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Insects",
+        "words": [
+          "BEETLE",
+          "CRICKET",
+          "MANTIS",
+          "MOTH"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Colors",
+        "words": [
+          "RED",
+          "BLUE",
+          "YELLOW",
+          "PURPLE"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
