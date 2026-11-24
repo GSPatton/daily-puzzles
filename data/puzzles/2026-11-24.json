@@ -1,0 +1,445 @@
+{
+  "date": "2026-11-24",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        5,
+        4,
+        0,
+        0,
+        0,
+        0,
+        6,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        8,
+        6,
+        0,
+        0,
+        0,
+        4,
+        0,
+        3
+      ],
+      [
+        0,
+        9,
+        4,
+        7,
+        0,
+        0,
+        5,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        5,
+        9,
+        0,
+        0,
+        0,
+        6,
+        0
+      ],
+      [
+        3,
+        0,
+        8,
+        0,
+        0,
+        4,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        2,
+        0,
+        9,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        7,
+        8,
+        3,
+        5
+      ]
+    ],
+    "solution": [
+      [
+        5,
+        4,
+        3,
+        8,
+        2,
+        9,
+        6,
+        7,
+        1
+      ],
+      [
+        9,
+        1,
+        7,
+        6,
+        4,
+        3,
+        2,
+        5,
+        8
+      ],
+      [
+        2,
+        8,
+        6,
+        1,
+        7,
+        5,
+        4,
+        9,
+        3
+      ],
+      [
+        6,
+        9,
+        4,
+        7,
+        3,
+        1,
+        5,
+        8,
+        2
+      ],
+      [
+        1,
+        7,
+        5,
+        9,
+        8,
+        2,
+        3,
+        6,
+        4
+      ],
+      [
+        3,
+        2,
+        8,
+        5,
+        6,
+        4,
+        9,
+        1,
+        7
+      ],
+      [
+        8,
+        3,
+        1,
+        4,
+        5,
+        6,
+        7,
+        2,
+        9
+      ],
+      [
+        7,
+        5,
+        2,
+        3,
+        9,
+        8,
+        1,
+        4,
+        6
+      ],
+      [
+        4,
+        6,
+        9,
+        2,
+        1,
+        7,
+        8,
+        3,
+        5
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "SAVE",
+        "clue": "To keep safe, or set aside"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "ALONE",
+        "clue": "By oneself"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "length": 3,
+        "answer": "VAN",
+        "clue": "Boxy vehicle for hauling"
+      },
+      {
+        "id": "4down",
+        "number": 4,
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "length": 4,
+        "answer": "EDGE",
+        "clue": "Outer boundary"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "length": 4,
+        "answer": "PASS",
+        "clue": "To go by, or to succeed a test"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 1,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "LAD",
+        "clue": "Young man"
+      },
+      {
+        "id": "7across",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "ALONG",
+        "clue": "In line with"
+      },
+      {
+        "id": "8down",
+        "number": 8,
+        "row": 2,
+        "col": 1,
+        "direction": "down",
+        "length": 3,
+        "answer": "LOT",
+        "clue": "A great deal, or a parcel of land"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "SON",
+        "clue": "Male child"
+      },
+      {
+        "id": "10across",
+        "number": 10,
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "STEM",
+        "clue": "Plant's main stalk"
+      }
+    ],
+    "solution_grid": [
+      [
+        "#",
+        "S",
+        "A",
+        "V",
+        "E"
+      ],
+      [
+        "P",
+        "#",
+        "L",
+        "A",
+        "D"
+      ],
+      [
+        "A",
+        "L",
+        "O",
+        "N",
+        "G"
+      ],
+      [
+        "S",
+        "O",
+        "N",
+        "#",
+        "E"
+      ],
+      [
+        "S",
+        "T",
+        "E",
+        "M",
+        "#"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Timepiece worn on the wrist; also To observe attentively (5)",
+        "answer": "WATCH",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Timepiece worn on the wrist\" and \"To observe attentively\" are definitions of WATCH."
+      },
+      {
+        "clue": "Shape, or a document, held in a formal invitation arrived yesterday (4)",
+        "answer": "FORM",
+        "wordplay_type": "hidden_word",
+        "explanation": "FORM is hidden in \"a formal invitation arrived yesterday\" (letters 2-5 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Organ used for hearing, oddly arranged: aer (3)",
+        "answer": "EAR",
+        "wordplay_type": "anagram",
+        "explanation": "\"aer\" is an anagram of EAR (the word \"oddly arranged\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Financial institution; also Edge of a river (4)",
+        "answer": "BANK",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Financial institution\" and \"Edge of a river\" are definitions of BANK."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Precious gems",
+        "words": [
+          "RUBY",
+          "EMERALD",
+          "SAPPHIRE",
+          "TOPAZ"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Weather phenomena",
+        "words": [
+          "RAIN",
+          "HAIL",
+          "FOG",
+          "SLEET"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Bodies of water",
+        "words": [
+          "LAKE",
+          "RIVER",
+          "POND",
+          "STREAM"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "___light",
+        "words": [
+          "MOON",
+          "SUN",
+          "DAY",
+          "LIME"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
