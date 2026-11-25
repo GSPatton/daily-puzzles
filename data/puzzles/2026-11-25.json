@@ -1,0 +1,445 @@
+{
+  "date": "2026-11-25",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        4,
+        0,
+        5
+      ],
+      [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        6,
+        8,
+        0
+      ],
+      [
+        0,
+        9,
+        8,
+        0,
+        3,
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        8,
+        0,
+        4,
+        2,
+        3,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        3,
+        7,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        9,
+        1,
+        0,
+        0,
+        6,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        4,
+        7,
+        0,
+        0,
+        9
+      ],
+      [
+        0,
+        3,
+        0,
+        0,
+        8,
+        6,
+        0,
+        0,
+        0
+      ],
+      [
+        4,
+        5,
+        7,
+        0,
+        0,
+        0,
+        8,
+        0,
+        6
+      ]
+    ],
+    "solution": [
+      [
+        3,
+        6,
+        1,
+        8,
+        7,
+        2,
+        4,
+        9,
+        5
+      ],
+      [
+        7,
+        2,
+        4,
+        1,
+        5,
+        9,
+        6,
+        8,
+        3
+      ],
+      [
+        5,
+        9,
+        8,
+        6,
+        3,
+        4,
+        7,
+        1,
+        2
+      ],
+      [
+        6,
+        8,
+        9,
+        4,
+        2,
+        3,
+        5,
+        7,
+        1
+      ],
+      [
+        1,
+        4,
+        3,
+        7,
+        6,
+        5,
+        9,
+        2,
+        8
+      ],
+      [
+        2,
+        7,
+        5,
+        9,
+        1,
+        8,
+        3,
+        6,
+        4
+      ],
+      [
+        8,
+        1,
+        6,
+        3,
+        4,
+        7,
+        2,
+        5,
+        9
+      ],
+      [
+        9,
+        3,
+        2,
+        5,
+        8,
+        6,
+        1,
+        4,
+        7
+      ],
+      [
+        4,
+        5,
+        7,
+        2,
+        9,
+        1,
+        8,
+        3,
+        6
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "FADE",
+        "clue": "To gradually disappear"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "AMONG",
+        "clue": "In the middle of"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "length": 3,
+        "answer": "DIM",
+        "clue": "Not bright"
+      },
+      {
+        "id": "4down",
+        "number": 4,
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "length": 4,
+        "answer": "EXAM",
+        "clue": "Formal test"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "length": 4,
+        "answer": "LATE",
+        "clue": "Not on time"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 1,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "MIX",
+        "clue": "To combine"
+      },
+      {
+        "id": "7across",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "AROMA",
+        "clue": "Pleasant smell"
+      },
+      {
+        "id": "8down",
+        "number": 8,
+        "row": 2,
+        "col": 1,
+        "direction": "down",
+        "length": 3,
+        "answer": "ROD",
+        "clue": "Thin straight bar"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "TON",
+        "clue": "2,000 pounds"
+      },
+      {
+        "id": "10across",
+        "number": 10,
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "EDGE",
+        "clue": "Outer boundary"
+      }
+    ],
+    "solution_grid": [
+      [
+        "#",
+        "F",
+        "A",
+        "D",
+        "E"
+      ],
+      [
+        "L",
+        "#",
+        "M",
+        "I",
+        "X"
+      ],
+      [
+        "A",
+        "R",
+        "O",
+        "M",
+        "A"
+      ],
+      [
+        "T",
+        "O",
+        "N",
+        "#",
+        "M"
+      ],
+      [
+        "E",
+        "D",
+        "G",
+        "E",
+        "#"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Timepiece worn on the wrist; also To observe attentively (5)",
+        "answer": "WATCH",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Timepiece worn on the wrist\" and \"To observe attentively\" are definitions of WATCH."
+      },
+      {
+        "clue": "Small fruit that grows in bunches, all over the place: epgra (5)",
+        "answer": "GRAPE",
+        "wordplay_type": "anagram",
+        "explanation": "\"epgra\" is an anagram of GRAPE (the word \"all over the place\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Helps a fish swim, part of the editor revised the final draft (3)",
+        "answer": "FIN",
+        "wordplay_type": "hidden_word",
+        "explanation": "FIN is hidden in \"the editor revised the final draft\" (letters 20-22 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Just and even-handed; also A carnival with rides (4)",
+        "answer": "FAIR",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Just and even-handed\" and \"A carnival with rides\" are definitions of FAIR."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Card suits",
+        "words": [
+          "HEARTS",
+          "CLUBS",
+          "SPADES",
+          "DIAMONDS"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Bodies of water",
+        "words": [
+          "LAKE",
+          "RIVER",
+          "POND",
+          "STREAM"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Precious gems",
+        "words": [
+          "RUBY",
+          "EMERALD",
+          "SAPPHIRE",
+          "TOPAZ"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Zodiac signs",
+        "words": [
+          "ARIES",
+          "TAURUS",
+          "GEMINI",
+          "LEO"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
