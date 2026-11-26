@@ -1,0 +1,445 @@
+{
+  "date": "2026-11-26",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        3,
+        0,
+        0
+      ],
+      [
+        0,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8,
+        1
+      ],
+      [
+        8,
+        0,
+        0,
+        1,
+        0,
+        0,
+        5,
+        0,
+        0
+      ],
+      [
+        0,
+        5,
+        4,
+        0,
+        7,
+        0,
+        0,
+        1,
+        2
+      ],
+      [
+        3,
+        0,
+        0,
+        9,
+        0,
+        0,
+        0,
+        6,
+        7
+      ],
+      [
+        1,
+        0,
+        3,
+        8,
+        0,
+        0,
+        2,
+        9,
+        5
+      ],
+      [
+        0,
+        8,
+        0,
+        0,
+        5,
+        0,
+        0,
+        7,
+        0
+      ],
+      [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        4,
+        0,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        9,
+        3,
+        8,
+        5,
+        1,
+        7,
+        6,
+        2,
+        4
+      ],
+      [
+        7,
+        1,
+        6,
+        4,
+        8,
+        2,
+        3,
+        5,
+        9
+      ],
+      [
+        2,
+        4,
+        5,
+        6,
+        3,
+        9,
+        7,
+        8,
+        1
+      ],
+      [
+        8,
+        9,
+        7,
+        1,
+        2,
+        6,
+        5,
+        4,
+        3
+      ],
+      [
+        6,
+        5,
+        4,
+        3,
+        7,
+        8,
+        9,
+        1,
+        2
+      ],
+      [
+        3,
+        2,
+        1,
+        9,
+        4,
+        5,
+        8,
+        6,
+        7
+      ],
+      [
+        1,
+        7,
+        3,
+        8,
+        6,
+        4,
+        2,
+        9,
+        5
+      ],
+      [
+        4,
+        8,
+        9,
+        2,
+        5,
+        3,
+        1,
+        7,
+        6
+      ],
+      [
+        5,
+        6,
+        2,
+        7,
+        9,
+        1,
+        4,
+        3,
+        8
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "BASE",
+        "clue": "Bottom support, or a military post"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "AROMA",
+        "clue": "Pleasant smell"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 3,
+        "direction": "down",
+        "length": 3,
+        "answer": "SON",
+        "clue": "Male child"
+      },
+      {
+        "id": "4down",
+        "number": 4,
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "length": 4,
+        "answer": "EDGE",
+        "clue": "Outer boundary"
+      },
+      {
+        "id": "5down",
+        "number": 5,
+        "row": 1,
+        "col": 0,
+        "direction": "down",
+        "length": 4,
+        "answer": "CARE",
+        "clue": "Attentive concern"
+      },
+      {
+        "id": "6across",
+        "number": 6,
+        "row": 1,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "ROD",
+        "clue": "Thin straight bar"
+      },
+      {
+        "id": "7across",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "AMONG",
+        "clue": "In the middle of"
+      },
+      {
+        "id": "8down",
+        "number": 8,
+        "row": 2,
+        "col": 1,
+        "direction": "down",
+        "length": 3,
+        "answer": "MIX",
+        "clue": "To combine"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "RIM",
+        "clue": "Outer edge"
+      },
+      {
+        "id": "10across",
+        "number": 10,
+        "row": 4,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "EXAM",
+        "clue": "Formal test"
+      }
+    ],
+    "solution_grid": [
+      [
+        "#",
+        "B",
+        "A",
+        "S",
+        "E"
+      ],
+      [
+        "C",
+        "#",
+        "R",
+        "O",
+        "D"
+      ],
+      [
+        "A",
+        "M",
+        "O",
+        "N",
+        "G"
+      ],
+      [
+        "R",
+        "I",
+        "M",
+        "#",
+        "E"
+      ],
+      [
+        "E",
+        "X",
+        "A",
+        "M",
+        "#"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "Financial institution; also Edge of a river (4)",
+        "answer": "BANK",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Financial institution\" and \"Edge of a river\" are definitions of BANK."
+      },
+      {
+        "clue": "Alphabetical list, or a ratio, scrambled: ixedn (5)",
+        "answer": "INDEX",
+        "wordplay_type": "anagram",
+        "explanation": "\"ixedn\" is an anagram of INDEX (the word \"scrambled\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "Tops the body, holds the brain, part of the announcer read the evening headlines (4)",
+        "answer": "HEAD",
+        "wordplay_type": "hidden_word",
+        "explanation": "HEAD is hidden in \"the announcer read the evening headlines\" (letters 27-30 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Flying nocturnal mammal; also Wooden club used in baseball (3)",
+        "answer": "BAT",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"Flying nocturnal mammal\" and \"Wooden club used in baseball\" are definitions of BAT."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Types of clouds",
+        "words": [
+          "CUMULUS",
+          "STRATUS",
+          "CIRRUS",
+          "NIMBUS"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Kitchen utensils",
+        "words": [
+          "SPATULA",
+          "WHISK",
+          "LADLE",
+          "TONGS"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Types of bread",
+        "words": [
+          "RYE",
+          "SOURDOUGH",
+          "BAGUETTE",
+          "PITA"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Types of hats",
+        "words": [
+          "FEDORA",
+          "BERET",
+          "BEANIE",
+          "SOMBRERO"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
