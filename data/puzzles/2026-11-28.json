@@ -1,0 +1,445 @@
+{
+  "date": "2026-11-28",
+  "sudoku": {
+    "type": "sudoku",
+    "difficulty": "medium",
+    "puzzle": [
+      [
+        4,
+        0,
+        5,
+        0,
+        0,
+        0,
+        9,
+        0,
+        1
+      ],
+      [
+        2,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        9,
+        4,
+        0,
+        0,
+        8,
+        5,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        9
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        7,
+        8
+      ],
+      [
+        0,
+        4,
+        0,
+        3,
+        2,
+        8,
+        5,
+        1,
+        0
+      ],
+      [
+        0,
+        6,
+        4,
+        1,
+        5,
+        3,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        0,
+        6,
+        0,
+        8,
+        0
+      ],
+      [
+        0,
+        5,
+        0,
+        0,
+        0,
+        9,
+        0,
+        0,
+        0
+      ]
+    ],
+    "solution": [
+      [
+        4,
+        3,
+        5,
+        6,
+        8,
+        7,
+        9,
+        2,
+        1
+      ],
+      [
+        2,
+        7,
+        8,
+        5,
+        9,
+        1,
+        6,
+        3,
+        4
+      ],
+      [
+        6,
+        1,
+        9,
+        4,
+        3,
+        2,
+        8,
+        5,
+        7
+      ],
+      [
+        1,
+        8,
+        3,
+        7,
+        6,
+        5,
+        2,
+        4,
+        9
+      ],
+      [
+        5,
+        2,
+        6,
+        9,
+        1,
+        4,
+        3,
+        7,
+        8
+      ],
+      [
+        9,
+        4,
+        7,
+        3,
+        2,
+        8,
+        5,
+        1,
+        6
+      ],
+      [
+        8,
+        6,
+        4,
+        1,
+        5,
+        3,
+        7,
+        9,
+        2
+      ],
+      [
+        3,
+        9,
+        1,
+        2,
+        7,
+        6,
+        4,
+        8,
+        5
+      ],
+      [
+        7,
+        5,
+        2,
+        8,
+        4,
+        9,
+        1,
+        6,
+        3
+      ]
+    ],
+    "givens_count": 30
+  },
+  "mini_crossword": {
+    "type": "mini_crossword",
+    "size": 5,
+    "black_squares": [
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        1
+      ]
+    ],
+    "entries": [
+      {
+        "id": "1across",
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "direction": "across",
+        "length": 3,
+        "answer": "TUB",
+        "clue": "Bathing basin"
+      },
+      {
+        "id": "2down",
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "direction": "down",
+        "length": 4,
+        "answer": "USED",
+        "clue": "Not new"
+      },
+      {
+        "id": "3down",
+        "number": 3,
+        "row": 0,
+        "col": 2,
+        "direction": "down",
+        "length": 5,
+        "answer": "BEGIN",
+        "clue": "To start"
+      },
+      {
+        "id": "4down",
+        "number": 4,
+        "row": 0,
+        "col": 4,
+        "direction": "down",
+        "length": 3,
+        "answer": "ILL",
+        "clue": "Sick"
+      },
+      {
+        "id": "5across",
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "direction": "across",
+        "length": 4,
+        "answer": "SELL",
+        "clue": "To exchange for money"
+      },
+      {
+        "id": "6down",
+        "number": 6,
+        "row": 1,
+        "col": 3,
+        "direction": "down",
+        "length": 4,
+        "answer": "LATE",
+        "clue": "Not on time"
+      },
+      {
+        "id": "7across",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "across",
+        "length": 5,
+        "answer": "LEGAL",
+        "clue": "Permitted by law"
+      },
+      {
+        "id": "7down",
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "direction": "down",
+        "length": 3,
+        "answer": "LEG",
+        "clue": "Limb used for walking"
+      },
+      {
+        "id": "8across",
+        "number": 8,
+        "row": 3,
+        "col": 0,
+        "direction": "across",
+        "length": 4,
+        "answer": "EDIT",
+        "clue": "To revise text"
+      },
+      {
+        "id": "9across",
+        "number": 9,
+        "row": 4,
+        "col": 2,
+        "direction": "across",
+        "length": 3,
+        "answer": "NEW",
+        "clue": "Not old"
+      }
+    ],
+    "solution_grid": [
+      [
+        "T",
+        "U",
+        "B",
+        "#",
+        "I"
+      ],
+      [
+        "#",
+        "S",
+        "E",
+        "L",
+        "L"
+      ],
+      [
+        "L",
+        "E",
+        "G",
+        "A",
+        "L"
+      ],
+      [
+        "E",
+        "D",
+        "I",
+        "T",
+        "#"
+      ],
+      [
+        "G",
+        "#",
+        "N",
+        "E",
+        "W"
+      ]
+    ]
+  },
+  "cryptic_clues": {
+    "type": "cryptic_clues",
+    "clues": [
+      {
+        "clue": "The earth's surface; also Past tense of grind (6)",
+        "answer": "GROUND",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"The earth's surface\" and \"Past tense of grind\" are definitions of GROUND."
+      },
+      {
+        "clue": "Belonging to me, or an excavation, held in a determined runner finished the marathon (4)",
+        "answer": "MINE",
+        "wordplay_type": "hidden_word",
+        "explanation": "MINE is hidden in \"a determined runner finished the marathon\" (letters 7-10 of the phrase with spaces removed)."
+      },
+      {
+        "clue": "Wool-bearing farm animal, shuffled: shpee (5)",
+        "answer": "SHEEP",
+        "wordplay_type": "anagram",
+        "explanation": "\"shpee\" is an anagram of SHEEP (the word \"shuffled\" signals the letters are rearranged)."
+      },
+      {
+        "clue": "A narrative tale; also One level of a building (5)",
+        "answer": "STORY",
+        "wordplay_type": "double_definition",
+        "explanation": "Both \"A narrative tale\" and \"One level of a building\" are definitions of STORY."
+      }
+    ]
+  },
+  "connections": {
+    "type": "connections",
+    "groups": [
+      {
+        "category": "Bodies of water",
+        "words": [
+          "LAKE",
+          "RIVER",
+          "POND",
+          "STREAM"
+        ],
+        "tier": "yellow"
+      },
+      {
+        "category": "Types of pasta",
+        "words": [
+          "PENNE",
+          "FUSILLI",
+          "SPAGHETTI",
+          "RAVIOLI"
+        ],
+        "tier": "green"
+      },
+      {
+        "category": "Zodiac signs",
+        "words": [
+          "ARIES",
+          "TAURUS",
+          "GEMINI",
+          "LEO"
+        ],
+        "tier": "blue"
+      },
+      {
+        "category": "Insects",
+        "words": [
+          "BEETLE",
+          "CRICKET",
+          "MANTIS",
+          "MOTH"
+        ],
+        "tier": "purple"
+      }
+    ]
+  }
+}
